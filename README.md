@@ -17,3 +17,13 @@ object relation hallucination
         "type": "relation"
     }
 ```
+
+
+possible baselines
+
+- [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
+- [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+- [Video Chat2](https://github.com/OpenGVLab/Ask-Anything)
+- [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)
+- [InternVideo](https://github.com/OpenGVLab/InternVideo)
+- [Valley](https://github.com/RupertLuo/Valley)
