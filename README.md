@@ -18,6 +18,25 @@ object relation hallucination
     }
 ```
 
+semantic hallucination
+
+`semantic_hallucination/semantic_hallucination.json`
+```json
+{
+        "video_id": "kMJMR68Dz4s.mp4",
+        "positive": {
+            "video_id": "kMJMR68Dz4s_a.mp4",
+            "question": "Is there only one pen on the notebook in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "kMJMR68Dz4s_b.mp4",
+            "question": "Is there only one pen on the notebook in the video?",
+            "answer": "no"
+        }
+    }
+```
+
 
 possible baselines
 
