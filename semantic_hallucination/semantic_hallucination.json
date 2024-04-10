@@ -1,0 +1,1302 @@
+[
+    {
+        "video_id": "hp2YHxZ2v_k.mp4",
+        "positive": {
+            "video_id": "hp2YHxZ2v_k_a.mp4",
+            "question": "Is the man in the video holding an iron lunch box?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "hp2YHxZ2v_k_b.mp4",
+            "question": "Is the man in the video holding an iron lunch box?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "hxc--vbjrOU.mp4",
+        "positive": {
+            "video_id": "hxc--vbjrOU_a.mp4",
+            "question": "Does this video display 'Live English'?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "hxc--vbjrOU_b.mp4",
+            "question": "Does this video display 'Live English'?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i3_OHDIFUNA.mp4",
+        "positive": {
+            "video_id": "i3_OHDIFUNA_b.mp4",
+            "question": "Is the green note labeld on the Reticulum?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i3_OHDIFUNA_a.mp4",
+            "question": "Is the green note labeld on the Reticulum?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i60pSpcQkJg.mp4",
+        "positive": {
+            "video_id": "i60pSpcQkJg_b.mp4",
+            "question": "Are the dentures and teacup in contact with each other in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i60pSpcQkJg_a.mp4",
+            "question": "Are the dentures and teacup in contact with each other in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i83rz8gDO-A.mp4",
+        "positive": {
+            "video_id": "i83rz8gDO-A_b.mp4",
+            "question": "Does the athlete in the video look pained?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i83rz8gDO-A_a.mp4",
+            "question": "Does the athlete in the video look pained?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iCRMh0DIYcs.mp4",
+        "positive": {
+            "video_id": "iCRMh0DIYcs_b.mp4",
+            "question": "Is there cat food in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iCRMh0DIYcs_a.mp4",
+            "question": "Is there cat food in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iiGfiDngYcE.mp4",
+        "positive": {
+            "video_id": "iiGfiDngYcE_a.mp4",
+            "question": "Is the tank in the snow in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iiGfiDngYcE_b.mp4",
+            "question": "Is the tank in the snow in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iIHDyf7CZ_s.mp4",
+        "positive": {
+            "video_id": "iIHDyf7CZ_s_b.mp4",
+            "question": "Is there a burning baseball in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iIHDyf7CZ_s_a.mp4",
+            "question": "Is there a burning baseball in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iuK-oRXzAOY.mp4",
+        "positive": {
+            "video_id": "iuK-oRXzAOY_a.mp4",
+            "question": "Does the person cut the onion in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iuK-oRXzAOY_b.mp4",
+            "question": "Does the person cut the onion in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iyIaCwjUqLc.mp4",
+        "positive": {
+            "video_id": "iyIaCwjUqLc_b.mp4",
+            "question": "Are the people in the video lifting a wooden frame?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iyIaCwjUqLc_a.mp4",
+            "question": "Are the people in the video lifting a wooden frame?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jb7YZwHICWc.mp4",
+        "positive": {
+            "video_id": "jb7YZwHICWc_a.mp4",
+            "question": "Is there a person wearing an orange vest running past in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jb7YZwHICWc_b.mp4",
+            "question": "Is there a person wearing an orange vest running past in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jGCJKDFwJc0.mp4",
+        "positive": {
+            "video_id": "jGCJKDFwJc0_a.mp4",
+            "question": "Is there a flame on the workbench in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jGCJKDFwJc0_b.mp4",
+            "question": "Is there a flame on the workbench in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jPBy6VTCfnM.mp4",
+        "positive": {
+            "video_id": "jPBy6VTCfnM_b.mp4",
+            "question": "Are there turned-on monitors on most of the tables in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jPBy6VTCfnM_a.mp4",
+            "question": "Are there turned-on monitors on most of the tables in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jsF409OUHZU.mp4",
+        "positive": {
+            "video_id": "jsF409OUHZU_a.mp4",
+            "question": "Does the video show a complete motorcycle?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jsF409OUHZU_b.mp4",
+            "question": "Does the video show a complete motorcycle?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "k7fCasoFON8.mp4",
+        "positive": {
+            "video_id": "k7fCasoFON8_a.mp4",
+            "question": "Does the person in the video have coffee beans in their hand?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "k7fCasoFON8_b.mp4",
+            "question": "Does the person in the video have coffee beans in their hand?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KcVqDKbeJSc.mp4",
+        "positive": {
+            "video_id": "KcVqDKbeJSc_b.mp4",
+            "question": "Are there many ships in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KcVqDKbeJSc_a.mp4",
+            "question": "Are there many ships in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "kGN8LSB76-s.mp4",
+        "positive": {
+            "video_id": "kGN8LSB76-s_b.mp4",
+            "question": "Does the person touching the mango have a red bracelet on their hand?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "kGN8LSB76-s_a.mp4",
+            "question": "Does the person touching the mango have a red bracelet on their hand?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "Kj-PPO0bjUM.mp4",
+        "positive": {
+            "video_id": "Kj-PPO0bjUM_a.mp4",
+            "question": "Is there an electric fan in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "Kj-PPO0bjUM_b.mp4",
+            "question": "Is there an electric fan in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KVjBAqFswrU.mp4",
+        "positive": {
+            "video_id": "KVjBAqFswrU_b.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KVjBAqFswrU_a.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KXn_cvOzGX4.mp4",
+        "positive": {
+            "video_id": "KXn_cvOzGX4_b.mp4",
+            "question": "Does the person in the video touch their face with their hand?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KXn_cvOzGX4_a.mp4",
+            "question": "Does the person in the video touch their face with their hand?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "hozzWu46cmk.mp4",
+        "positive": {
+            "video_id": "hozzWu46cmk_b.mp4",
+            "question": "Does the person cut the paper in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "hozzWu46cmk_a.mp4",
+            "question": "Does the person cut the paper in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "hp4jYAZyUw0.mp4",
+        "positive": {
+            "video_id": "hp4jYAZyUw0_a.mp4",
+            "question": "Does the blogger display a picture of mosquito in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "hp4jYAZyUw0_b.mp4",
+            "question": "Does the blogger display a picture of mosquito in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "hrTqvl_ymeI.mp4",
+        "positive": {
+            "video_id": "hrTqvl_ymeI_a.mp4",
+            "question": "Is there a video played in the web?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "hrTqvl_ymeI_b.mp4",
+            "question": "Is there a video played in the web?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "hy1rWx-dhog.mp4",
+        "positive": {
+            "video_id": "hy1rWx-dhog_a.mp4",
+            "question": "Does the man in white hat touch another man?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "hy1rWx-dhog_b.mp4",
+            "question": "Does the man in white hat touch another man?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i2AgYj03n-g.mp4",
+        "positive": {
+            "video_id": "i2AgYj03n-g_b.mp4",
+            "question": "Does the woman hold plastic cups?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i2AgYj03n-g_a.mp4",
+            "question": "Does the woman hold plastic cups?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i7Cfw9sfWpY.mp4",
+        "positive": {
+            "video_id": "i7Cfw9sfWpY_a.mp4",
+            "question": "Is there a man hold a cell phone in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i7Cfw9sfWpY_b.mp4",
+            "question": "Is there a man hold a cell phone in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i8Tiw-wRPNw.mp4",
+        "positive": {
+            "video_id": "i8Tiw-wRPNw_b.mp4",
+            "question": "Is the wooden board in the video placed horizontally on the shelf?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i8Tiw-wRPNw_a.mp4",
+            "question": "Is the wooden board in the video placed horizontally on the shelf?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i9n6_3LRSug.mp4",
+        "positive": {
+            "video_id": "i9n6_3LRSug_a.mp4",
+            "question": "Is the scope in the video turned on?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i9n6_3LRSug_b.mp4",
+            "question": "Is the scope in the video turned on?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iavfIE9XAec.mp4",
+        "positive": {
+            "video_id": "iavfIE9XAec_a.mp4",
+            "question": "Does the blogger in white hat touch his hat?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iavfIE9XAec_b.mp4",
+            "question": "Does the blogger in white hat touch his hat?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "ibFXVNU7yXA.mp4",
+        "positive": {
+            "video_id": "ibFXVNU7yXA_b.mp4",
+            "question": "Has the knife in the video been sharpened?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "ibFXVNU7yXA_a.mp4",
+            "question": "Has the knife in the video been sharpened?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "ic0hxOBpn7Q.mp4",
+        "positive": {
+            "video_id": "ic0hxOBpn7Q_a.mp4",
+            "question": "are the red capsules neatly arranged In the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "ic0hxOBpn7Q_b.mp4",
+            "question": "are the red capsules neatly arranged In the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "icAvVS9a_2I.mp4",
+        "positive": {
+            "video_id": "icAvVS9a_2I_a.mp4",
+            "question": "Does the woman write on a paper in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "icAvVS9a_2I_b.mp4",
+            "question": "Does the woman write on a paper in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "i-cOSMILr04.mp4",
+        "positive": {
+            "video_id": "i-cOSMILr04_a.mp4",
+            "question": "Is there a man in black suit face to the camera",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "i-cOSMILr04_b.mp4",
+            "question": "Is there a man in black suit face to the camera",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "id2twaQZOvk.mp4",
+        "positive": {
+            "video_id": "id2twaQZOvk_a.mp4",
+            "question": "Does the person hold a cell phone in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "id2twaQZOvk_b.mp4",
+            "question": "Does the person hold a cell phone in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "id-ANJSGsTk.mp4",
+        "positive": {
+            "video_id": "id-ANJSGsTk_b.mp4",
+            "question": "Is there a single-eye monster in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "id-ANJSGsTk_a.mp4",
+            "question": "Is there a single-eye monster in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iEBr6EjNsio.mp4",
+        "positive": {
+            "video_id": "iEBr6EjNsio_b.mp4",
+            "question": "Is the plastic container in the video covered?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iEBr6EjNsio_a.mp4",
+            "question": "Is the plastic container in the video covered?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iedcEHJyPRQ.mp4",
+        "positive": {
+            "video_id": "iedcEHJyPRQ_a.mp4",
+            "question": "Is there a man wear head phone in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iedcEHJyPRQ_b.mp4",
+            "question": "Is there a man wear head phone in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iFaXkHgtlKI.mp4",
+        "positive": {
+            "video_id": "iFaXkHgtlKI_b.mp4",
+            "question": "Does the character hold a book?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iFaXkHgtlKI_a.mp4",
+            "question": "Does the character hold a book?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "igzYA7KmVoI.mp4",
+        "positive": {
+            "video_id": "igzYA7KmVoI_b.mp4",
+            "question": "Does the girl in the video make a fist?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "igzYA7KmVoI_a.mp4",
+            "question": "Does the girl in the video make a fist?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iHeMNK1_ugA.mp4",
+        "positive": {
+            "video_id": "iHeMNK1_ugA_a.mp4",
+            "question": "Is the character introduction card in the video 27 years old?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iHeMNK1_ugA_b.mp4",
+            "question": "Is the character introduction card in the video 27 years old?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iILceSYNmqo.mp4",
+        "positive": {
+            "video_id": "iILceSYNmqo_b.mp4",
+            "question": "Does the person show his hand in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iILceSYNmqo_a.mp4",
+            "question": "Does the person show his hand in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "ii_VXUO9VIw.mp4",
+        "positive": {
+            "video_id": "ii_VXUO9VIw_b.mp4",
+            "question": "Is the thumb pointing up in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "ii_VXUO9VIw_a.mp4",
+            "question": "Is the thumb pointing up in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iIx8qdBmCOA.mp4",
+        "positive": {
+            "video_id": "iIx8qdBmCOA_b.mp4",
+            "question": "Does the person turn around?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iIx8qdBmCOA_a.mp4",
+            "question": "Does the person turn around?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "ijsUjCgGw60.mp4",
+        "positive": {
+            "video_id": "ijsUjCgGw60_b.mp4",
+            "question": "Is there a cat in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "ijsUjCgGw60_a.mp4",
+            "question": "Is there a cat in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iKjEoPA0LlY.mp4",
+        "positive": {
+            "video_id": "iKjEoPA0LlY_b.mp4",
+            "question": "Does the woman in the video take off her glasses?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iKjEoPA0LlY_a.mp4",
+            "question": "Does the woman in the video take off her glasses?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iKMhCAd6H0M.mp4",
+        "positive": {
+            "video_id": "iKMhCAd6H0M_a.mp4",
+            "question": "Is there a sesame seed cake in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iKMhCAd6H0M_b.mp4",
+            "question": "Is there a sesame seed cake in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iL9qE0jUcGg.mp4",
+        "positive": {
+            "video_id": "iL9qE0jUcGg_b.mp4",
+            "question": "Is the person in the video holding metal wires?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iL9qE0jUcGg_a.mp4",
+            "question": "Is the person in the video holding metal wires?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "ioD5sEQAhkM.mp4",
+        "positive": {
+            "video_id": "ioD5sEQAhkM_b.mp4",
+            "question": "Is the person in the video holding a blue rag?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "ioD5sEQAhkM_a.mp4",
+            "question": "Is the person in the video holding a blue rag?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iP0H2YVVWD8.mp4",
+        "positive": {
+            "video_id": "iP0H2YVVWD8_a.mp4",
+            "question": "Is the man in white hair?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iP0H2YVVWD8_b.mp4",
+            "question": "Is the man in white hair?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iPxc6iPUXu8.mp4",
+        "positive": {
+            "video_id": "iPxc6iPUXu8_b.mp4",
+            "question": "Is the basketball on the hoop in the video",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iPxc6iPUXu8_a.mp4",
+            "question": "Is the basketball on the hoop in the video",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iR2RSYvDAgo.mp4",
+        "positive": {
+            "video_id": "iR2RSYvDAgo_b.mp4",
+            "question": "Is a video played on the screen in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iR2RSYvDAgo_a.mp4",
+            "question": "Is a video played on the screen in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "irKMYXVJDmI.mp4",
+        "positive": {
+            "video_id": "irKMYXVJDmI_b.mp4",
+            "question": "Does a character in black long hair in appear in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "irKMYXVJDmI_a.mp4",
+            "question": "Does a character in black long hair in appear in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iTrCql47ZCQ.mp4",
+        "positive": {
+            "video_id": "iTrCql47ZCQ_a.mp4",
+            "question": "Does the cartoon train turn around in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iTrCql47ZCQ_b.mp4",
+            "question": "Does the cartoon train turn around in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "itsQ-kABiQM.mp4",
+        "positive": {
+            "video_id": "itsQ-kABiQM_a.mp4",
+            "question": "Is there a white glove in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "itsQ-kABiQM_b.mp4",
+            "question": "Is there a white glove in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iW76sdCrCKw.mp4",
+        "positive": {
+            "video_id": "iW76sdCrCKw_b.mp4",
+            "question": "Has the dragon fruit been cut into pieces in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iW76sdCrCKw_a.mp4",
+            "question": "Has the dragon fruit been cut into pieces in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iwocYHIXxNw.mp4",
+        "positive": {
+            "video_id": "iwocYHIXxNw_a.mp4",
+            "question": "Is the person in the video facing away from the camera?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iwocYHIXxNw_b.mp4",
+            "question": "Is the person in the video facing away from the camera?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iX2oUQgyCNY.mp4",
+        "positive": {
+            "video_id": "iX2oUQgyCNY_b.mp4",
+            "question": "Does the cursor click on the video icon?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iX2oUQgyCNY_a.mp4",
+            "question": "Does the cursor click on the video icon?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iycwcI14UsQ.mp4",
+        "positive": {
+            "video_id": "iycwcI14UsQ_b.mp4",
+            "question": "Is the machined placed on ground?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iycwcI14UsQ_a.mp4",
+            "question": "Is the machined placed on ground?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iySvcjv2nZk.mp4",
+        "positive": {
+            "video_id": "iySvcjv2nZk_b.mp4",
+            "question": "Does a girl walk past a woman in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iySvcjv2nZk_a.mp4",
+            "question": "Does a girl walk past a woman in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "iyX6ZXCS33A.mp4",
+        "positive": {
+            "video_id": "iyX6ZXCS33A_b.mp4",
+            "question": "Does the TNT explode in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "iyX6ZXCS33A_a.mp4",
+            "question": "Does the TNT explode in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "j0u93ILzP5U.mp4",
+        "positive": {
+            "video_id": "j0u93ILzP5U_b.mp4",
+            "question": "Are these people are talking in door in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "j0u93ILzP5U_a.mp4",
+            "question": "Are these people are talking in door in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "j2E8eS8fKgo.mp4",
+        "positive": {
+            "video_id": "j2E8eS8fKgo_b.mp4",
+            "question": "Is the corridor in the video full of people?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "j2E8eS8fKgo_a.mp4",
+            "question": "Is the corridor in the video full of people?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "j9fuM5pdZZU.mp4",
+        "positive": {
+            "video_id": "j9fuM5pdZZU_a.mp4",
+            "question": "Does the woman touch the monitor?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "j9fuM5pdZZU_b.mp4",
+            "question": "Does the woman touch the monitor?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jaFOkSUF900.mp4",
+        "positive": {
+            "video_id": "jaFOkSUF900_b.mp4",
+            "question": "Does the girl face the camera in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jaFOkSUF900_a.mp4",
+            "question": "Does the girl face the camera in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jAHxS0L-_sg.mp4",
+        "positive": {
+            "video_id": "jAHxS0L-_sg_b.mp4",
+            "question": "Does the woman walk across the bridge",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jAHxS0L-_sg_a.mp4",
+            "question": "Does the woman walk across the bridge",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jARjgdQRCOg.mp4",
+        "positive": {
+            "video_id": "jARjgdQRCOg_b.mp4",
+            "question": "Is there someone wearing black and white striped clothes in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jARjgdQRCOg_a.mp4",
+            "question": "Is there someone wearing black and white striped clothes in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jaVofbF8aIo.mp4",
+        "positive": {
+            "video_id": "jaVofbF8aIo_b.mp4",
+            "question": "Does the character in the video dig?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jaVofbF8aIo_a.mp4",
+            "question": "Does the character in the video dig?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jBojq8hKxJk.mp4",
+        "positive": {
+            "video_id": "jBojq8hKxJk_b.mp4",
+            "question": "Does the blogger display a picture in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jBojq8hKxJk_a.mp4",
+            "question": "Does the blogger display a picture in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jBPrpeeu18s.mp4",
+        "positive": {
+            "video_id": "jBPrpeeu18s_b.mp4",
+            "question": "Is there someone clapping in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jBPrpeeu18s_a.mp4",
+            "question": "Is there someone clapping in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jBywKgIq9N4.mp4",
+        "positive": {
+            "video_id": "jBywKgIq9N4_b.mp4",
+            "question": "Is the person eatting a cake?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jBywKgIq9N4_a.mp4",
+            "question": "Is the person eatting a cake?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jCGJqpQHDWU.mp4",
+        "positive": {
+            "video_id": "jCGJqpQHDWU_a.mp4",
+            "question": "Is 'MATH Book Interactive' displayed in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jCGJqpQHDWU_b.mp4",
+            "question": "Is 'MATH Book Interactive' displayed in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jddw6XKOzuA.mp4",
+        "positive": {
+            "video_id": "jddw6XKOzuA_a.mp4",
+            "question": "Is there a tree with red leaves in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jddw6XKOzuA_b.mp4",
+            "question": "Is there a tree with red leaves in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jEKZSToclcs.mp4",
+        "positive": {
+            "video_id": "jEKZSToclcs_b.mp4",
+            "question": "Does the video show broken tiles inside the house?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jEKZSToclcs_a.mp4",
+            "question": "Does the video show broken tiles inside the house?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jfAX71eXuPA.mp4",
+        "positive": {
+            "video_id": "jfAX71eXuPA_a.mp4",
+            "question": "Does the person open the window in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jfAX71eXuPA_b.mp4",
+            "question": "Does the person open the window in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jfqV3Lo66gw.mp4",
+        "positive": {
+            "video_id": "jfqV3Lo66gw_a.mp4",
+            "question": "Does the basketball go into the hoop in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jfqV3Lo66gw_b.mp4",
+            "question": "Does the basketball go into the hoop in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jGLv0_XkG1o.mp4",
+        "positive": {
+            "video_id": "jGLv0_XkG1o_a.mp4",
+            "question": "Does the man holding a flower walk around?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jGLv0_XkG1o_b.mp4",
+            "question": "Does the man holding a flower walk around?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jGPybCU_Zuo.mp4",
+        "positive": {
+            "video_id": "jGPybCU_Zuo_a.mp4",
+            "question": "Does the person in the video pour something into the pot?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jGPybCU_Zuo_b.mp4",
+            "question": "Does the person in the video pour something into the pot?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jK2tZ1CWrGw.mp4",
+        "positive": {
+            "video_id": "jK2tZ1CWrGw_b.mp4",
+            "question": "Is there a person in white suit?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jK2tZ1CWrGw_a.mp4",
+            "question": "Is there a person in white suit?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jma0V7sh1cg.mp4",
+        "positive": {
+            "video_id": "jma0V7sh1cg_a.mp4",
+            "question": "Does the robot move around in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jma0V7sh1cg_b.mp4",
+            "question": "Does the robot move around in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jpwr5vOz8Ic.mp4",
+        "positive": {
+            "video_id": "jpwr5vOz8Ic_a.mp4",
+            "question": "Does the blogger display Chinese character in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jpwr5vOz8Ic_b.mp4",
+            "question": "Does the blogger display Chinese character in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jq2bw75Bmpo.mp4",
+        "positive": {
+            "video_id": "jq2bw75Bmpo_b.mp4",
+            "question": "Does these people sit in door?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jq2bw75Bmpo_a.mp4",
+            "question": "Does these people sit in door?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jubrtJMjQwg.mp4",
+        "positive": {
+            "video_id": "jubrtJMjQwg_a.mp4",
+            "question": "Does 'THA106' displayed in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jubrtJMjQwg_b.mp4",
+            "question": "Does 'THA106' displayed in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jUY_pXGzTaA.mp4",
+        "positive": {
+            "video_id": "jUY_pXGzTaA_a.mp4",
+            "question": "Does the man in the video lift a barbell?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jUY_pXGzTaA_b.mp4",
+            "question": "Does the man in the video lift a barbell?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "j-Z7PSu7mlc.mp4",
+        "positive": {
+            "video_id": "j-Z7PSu7mlc_b.mp4",
+            "question": "Are there three words displayed in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "j-Z7PSu7mlc_a.mp4",
+            "question": "Are there three words displayed in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jzAv9ylqT3I.mp4",
+        "positive": {
+            "video_id": "jzAv9ylqT3I_a.mp4",
+            "question": "Does the character in the video move backwards?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jzAv9ylqT3I_b.mp4",
+            "question": "Does the character in the video move backwards?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "jzVhPZg0Ods.mp4",
+        "positive": {
+            "video_id": "jzVhPZg0Ods_a.mp4",
+            "question": "Is the woman in the video drawing her eyebrows?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "jzVhPZg0Ods_b.mp4",
+            "question": "Is the woman in the video drawing her eyebrows?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "k03SciT1OqU.mp4",
+        "positive": {
+            "video_id": "k03SciT1OqU_b.mp4",
+            "question": "Does the woman hold a plate of sandwich",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "k03SciT1OqU_a.mp4",
+            "question": "Does the woman hold a plate of sandwich",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "K1skbJRYjQI.mp4",
+        "positive": {
+            "video_id": "K1skbJRYjQI_a.mp4",
+            "question": "Does the man wear a white T-shirt in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "K1skbJRYjQI_b.mp4",
+            "question": "Does the man wear a white T-shirt in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "k2zII3KN_M8.mp4",
+        "positive": {
+            "video_id": "k2zII3KN_M8_a.mp4",
+            "question": "Is there a red spot in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "k2zII3KN_M8_b.mp4",
+            "question": "Is there a red spot in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "k4QN_H9Cnk0.mp4",
+        "positive": {
+            "video_id": "k4QN_H9Cnk0_b.mp4",
+            "question": "Is the car in the video emitting exhaust?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "k4QN_H9Cnk0_a.mp4",
+            "question": "Is the car in the video emitting exhaust?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KCJy6jwAFME.mp4",
+        "positive": {
+            "video_id": "KCJy6jwAFME_a.mp4",
+            "question": "Is the person getting a haircut in the video facing away from the camera?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KCJy6jwAFME_b.mp4",
+            "question": "Is the person getting a haircut in the video facing away from the camera?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KDnUgPptioQ.mp4",
+        "positive": {
+            "video_id": "KDnUgPptioQ_b.mp4",
+            "question": "Is the person in the video using a stick to stir the corn in the blender?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KDnUgPptioQ_a.mp4",
+            "question": "Is the person in the video using a stick to stir the corn in the blender?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "kEV-f3KxS1Y.mp4",
+        "positive": {
+            "video_id": "kEV-f3KxS1Y_b.mp4",
+            "question": "Is a group of ducks walking on the ground in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "kEV-f3KxS1Y_a.mp4",
+            "question": "Is a group of ducks walking on the ground in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KgbotCgmfFo.mp4",
+        "positive": {
+            "video_id": "KgbotCgmfFo_b.mp4",
+            "question": "Does the woman touch the cell phone in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KgbotCgmfFo_a.mp4",
+            "question": "Does the woman touch the cell phone in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KLva05udRsM.mp4",
+        "positive": {
+            "video_id": "KLva05udRsM_b.mp4",
+            "question": "Does the person hold a pot in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KLva05udRsM_a.mp4",
+            "question": "Does the person hold a pot in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "kMJMR68Dz4s.mp4",
+        "positive": {
+            "video_id": "kMJMR68Dz4s_a.mp4",
+            "question": "Is there only one pen on the notebook in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "kMJMR68Dz4s_b.mp4",
+            "question": "Is there only one pen on the notebook in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KPBNnfzPAoQ.mp4",
+        "positive": {
+            "video_id": "KPBNnfzPAoQ_a.mp4",
+            "question": "Can we only see the profile of the singer in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KPBNnfzPAoQ_b.mp4",
+            "question": "Can we only see the profile of the singer in the video?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KQPqQl3D88Q.mp4",
+        "positive": {
+            "video_id": "KQPqQl3D88Q_b.mp4",
+            "question": "Are the people in the video only playing with pillows indoors?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KQPqQl3D88Q_a.mp4",
+            "question": "Are the people in the video only playing with pillows indoors?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KSiwci721Gg.mp4",
+        "positive": {
+            "video_id": "KSiwci721Gg_b.mp4",
+            "question": "Does the host in the video show her hands?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KSiwci721Gg_a.mp4",
+            "question": "Does the host in the video show her hands?",
+            "answer": "no"
+        }
+    },
+    {
+        "video_id": "KYxm2Ocfsag.mp4",
+        "positive": {
+            "video_id": "KYxm2Ocfsag_a.mp4",
+            "question": "Is there someone wearing a green hat in the video?",
+            "answer": "yes"
+        },
+        "negative": {
+            "video_id": "KYxm2Ocfsag_b.mp4",
+            "question": "Is there someone wearing a green hat in the video?",
+            "answer": "no"
+        }
+    }
+]
