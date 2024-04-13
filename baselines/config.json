@@ -1,0 +1,4 @@
+{
+    "CKPT_DIR": "checkpoints",
+    "DATA_DIR": "../havebench_datasets"
+}

@@ -1,4 +1,8 @@
 # local files
+baselines/Video-LLaVA
+baselines/checkpoints/*
+baselines/cache_dir/*
+baselines/results/*
 raw/
 *.mp4
 

@@ -1,1202 +1,1202 @@
 [
     {
-        "video_id": "ILSVRC2015_train_00265005_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00265005_0_30.mp4",
             "question": "Is there a bird in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00265005_0_30.mp4",
             "question": "Is there a crow in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00005012_0_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00005012_0_45.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00005012_0_45.mp4",
             "question": "Is there a toy dog in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00797005_15_120.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00797005_15_120.mp4",
             "question": "Is there a horse in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00797005_15_120.mp4",
             "question": "Is there a zebra in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00228001_0_195.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00228001_0_195.mp4",
             "question": "Is there a giant panda in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00228001_0_195.mp4",
             "question": "Is there a red panda in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00028005_330_375.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00028005_330_375.mp4",
             "question": "Is there a watercraft in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00028005_330_375.mp4",
             "question": "Is there a submarine in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00699000_375_405.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00699000_375_405.mp4",
             "question": "Is there a lizard in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00699000_375_405.mp4",
             "question": "Is there a chameleon in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00681000_75_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00681000_75_105.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00681000_75_105.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00267002_300_330.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00267002_300_330.mp4",
             "question": "Is there a tiger in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00267002_300_330.mp4",
             "question": "Is there a jaguar in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00887001_0_165.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00887001_0_165.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00887001_0_165.mp4",
             "question": "Is there a robot in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00074009_285_315.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00074009_285_315.mp4",
             "question": "Is there a giant panda in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00074009_285_315.mp4",
             "question": "Is there a red panda in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00878000_0_120.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00878000_0_120.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00878000_0_120.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00416000_165_195.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00416000_165_195.mp4",
             "question": "Is there a bird in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00416000_165_195.mp4",
             "question": "Is there a toucan in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00072000_60_180.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00072000_60_180.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00072000_60_180.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00930000_240_270.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00930000_240_270.mp4",
             "question": "Is there a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00930000_240_270.mp4",
             "question": "Is there a gorilla in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00645000_105_210.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00645000_105_210.mp4",
             "question": "Is there a fox in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00645000_105_210.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00219001_255_285.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00219001_255_285.mp4",
             "question": "Is there a fox in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00219001_255_285.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00190000_15_75.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00190000_15_75.mp4",
             "question": "Is there a elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00190000_15_75.mp4",
             "question": "Is there a rhino in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00025031_15_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00025031_15_45.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00025031_15_45.mp4",
             "question": "Is there a child in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00818000_0_165.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00818000_0_165.mp4",
             "question": "Is there a watercraft in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00818000_0_165.mp4",
             "question": "Is there a submarine in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00398000_30_60.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00398000_30_60.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00398000_30_60.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00554000_420_495.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00554000_420_495.mp4",
             "question": "Is there a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00554000_420_495.mp4",
             "question": "Is there a chimpanzee in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00072000_165_195.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00072000_165_195.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00072000_165_195.mp4",
             "question": "Is there a woman in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00940003_90_150.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00940003_90_150.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00940003_90_150.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00309003_30_75.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00309003_30_75.mp4",
             "question": "Is there a antelope in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00309003_30_75.mp4",
             "question": "Is there a gazelle in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_0_60.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_0_60.mp4",
             "question": "Is there a elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_0_60.mp4",
             "question": "Is there a giraffe in the video?",
             "answer": "no"
-        },
-        "type": "subject"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00878000_0_120.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00878000_0_120.mp4",
             "question": "Is there a car in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00878000_0_120.mp4",
             "question": "Is there a truck in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_0_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Is there a man in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00908000_0_90.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00908000_0_90.mp4",
             "question": "Is there a giant panda in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00908000_0_90.mp4",
             "question": "Is there a red panda in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00884000_0_150.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00884000_0_150.mp4",
             "question": "Is there a airplane in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00884000_0_150.mp4",
             "question": "Is there a helicopter in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00091008_255_300.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00091008_255_300.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00091008_255_300.mp4",
             "question": "Is there a a wolf in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00376001_480_525.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00376001_480_525.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00376001_480_525.mp4",
             "question": "Is there a statue in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00554000_345_405.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00554000_345_405.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00554000_345_405.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00040024_45_90.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00040024_45_90.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00040024_45_90.mp4",
             "question": "Is there a chimpanzee in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00091004_0_150.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00091004_0_150.mp4",
             "question": "Is there a snake in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00091004_0_150.mp4",
             "question": "Is there a worm in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00898000_15_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00898000_15_45.mp4",
             "question": "Is there a lion in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00898000_15_45.mp4",
             "question": "Is there a tiger in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01083001_180_345.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01083001_180_345.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01083001_180_345.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00898000_120_150.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00898000_120_150.mp4",
             "question": "Is there a lion in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00898000_120_150.mp4",
             "question": "Is there a tiger in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00554000_480_510.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00554000_480_510.mp4",
             "question": "Is there a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00554000_480_510.mp4",
             "question": "Is there a gorilla in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00398000_30_60.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00398000_30_60.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00398000_30_60.mp4",
             "question": "Is there a cat in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01144003_810_840.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01144003_810_840.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01144003_810_840.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00290014_0_90.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00290014_0_90.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00290014_0_90.mp4",
             "question": "Is there a coyote in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00077002_135_195.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00077002_135_195.mp4",
             "question": "Is there a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00077002_135_195.mp4",
             "question": "Is there a gorilla in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00476001_600_810.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00476001_600_810.mp4",
             "question": "Is there a bear in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00476001_600_810.mp4",
             "question": "Is there a panda in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00870000_465_525.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00870000_465_525.mp4",
             "question": "Is there a bird in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00870000_465_525.mp4",
             "question": "Is there a flamingo in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01022000_0_285.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01022000_0_285.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01022000_0_285.mp4",
             "question": "Is there a toy dog in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00376001_480_525.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00376001_480_525.mp4",
             "question": "Is there an elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00376001_480_525.mp4",
             "question": "Is there a mammoth in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00250021_30_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00250021_30_105.mp4",
             "question": "Is there a motorcycle in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00250021_30_105.mp4",
             "question": "Is there a bicycle in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00081001_240_270.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00081001_240_270.mp4",
             "question": "Is there a horse in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00081001_240_270.mp4",
             "question": "Is there a zebra in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00025031_15_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00025031_15_45.mp4",
             "question": "Is there a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00025031_15_45.mp4",
             "question": "Is there an old man in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00290007_0_90.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00290007_0_90.mp4",
             "question": "Is there a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00290007_0_90.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        },
-        "type": "object"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00267002_210_240.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00267002_210_240.mp4",
             "question": "Does a tiger walk next to a tiger in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00267002_210_240.mp4",
             "question": "Does a tiger walk behind a tiger in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01022000_255_285.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01022000_255_285.mp4",
             "question": "Is a dog next to a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01022000_255_285.mp4",
             "question": "Is a dog far from a dog in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00674000_225_270.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00674000_225_270.mp4",
             "question": "Does a zebra stand behind a zebra in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00674000_225_270.mp4",
             "question": "Does a zebra stand above a zebra in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_0_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_0_45.mp4",
             "question": "Is a ball right to an elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_0_45.mp4",
             "question": "Is a ball left to an elephant in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00940003_30_75.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00940003_30_75.mp4",
             "question": "Is a person above a bicycle in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00940003_30_75.mp4",
             "question": "Is a person below a bicycle in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00046001_0_210.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00046001_0_210.mp4",
             "question": "Does a giant panda play a giant panda in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00046001_0_210.mp4",
             "question": "Does a giant panda leave a giant panda in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00072000_165_195.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00072000_165_195.mp4",
             "question": "Does a person stand behind a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00072000_165_195.mp4",
             "question": "Does a person stand infront a dog in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00051009_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00051009_0_30.mp4",
             "question": "Is a ball beneath a domestic cat in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00051009_0_30.mp4",
             "question": "Is a ball above a domestic cat in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00225000_75_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00225000_75_105.mp4",
             "question": "Is a person toward a car in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00225000_75_105.mp4",
             "question": "Is a person away a car in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00267002_210_270.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00267002_210_270.mp4",
             "question": "Does a tiger play with a tiger in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00267002_210_270.mp4",
             "question": "Does a tiger beat a tiger in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01144003_240_900.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01144003_240_900.mp4",
             "question": "Is a person in front of an elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01144003_240_900.mp4",
             "question": "Is a person on back of an elephant in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00674000_450_480.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00674000_450_480.mp4",
             "question": "Does a zebra run left a zebra in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00674000_450_480.mp4",
             "question": "Does a zebra leave a zebra in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00028005_105_255.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00028005_105_255.mp4",
             "question": "Does a watercraft move with a watercraft in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00028005_105_255.mp4",
             "question": "Does a watercraft stand still a watercraft in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00309003_30_75.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00309003_30_75.mp4",
             "question": "Is an antelope run front a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00309003_30_75.mp4",
             "question": "Is an antelope fall behind a monkey in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00199006_120_315.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00199006_120_315.mp4",
             "question": "Does a bear lie left a bear in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00199006_120_315.mp4",
             "question": "Does a bear sit right a bear in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00253023_0_60.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00253023_0_60.mp4",
             "question": "Does a person hold a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00253023_0_60.mp4",
             "question": "Does a person leave a dog in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00969000_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00969000_0_30.mp4",
             "question": "Does a domestic cat fight a lizard in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00969000_0_30.mp4",
             "question": "Does a domestic cat surrender a lizard in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00057005_0_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00057005_0_45.mp4",
             "question": "Does a red panda walk toward a red panda in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00057005_0_45.mp4",
             "question": "Does a red panda walk away a red panda in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00290017_0_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00290017_0_45.mp4",
             "question": "Is a dog faster than a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00290017_0_45.mp4",
             "question": "Does a dog fight a dog in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_0_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Does an elephant stand next to a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Does an elephant stand far away from a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00309003_15_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00309003_15_45.mp4",
             "question": "Does an antelope jump front a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00309003_15_45.mp4",
             "question": "Does an antelope jump back a monkey in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00267002_300_555.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00267002_300_555.mp4",
             "question": "Does a tiger stand next to a tiger in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00267002_300_555.mp4",
             "question": "Does a tiger stand far away a tiger in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_0_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Does an elephant touch a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Does an elephant leave a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00869000_270_315.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00869000_270_315.mp4",
             "question": "Does a bird jump toward a bird in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00869000_270_315.mp4",
             "question": "Does a bird jump away from a bird in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00887001_135_165.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00887001_135_165.mp4",
             "question": "Does a dog run right a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00887001_135_165.mp4",
             "question": "Does a dog stand still by a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00199006_60_315.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00199006_60_315.mp4",
             "question": "Does a bear lie front a bear in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00199006_60_315.mp4",
             "question": "Does a bear run behind a bear in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00887001_0_165.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00887001_0_165.mp4",
             "question": "Does a dog watch a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00887001_0_165.mp4",
             "question": "Does a dog ignore a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00416000_165_195.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00416000_165_195.mp4",
             "question": "Is a bird in front of a bird in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00416000_165_195.mp4",
             "question": "Is a bird on above of a bird in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00930000_330_360.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00930000_330_360.mp4",
             "question": "Does a monkey creep beneath a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00930000_330_360.mp4",
             "question": "Does a monkey rise above a monkey in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00309003_0_240.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00309003_0_240.mp4",
             "question": "Is an antelope larger a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00309003_0_240.mp4",
             "question": "Is an antelope smaller a monkey in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00005004_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00005004_0_30.mp4",
             "question": "Is a dog larger a frisbee in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00005004_0_30.mp4",
             "question": "Is a dog smaller a frisbee in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00081001_0_495.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00081001_0_495.mp4",
             "question": "Is a horse larger a horse in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00081001_0_495.mp4",
             "question": "Is a horse same with a horse in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00969000_30_60.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00969000_30_60.mp4",
             "question": "Does a domestic cat sit beneath a lizard in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00969000_30_60.mp4",
             "question": "Does a domestic cat stand above a lizard in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00376003_0_165.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00376003_0_165.mp4",
             "question": "Does an elephant stand with an elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00376003_0_165.mp4",
             "question": "Does an elephant walk away from an elephant in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00025008_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00025008_0_30.mp4",
             "question": "Is a sofa larger than a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00025008_0_30.mp4",
             "question": "Is a sofa smaller than a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00376001_0_600.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00376001_0_600.mp4",
             "question": "Is an elephant larger than an elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00376001_0_600.mp4",
             "question": "Is an elephant same with an elephant in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01144003_510_690.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01144003_510_690.mp4",
             "question": "Does an elephant lie behind a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01144003_510_690.mp4",
             "question": "Does an elephant lie in front a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00290007_0_90.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00290007_0_90.mp4",
             "question": "Does a person sit front of a dog in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00290007_0_90.mp4",
             "question": "Does a person sit back of a dog in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00267002_300_555.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00267002_300_555.mp4",
             "question": "Does a tiger stand front a tiger in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00267002_300_555.mp4",
             "question": "Does a tiger lie above a tiger in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00187003_0_375.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00187003_0_375.mp4",
             "question": "Does a cattle sit right a cattle in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00187003_0_375.mp4",
             "question": "Does a cattle lean left a cattle in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_0_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_0_45.mp4",
             "question": "Does an elephant stand right a ball in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_0_45.mp4",
             "question": "Does an elephant sit left a ball in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00025008_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00025008_0_30.mp4",
             "question": "Does a person stand left a sofa in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00025008_0_30.mp4",
             "question": "Does a person sit right a sofa in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00898000_30_90.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00898000_30_90.mp4",
             "question": "Does a lion follow a lion in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00898000_30_90.mp4",
             "question": "Does a lion walk far away of a lion in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_val_00072000_15_45.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_val_00072000_15_45.mp4",
             "question": "Does a dog walk left a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_val_00072000_15_45.mp4",
             "question": "Does a dog walk right a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_30_105.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_30_105.mp4",
             "question": "Does a person watch an elephant in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_30_105.mp4",
             "question": "Does a person ignore an elephant in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00940003_15_75.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00940003_15_75.mp4",
             "question": "Is a bicycle beneath a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00940003_15_75.mp4",
             "question": "Is a bicycle above a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00896001_810_930.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00896001_810_930.mp4",
             "question": "Does a red panda sit right a red panda in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00896001_810_930.mp4",
             "question": "Does a red panda slouch a red panda in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_01141000_30_75.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_01141000_30_75.mp4",
             "question": "Is an elephant front of a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_01141000_30_75.mp4",
             "question": "Is an elephant back of a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00077002_135_210.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00077002_135_210.mp4",
             "question": "Does a monkey sit front a monkey in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00077002_135_210.mp4",
             "question": "Does a monkey run back to a monkey in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     },
     {
-        "video_id": "ILSVRC2015_train_00071015_0_30.mp4",
-        "positive": {
+        "basic": {
+            "video": "ILSVRC2015_train_00071015_0_30.mp4",
             "question": "Does a bicycle jump toward a person in the video?",
             "answer": "yes"
         },
-        "negative": {
+        "hallucination": {
+            "video": "ILSVRC2015_train_00071015_0_30.mp4",
             "question": "Does a bicycle move away a person in the video?",
             "answer": "no"
-        },
-        "type": "relation"
+        }
     }
 ]
