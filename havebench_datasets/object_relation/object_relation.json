@@ -1,6 +1,1306 @@
 [
     {
         "basic": {
+            "video": "1052_6143391925_916_970.mp4",
+            "question": "Is there a baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1052_6143391925_916_970.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1015_8464056582_819_887.mp4",
+            "question": "Is there a baby seat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1015_8464056582_819_887.mp4",
+            "question": "Is there a table in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1011_2984974097_0_55.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1011_2984974097_0_55.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1007_4976725963_0_19.mp4",
+            "question": "Is there a faucet in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_4976725963_0_19.mp4",
+            "question": "Is there a microphone in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "0071_4235959165_311_334.mp4",
+            "question": "Is there a bird in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0071_4235959165_311_334.mp4",
+            "question": "Is there an airplane in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1010_4915733559_42_1068.mp4",
+            "question": "Is there a table in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_4915733559_42_1068.mp4",
+            "question": "Is there a refrigerator in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1002_4151403382_1260_1847.mp4",
+            "question": "Is there a toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1002_4151403382_1260_1847.mp4",
+            "question": "Is there a robot in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1110_4372494989_871_917.mp4",
+            "question": "Is there a chair in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1110_4372494989_871_917.mp4",
+            "question": "Is there a ladder in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1002_5686660408_39_87.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1002_5686660408_39_87.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1007_4976725963_0_490.mp4",
+            "question": "Is there a sink in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_4976725963_0_490.mp4",
+            "question": "Is there a bathtub in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1007_8330342965_497_509.mp4",
+            "question": "Is there a toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_8330342965_497_509.mp4",
+            "question": "Is there a robot in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1110_6786501294_1536_1564.mp4",
+            "question": "Is there an adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1110_6786501294_1536_1564.mp4",
+            "question": "Is there a machine dog in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1164_6617533993_596_1004.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1164_6617533993_596_1004.mp4",
+            "question": "Is there a dog in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1110_6786501294_69_1805.mp4",
+            "question": "Is there a cake in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1110_6786501294_69_1805.mp4",
+            "question": "Is there a soap bar in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1162_10309542255_0_2566.mp4",
+            "question": "Is there a cattle/cow in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1162_10309542255_0_2566.mp4",
+            "question": "Is there a rhino/rhinoceros in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1200_3402648543_19_71.mp4",
+            "question": "Is there a bench in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1200_3402648543_19_71.mp4",
+            "question": "Is there a table in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1002_5863411262_797_929.mp4",
+            "question": "Is there an adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1002_5863411262_797_929.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "0039_4465235803_660_1014.mp4",
+            "question": "Is there a toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0039_4465235803_660_1014.mp4",
+            "question": "Is there a model airplane in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "0093_3861485381_780_870.mp4",
+            "question": "Is there a leopard in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0093_3861485381_780_870.mp4",
+            "question": "Is there a jaguar in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1102_7536230796_1056_1153.mp4",
+            "question": "Is there a bottle in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1102_7536230796_1056_1153.mp4",
+            "question": "Is there a vase in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "0033_2834146886_152_255.mp4",
+            "question": "Is there a laptop in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0033_2834146886_152_255.mp4",
+            "question": "Is there a book in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1101_8396167542_0_540.mp4",
+            "question": "Is there a chicken in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1101_8396167542_0_540.mp4",
+            "question": "Is there a turkey in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1019_4612723694_1486_1681.mp4",
+            "question": "Is there an adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1019_4612723694_1486_1681.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "0024_6542914065_0_146.mp4",
+            "question": "Is there a ball/sports ball in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0024_6542914065_0_146.mp4",
+            "question": "Is there a planet in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1007_3972259774_384_1063.mp4",
+            "question": "Is there a handbag in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_3972259774_384_1063.mp4",
+            "question": "Is there a bucket in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+    {
+        "basic": {
+            "video": "1007_4976725963_0_19.mp4",
+            "question": "Is there a sink in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_4976725963_0_19.mp4",
+            "question": "Is there a bathtub in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1101_3321261856_0_798.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1101_3321261856_0_798.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1202_3218498932_775_892.mp4",
+            "question": "Is there a laptop in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1202_3218498932_775_892.mp4",
+            "question": "Is there a book in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1015_8464056582_1078_1339.mp4",
+            "question": "Is there a baby seat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1015_8464056582_1078_1339.mp4",
+            "question": "Is there a bench in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1011_3550839192_780_973.mp4",
+            "question": "Is there a baby walker in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1011_3550839192_780_973.mp4",
+            "question": "Is there a shopping cart in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "0036_6704169045_2606_2696.mp4",
+            "question": "Is there a cat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0036_6704169045_2606_2696.mp4",
+            "question": "Is there a fox in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1164_6356067859_884_1033.mp4",
+            "question": "Is there a baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1164_6356067859_884_1033.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1011_2984974097_54_899.mp4",
+            "question": "Is there a bicycle in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1011_2984974097_54_899.mp4",
+            "question": "Is there a bus in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1110_3935853204_457_564.mp4",
+            "question": "Is there a adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1110_3935853204_457_564.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1001_4889681401_1680_1740.mp4",
+            "question": "Is there a adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1001_4889681401_1680_1740.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1201_5344655615_540_588.mp4",
+            "question": "Is there a chair in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1201_5344655615_540_588.mp4",
+            "question": "Is there a ladder in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1009_9408800471_420_510.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1009_9408800471_420_510.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1007_5544341146_0_38.mp4",
+            "question": "Is there a adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_5544341146_0_38.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1025_6244382586_150_618.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1025_6244382586_150_618.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1010_3066064005_43_361.mp4",
+            "question": "Is there a piano in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_3066064005_43_361.mp4",
+            "question": "Is there a organ in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1015_3603906729_120_207.mp4",
+            "question": "Is there a hamster/rat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1015_3603906729_120_207.mp4",
+            "question": "Is there a chinchilla in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1164_6617533993_1133_1383.mp4",
+            "question": "Is there a handbag in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1164_6617533993_1133_1383.mp4",
+            "question": "Is there a suitcase in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1009_9408800471_60_210.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1009_9408800471_60_210.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1015_2480962483_61_106.mp4",
+            "question": "Is there a frisbee in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1015_2480962483_61_106.mp4",
+            "question": "Is there a dinner plate in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "0093_3861485381_0_210.mp4",
+            "question": "Is there a leopard in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0093_3861485381_0_210.mp4",
+            "question": "Is there a jaguar in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1014_4584426085_1800_1884.mp4",
+            "question": "Is there a dog in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1014_4584426085_1800_1884.mp4",
+            "question": "Is there a wolf in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1002_9213637099_1305_1366.mp4",
+            "question": "Is there a adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1002_9213637099_1305_1366.mp4",
+            "question": "Is there a child in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1001_4889681401_1680_1740.mp4",
+            "question": "Is there a bus/truck in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1001_4889681401_1680_1740.mp4",
+            "question": "Is there a train in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1150_9367977542_0_2065.mp4",
+            "question": "Is there a sofa in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1150_9367977542_0_2065.mp4",
+            "question": "Is there a bench in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1101_6443512089_2371_2429.mp4",
+            "question": "Is there a car in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1101_6443512089_2371_2429.mp4",
+            "question": "Is there a train in the video?",
+            "answer": "no"
+        },
+        "type": "object"
+    },
+    {
+        "basic": {
+            "video": "1106_5549243726_182_526.mp4",
+            "question": "Is the handbag above the sofa in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1106_5549243726_182_526.mp4",
+            "question": "Is the handbag below the sofa in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1007_2696280239_254_329.mp4",
+            "question": "Is the adult towards the cattle/cow in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_2696280239_254_329.mp4",
+            "question": "Is the adult away from the cattle/cow in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1015_3194558043_0_691.mp4",
+            "question": "Does the adult carry the guitar in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1015_3194558043_0_691.mp4",
+            "question": "Does the adult drop the guitar in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1161_3631224968_0_270.mp4",
+            "question": "Is the handbag in front of the screen/monitor in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1161_3631224968_0_270.mp4",
+            "question": "Is the handbag behind the screen/monitor in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1164_3981865268_1065_1081.mp4",
+            "question": "Does the adult watch the laptop in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1164_3981865268_1065_1081.mp4",
+            "question": "Does the adult ignore the laptop in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1007_7533369046_787_803.mp4",
+            "question": "Does the baby touch the toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_7533369046_787_803.mp4",
+            "question": "Does the baby leave away the toy in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1160_3471421544_1387_1402.mp4",
+            "question": "Does the baby watch the baby seat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1160_3471421544_1387_1402.mp4",
+            "question": "Does the baby ignore the baby seat in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0072_3383804222_806_975.mp4",
+            "question": "Does the panda hug the panda in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0072_3383804222_806_975.mp4",
+            "question": "Does the panda push the panda in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1101_6443512089_2270_2437.mp4",
+            "question": "Does the child push the toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1101_6443512089_2270_2437.mp4",
+            "question": "Does the child pull the toy in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0060_5608194207_360_450.mp4",
+            "question": "Is the table next to the camera in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0060_5608194207_360_450.mp4",
+            "question": "Is the table far from the camera in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1155_4136617240_0_1207.mp4",
+            "question": "Is the cat above the sofa in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1155_4136617240_0_1207.mp4",
+            "question": "Is the cat below the sofa in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1025_8787109801_270_314.mp4",
+            "question": "Does the child grab the ball/sports ball in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1025_8787109801_270_314.mp4",
+            "question": "Does the child release the ball/sports ball in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1150_10042935613_0_450.mp4",
+            "question": "Is the child next to the electric fan in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1150_10042935613_0_450.mp4",
+            "question": "Is the child far from the electric fan in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1010_3285219159_0_216.mp4",
+            "question": "Is the baby next to the table in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_3285219159_0_216.mp4",
+            "question": "Is the baby far from the table in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1123_4410839941_0_86.mp4",
+            "question": "Does the child hold the bat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1123_4410839941_0_86.mp4",
+            "question": "Does the child leave the bat in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1010_5349766264_192_448.mp4",
+            "question": "Is the adult next to the piano in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_5349766264_192_448.mp4",
+            "question": "Is the adult far from the piano in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1014_6628116705_0_90.mp4",
+            "question": "Is the scooter next to the child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1014_6628116705_0_90.mp4",
+            "question": "Is the scooter far from the child in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1001_8313365386_144_206.mp4",
+            "question": "Is the table beneath the handbag in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1001_8313365386_144_206.mp4",
+            "question": "Is the table above the handbag in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1021_2925298951_0_355.mp4",
+            "question": "Does the adult hold the cup in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1021_2925298951_0_355.mp4",
+            "question": "Does the adult throw the cup in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1155_5945172741_840_882.mp4",
+            "question": "Does the adult point to the ball/sports ball in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1155_5945172741_840_882.mp4",
+            "question": "Does the adult ignore the ball/sports ball in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1010_4915733559_970_1068.mp4",
+            "question": "Is the table next to the toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_4915733559_970_1068.mp4",
+            "question": "Is the table far from the toy in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1007_8177965766_354_695.mp4",
+            "question": "Is the electric fan above the adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1007_8177965766_354_695.mp4",
+            "question": "Is the electric fan below the adult in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1101_6244675392_600_727.mp4",
+            "question": "Is the child in front of the cat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1101_6244675392_600_727.mp4",
+            "question": "Is the child behind the cat in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0036_6704169045_2669_2697.mp4",
+            "question": "Does the cat watch the cat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0036_6704169045_2669_2697.mp4",
+            "question": "Does the cat ignore the cat in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1014_6628116705_0_150.mp4",
+            "question": "Is the scooter next to the scooter in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1014_6628116705_0_150.mp4",
+            "question": "Is the scooter far from the scooter in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1201_5658916668_420_642.mp4",
+            "question": "Is the adult next to the snowboard in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1201_5658916668_420_642.mp4",
+            "question": "Is the adult far from the snowboard in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1010_4915733559_540_889.mp4",
+            "question": "Is the cellphone in front of the child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_4915733559_540_889.mp4",
+            "question": "Is the cellphone behind the child in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1028_5533380417_0_390.mp4",
+            "question": "Is the chair next to the screen/monitor in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1028_5533380417_0_390.mp4",
+            "question": "Is the chair far from the screen/monitor in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1012_4024008346_321_329.mp4",
+            "question": "Is the sofa next to the ball/sports ball in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1012_4024008346_321_329.mp4",
+            "question": "Is the sofa far from the ball/sports ball in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1160_4179163342_0_1271.mp4",
+            "question": "Is the refrigerator next to the child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1160_4179163342_0_1271.mp4",
+            "question": "Is the refrigerator far from the child in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1013_4671452046_94_447.mp4",
+            "question": "Is the cup in front of the baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1013_4671452046_94_447.mp4",
+            "question": "Is the cup behind the baby in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1104_4742307275_139_193.mp4",
+            "question": "Is the cellphone beneath the adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1104_4742307275_139_193.mp4",
+            "question": "Is the cellphone above the adult in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0049_5349969207_1143_1192.mp4",
+            "question": "Is the electric fan next to the toy in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0049_5349969207_1143_1192.mp4",
+            "question": "Is the electric fan far from the toy in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1014_4626085492_436_581.mp4",
+            "question": "Does the dog lean on the sofa in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1014_4626085492_436_581.mp4",
+            "question": "Does the dog lick the sofa in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1164_4391941521_0_270.mp4",
+            "question": "Is the toy next to the stool in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1164_4391941521_0_270.mp4",
+            "question": "Is the toy far from the stool in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0048_3846475848_1063_1078.mp4",
+            "question": "Does the adult grab the hamster/rat in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0048_3846475848_1063_1078.mp4",
+            "question": "Does the adult leave the hamster/rat in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1010_4915733559_40_1068.mp4",
+            "question": "Is the table in front of the sofa in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1010_4915733559_40_1068.mp4",
+            "question": "Is the table behind the sofa in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1124_7605329840_256_629.mp4",
+            "question": "Is the table next to the ball/sports ball in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1124_7605329840_256_629.mp4",
+            "question": "Is the table far from the ball/sports ball in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1021_9565310990_540_609.mp4",
+            "question": "Is the baby walker next to the baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1021_9565310990_540_609.mp4",
+            "question": "Is the baby walker far from the baby in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1009_9408800471_560_565.mp4",
+            "question": "Does the dog bite the ball/sports ball in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1009_9408800471_560_565.mp4",
+            "question": "Does the dog leave the ball/sports ball in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1052_7887764754_480_630.mp4",
+            "question": "Is the dog towards the stool in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1052_7887764754_480_630.mp4",
+            "question": "Is the dog far away the stool in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1164_4391941521_0_270.mp4",
+            "question": "Is the toy next to the chair in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1164_4391941521_0_270.mp4",
+            "question": "Is the toy far from the chair in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1019_4612723694_523_546.mp4",
+            "question": "Does the adult grab the snake in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1019_4612723694_523_546.mp4",
+            "question": "Does the adult release the snake in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0084_3261079025_39_198.mp4",
+            "question": "Is the adult behind the aircraft in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0084_3261079025_39_198.mp4",
+            "question": "Is the adult ahead the aircraft in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1009_4542882771_0_866.mp4",
+            "question": "Is the chair beneath the baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1009_4542882771_0_866.mp4",
+            "question": "Is the chair above the baby in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1002_6592821115_945_1057.mp4",
+            "question": "Does the child lean on the adult in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1002_6592821115_945_1057.mp4",
+            "question": "Does the child shake hand with the adult in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "0024_5328004991_60_150.mp4",
+            "question": "Does the man leave away the child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0024_5328004991_60_150.mp4",
+            "question": "Does the adult approach the child in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1162_3046900922_113_355.mp4",
+            "question": "Does the adult wave the child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1162_3046900922_113_355.mp4",
+            "question": "Does the adult throw out the child in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1009_2975784201_219_242.mp4",
+            "question": "Does the adult hold the child in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1009_2975784201_219_242.mp4",
+            "question": "Does the adult leave the child in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
+            "video": "1011_3550839192_420_973.mp4",
+            "question": "Is the train in front of the baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1011_3550839192_420_973.mp4",
+            "question": "Is the train behind the baby in the video?",
+            "answer": "no"
+        },
+        "type": "relation"
+    },
+    {
+        "basic": {
             "video": "ILSVRC2015_train_00265005_0_30.mp4",
             "question": "Is there a bird in the video?",
             "answer": "yes"
@@ -9,7 +1309,8 @@
             "video": "ILSVRC2015_train_00265005_0_30.mp4",
             "question": "Is there a crow in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -21,7 +1322,8 @@
             "video": "ILSVRC2015_train_00005012_0_45.mp4",
             "question": "Is there a toy dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -33,7 +1335,8 @@
             "video": "ILSVRC2015_train_00797005_15_120.mp4",
             "question": "Is there a zebra in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -45,7 +1348,8 @@
             "video": "ILSVRC2015_train_00228001_0_195.mp4",
             "question": "Is there a red panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -57,7 +1361,8 @@
             "video": "ILSVRC2015_val_00028005_330_375.mp4",
             "question": "Is there a submarine in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -69,7 +1374,8 @@
             "video": "ILSVRC2015_train_00699000_375_405.mp4",
             "question": "Is there a chameleon in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -81,7 +1387,8 @@
             "video": "ILSVRC2015_train_00681000_75_105.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -93,7 +1400,8 @@
             "video": "ILSVRC2015_train_00267002_300_330.mp4",
             "question": "Is there a jaguar in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -105,7 +1413,8 @@
             "video": "ILSVRC2015_train_00887001_0_165.mp4",
             "question": "Is there a robot in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -117,7 +1426,8 @@
             "video": "ILSVRC2015_train_00074009_285_315.mp4",
             "question": "Is there a red panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -129,7 +1439,8 @@
             "video": "ILSVRC2015_train_00878000_0_120.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -141,7 +1452,8 @@
             "video": "ILSVRC2015_train_00416000_165_195.mp4",
             "question": "Is there a toucan in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -153,7 +1465,8 @@
             "video": "ILSVRC2015_val_00072000_60_180.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -165,7 +1478,8 @@
             "video": "ILSVRC2015_train_00930000_240_270.mp4",
             "question": "Is there a gorilla in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -177,7 +1491,8 @@
             "video": "ILSVRC2015_train_00645000_105_210.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -189,7 +1504,8 @@
             "video": "ILSVRC2015_train_00219001_255_285.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -201,7 +1517,8 @@
             "video": "ILSVRC2015_train_00190000_15_75.mp4",
             "question": "Is there a rhino in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -213,7 +1530,8 @@
             "video": "ILSVRC2015_train_00025031_15_45.mp4",
             "question": "Is there a child in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -225,7 +1543,8 @@
             "video": "ILSVRC2015_train_00818000_0_165.mp4",
             "question": "Is there a submarine in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -237,7 +1556,8 @@
             "video": "ILSVRC2015_train_00398000_30_60.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -249,7 +1569,8 @@
             "video": "ILSVRC2015_train_00554000_420_495.mp4",
             "question": "Is there a chimpanzee in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -261,7 +1582,8 @@
             "video": "ILSVRC2015_val_00072000_165_195.mp4",
             "question": "Is there a woman in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -273,7 +1595,8 @@
             "video": "ILSVRC2015_train_00940003_90_150.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -285,7 +1608,8 @@
             "video": "ILSVRC2015_train_00309003_30_75.mp4",
             "question": "Is there a gazelle in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -297,7 +1621,8 @@
             "video": "ILSVRC2015_train_01141000_0_60.mp4",
             "question": "Is there a giraffe in the video?",
             "answer": "no"
-        }
+        },
+        "type": "subject"
     },
     {
         "basic": {
@@ -309,7 +1634,8 @@
             "video": "ILSVRC2015_train_00878000_0_120.mp4",
             "question": "Is there a truck in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -321,7 +1647,8 @@
             "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Is there a man in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -333,7 +1660,8 @@
             "video": "ILSVRC2015_train_00908000_0_90.mp4",
             "question": "Is there a red panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -345,7 +1673,8 @@
             "video": "ILSVRC2015_train_00884000_0_150.mp4",
             "question": "Is there a helicopter in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -357,7 +1686,8 @@
             "video": "ILSVRC2015_train_00091008_255_300.mp4",
             "question": "Is there a a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -369,7 +1699,8 @@
             "video": "ILSVRC2015_train_00376001_480_525.mp4",
             "question": "Is there a statue in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -381,7 +1712,8 @@
             "video": "ILSVRC2015_train_00554000_345_405.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -393,7 +1725,8 @@
             "video": "ILSVRC2015_train_00040024_45_90.mp4",
             "question": "Is there a chimpanzee in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -405,7 +1738,8 @@
             "video": "ILSVRC2015_train_00091004_0_150.mp4",
             "question": "Is there a worm in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -417,7 +1751,8 @@
             "video": "ILSVRC2015_train_00898000_15_45.mp4",
             "question": "Is there a tiger in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -429,7 +1764,8 @@
             "video": "ILSVRC2015_train_01083001_180_345.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -441,7 +1777,8 @@
             "video": "ILSVRC2015_train_00898000_120_150.mp4",
             "question": "Is there a tiger in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -453,7 +1790,8 @@
             "video": "ILSVRC2015_train_00554000_480_510.mp4",
             "question": "Is there a gorilla in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -465,7 +1803,8 @@
             "video": "ILSVRC2015_train_00398000_30_60.mp4",
             "question": "Is there a cat in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -477,7 +1816,8 @@
             "video": "ILSVRC2015_train_01144003_810_840.mp4",
             "question": "Is there a mannequin in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -489,7 +1829,8 @@
             "video": "ILSVRC2015_train_00290014_0_90.mp4",
             "question": "Is there a coyote in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -501,7 +1842,8 @@
             "video": "ILSVRC2015_train_00077002_135_195.mp4",
             "question": "Is there a gorilla in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -513,7 +1855,8 @@
             "video": "ILSVRC2015_train_00476001_600_810.mp4",
             "question": "Is there a panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -525,7 +1868,8 @@
             "video": "ILSVRC2015_train_00870000_465_525.mp4",
             "question": "Is there a flamingo in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -537,7 +1881,8 @@
             "video": "ILSVRC2015_train_01022000_0_285.mp4",
             "question": "Is there a toy dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -549,7 +1894,8 @@
             "video": "ILSVRC2015_train_00376001_480_525.mp4",
             "question": "Is there a mammoth in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -561,7 +1907,8 @@
             "video": "ILSVRC2015_train_00250021_30_105.mp4",
             "question": "Is there a bicycle in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -573,7 +1920,8 @@
             "video": "ILSVRC2015_val_00081001_240_270.mp4",
             "question": "Is there a zebra in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -585,7 +1933,8 @@
             "video": "ILSVRC2015_train_00025031_15_45.mp4",
             "question": "Is there an old man in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -597,7 +1946,8 @@
             "video": "ILSVRC2015_train_00290007_0_90.mp4",
             "question": "Is there a wolf in the video?",
             "answer": "no"
-        }
+        },
+        "type": "object"
     },
     {
         "basic": {
@@ -609,7 +1959,8 @@
             "video": "ILSVRC2015_train_00267002_210_240.mp4",
             "question": "Does a tiger walk behind a tiger in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -621,7 +1972,8 @@
             "video": "ILSVRC2015_train_01022000_255_285.mp4",
             "question": "Is a dog far from a dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -633,7 +1985,8 @@
             "video": "ILSVRC2015_train_00674000_225_270.mp4",
             "question": "Does a zebra stand above a zebra in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -645,7 +1998,8 @@
             "video": "ILSVRC2015_train_01141000_0_45.mp4",
             "question": "Is a ball left to an elephant in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -657,7 +2011,8 @@
             "video": "ILSVRC2015_train_00940003_30_75.mp4",
             "question": "Is a person below a bicycle in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -669,7 +2024,8 @@
             "video": "ILSVRC2015_val_00046001_0_210.mp4",
             "question": "Does a giant panda leave a giant panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -681,7 +2037,8 @@
             "video": "ILSVRC2015_val_00072000_165_195.mp4",
             "question": "Does a person stand infront a dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -693,7 +2050,8 @@
             "video": "ILSVRC2015_train_00051009_0_30.mp4",
             "question": "Is a ball above a domestic cat in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -705,7 +2063,8 @@
             "video": "ILSVRC2015_train_00225000_75_105.mp4",
             "question": "Is a person away a car in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -717,7 +2076,8 @@
             "video": "ILSVRC2015_train_00267002_210_270.mp4",
             "question": "Does a tiger beat a tiger in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -729,7 +2089,8 @@
             "video": "ILSVRC2015_train_01144003_240_900.mp4",
             "question": "Is a person on back of an elephant in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -741,7 +2102,8 @@
             "video": "ILSVRC2015_train_00674000_450_480.mp4",
             "question": "Does a zebra leave a zebra in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -753,7 +2115,8 @@
             "video": "ILSVRC2015_val_00028005_105_255.mp4",
             "question": "Does a watercraft stand still a watercraft in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -765,7 +2128,8 @@
             "video": "ILSVRC2015_train_00309003_30_75.mp4",
             "question": "Is an antelope fall behind a monkey in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -777,7 +2141,8 @@
             "video": "ILSVRC2015_train_00199006_120_315.mp4",
             "question": "Does a bear sit right a bear in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -789,7 +2154,8 @@
             "video": "ILSVRC2015_train_00253023_0_60.mp4",
             "question": "Does a person leave a dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -801,7 +2167,8 @@
             "video": "ILSVRC2015_train_00969000_0_30.mp4",
             "question": "Does a domestic cat surrender a lizard in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -813,7 +2180,8 @@
             "video": "ILSVRC2015_train_00057005_0_45.mp4",
             "question": "Does a red panda walk away a red panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -825,7 +2193,8 @@
             "video": "ILSVRC2015_train_00290017_0_45.mp4",
             "question": "Does a dog fight a dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -837,7 +2206,8 @@
             "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Does an elephant stand far away from a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -849,7 +2219,8 @@
             "video": "ILSVRC2015_train_00309003_15_45.mp4",
             "question": "Does an antelope jump back a monkey in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -861,7 +2232,8 @@
             "video": "ILSVRC2015_train_00267002_300_555.mp4",
             "question": "Does a tiger stand far away a tiger in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -873,7 +2245,8 @@
             "video": "ILSVRC2015_train_01141000_0_105.mp4",
             "question": "Does an elephant leave a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -885,7 +2258,8 @@
             "video": "ILSVRC2015_train_00869000_270_315.mp4",
             "question": "Does a bird jump away from a bird in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -897,7 +2271,8 @@
             "video": "ILSVRC2015_train_00887001_135_165.mp4",
             "question": "Does a dog stand still by a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -909,7 +2284,8 @@
             "video": "ILSVRC2015_train_00199006_60_315.mp4",
             "question": "Does a bear run behind a bear in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -921,7 +2297,8 @@
             "video": "ILSVRC2015_train_00887001_0_165.mp4",
             "question": "Does a dog ignore a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -933,7 +2310,8 @@
             "video": "ILSVRC2015_train_00416000_165_195.mp4",
             "question": "Is a bird on above of a bird in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -945,7 +2323,8 @@
             "video": "ILSVRC2015_train_00930000_330_360.mp4",
             "question": "Does a monkey rise above a monkey in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -957,7 +2336,8 @@
             "video": "ILSVRC2015_train_00309003_0_240.mp4",
             "question": "Is an antelope smaller a monkey in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -969,7 +2349,8 @@
             "video": "ILSVRC2015_train_00005004_0_30.mp4",
             "question": "Is a dog smaller a frisbee in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -981,7 +2362,8 @@
             "video": "ILSVRC2015_val_00081001_0_495.mp4",
             "question": "Is a horse same with a horse in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -993,7 +2375,8 @@
             "video": "ILSVRC2015_train_00969000_30_60.mp4",
             "question": "Does a domestic cat stand above a lizard in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1005,7 +2388,8 @@
             "video": "ILSVRC2015_train_00376003_0_165.mp4",
             "question": "Does an elephant walk away from an elephant in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1017,7 +2401,8 @@
             "video": "ILSVRC2015_train_00025008_0_30.mp4",
             "question": "Is a sofa smaller than a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1029,7 +2414,8 @@
             "video": "ILSVRC2015_train_00376001_0_600.mp4",
             "question": "Is an elephant same with an elephant in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1041,7 +2427,8 @@
             "video": "ILSVRC2015_train_01144003_510_690.mp4",
             "question": "Does an elephant lie in front a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1053,7 +2440,8 @@
             "video": "ILSVRC2015_train_00290007_0_90.mp4",
             "question": "Does a person sit back of a dog in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1065,7 +2453,8 @@
             "video": "ILSVRC2015_train_00267002_300_555.mp4",
             "question": "Does a tiger lie above a tiger in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1077,7 +2466,8 @@
             "video": "ILSVRC2015_train_00187003_0_375.mp4",
             "question": "Does a cattle lean left a cattle in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1089,7 +2479,8 @@
             "video": "ILSVRC2015_train_01141000_0_45.mp4",
             "question": "Does an elephant sit left a ball in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1101,7 +2492,8 @@
             "video": "ILSVRC2015_train_00025008_0_30.mp4",
             "question": "Does a person sit right a sofa in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1113,7 +2505,8 @@
             "video": "ILSVRC2015_train_00898000_30_90.mp4",
             "question": "Does a lion walk far away of a lion in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1125,7 +2518,8 @@
             "video": "ILSVRC2015_val_00072000_15_45.mp4",
             "question": "Does a dog walk right a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1137,7 +2531,8 @@
             "video": "ILSVRC2015_train_01141000_30_105.mp4",
             "question": "Does a person ignore an elephant in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1149,7 +2544,8 @@
             "video": "ILSVRC2015_train_00940003_15_75.mp4",
             "question": "Is a bicycle above a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1161,7 +2557,8 @@
             "video": "ILSVRC2015_train_00896001_810_930.mp4",
             "question": "Does a red panda slouch a red panda in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1173,7 +2570,8 @@
             "video": "ILSVRC2015_train_01141000_30_75.mp4",
             "question": "Is an elephant back of a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1185,7 +2583,8 @@
             "video": "ILSVRC2015_train_00077002_135_210.mp4",
             "question": "Does a monkey run back to a monkey in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     },
     {
         "basic": {
@@ -1197,6 +2596,7 @@
             "video": "ILSVRC2015_train_00071015_0_30.mp4",
             "question": "Does a bicycle move away a person in the video?",
             "answer": "no"
-        }
+        },
+        "type": "relation"
     }
 ]

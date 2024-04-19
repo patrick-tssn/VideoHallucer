@@ -9,7 +9,8 @@
             "video": "hp2YHxZ2v_k_b.mp4",
             "question": "Is the man in the video holding an iron lunch box?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -21,7 +22,8 @@
             "video": "hxc--vbjrOU_b.mp4",
             "question": "Does this video display 'Live English'?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -33,7 +35,8 @@
             "video": "i3_OHDIFUNA_a.mp4",
             "question": "Is the green note labeld on the Reticulum?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -45,7 +48,8 @@
             "video": "i60pSpcQkJg_a.mp4",
             "question": "Are the dentures and teacup in contact with each other in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -57,7 +61,8 @@
             "video": "i83rz8gDO-A_a.mp4",
             "question": "Does the athlete in the video look pained?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -69,7 +74,8 @@
             "video": "iCRMh0DIYcs_a.mp4",
             "question": "Is there cat food in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -81,7 +87,8 @@
             "video": "iiGfiDngYcE_b.mp4",
             "question": "Is the tank in the snow in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -93,7 +100,8 @@
             "video": "iIHDyf7CZ_s_a.mp4",
             "question": "Is there a burning baseball in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -105,7 +113,8 @@
             "video": "iuK-oRXzAOY_b.mp4",
             "question": "Does the person cut the onion in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -117,7 +126,8 @@
             "video": "iyIaCwjUqLc_a.mp4",
             "question": "Are the people in the video lifting a wooden frame?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -129,7 +139,8 @@
             "video": "jb7YZwHICWc_b.mp4",
             "question": "Is there a person wearing an orange vest running past in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -141,7 +152,8 @@
             "video": "jGCJKDFwJc0_b.mp4",
             "question": "Is there a flame on the workbench in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -153,7 +165,8 @@
             "video": "jPBy6VTCfnM_a.mp4",
             "question": "Are there turned-on monitors on most of the tables in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -165,7 +178,8 @@
             "video": "jsF409OUHZU_b.mp4",
             "question": "Does the video show a complete motorcycle?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -177,7 +191,8 @@
             "video": "k7fCasoFON8_b.mp4",
             "question": "Does the person in the video have coffee beans in their hand?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -189,7 +204,8 @@
             "video": "KcVqDKbeJSc_a.mp4",
             "question": "Are there many ships in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -201,7 +217,8 @@
             "video": "kGN8LSB76-s_a.mp4",
             "question": "Does the person touching the mango have a red bracelet on their hand?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -213,7 +230,8 @@
             "video": "Kj-PPO0bjUM_b.mp4",
             "question": "Is there an electric fan in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -225,7 +243,8 @@
             "video": "KVjBAqFswrU_a.mp4",
             "question": "Is there a doll in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -237,7 +256,8 @@
             "video": "KXn_cvOzGX4_a.mp4",
             "question": "Does the person in the video touch their face with their hand?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -249,7 +269,8 @@
             "video": "hozzWu46cmk_a.mp4",
             "question": "Does the person cut the paper in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -261,7 +282,8 @@
             "video": "hp4jYAZyUw0_b.mp4",
             "question": "Does the blogger display a picture of mosquito in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -273,7 +295,8 @@
             "video": "hrTqvl_ymeI_b.mp4",
             "question": "Is there a video played in the web?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -285,7 +308,8 @@
             "video": "hy1rWx-dhog_b.mp4",
             "question": "Does the man in white hat touch another man?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -297,7 +321,8 @@
             "video": "i2AgYj03n-g_a.mp4",
             "question": "Does the woman hold plastic cups?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -309,7 +334,8 @@
             "video": "i7Cfw9sfWpY_b.mp4",
             "question": "Is there a man hold a cell phone in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -321,7 +347,8 @@
             "video": "i8Tiw-wRPNw_a.mp4",
             "question": "Is the wooden board in the video placed horizontally on the shelf?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -333,7 +360,8 @@
             "video": "i9n6_3LRSug_b.mp4",
             "question": "Is the scope in the video turned on?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -345,7 +373,8 @@
             "video": "iavfIE9XAec_b.mp4",
             "question": "Does the blogger in white hat touch his hat?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -357,7 +386,8 @@
             "video": "ibFXVNU7yXA_a.mp4",
             "question": "Has the knife in the video been sharpened?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -369,7 +399,8 @@
             "video": "ic0hxOBpn7Q_b.mp4",
             "question": "are the red capsules neatly arranged In the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -381,7 +412,8 @@
             "video": "icAvVS9a_2I_b.mp4",
             "question": "Does the woman write on a paper in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -393,7 +425,8 @@
             "video": "i-cOSMILr04_b.mp4",
             "question": "Is there a man in black suit face to the camera",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -405,7 +438,8 @@
             "video": "id2twaQZOvk_b.mp4",
             "question": "Does the person hold a cell phone in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -417,7 +451,8 @@
             "video": "id-ANJSGsTk_a.mp4",
             "question": "Is there a single-eye monster in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -429,7 +464,8 @@
             "video": "iEBr6EjNsio_a.mp4",
             "question": "Is the plastic container in the video covered?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -441,7 +477,8 @@
             "video": "iedcEHJyPRQ_b.mp4",
             "question": "Is there a man wear head phone in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -453,7 +490,8 @@
             "video": "iFaXkHgtlKI_a.mp4",
             "question": "Does the character hold a book?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -465,7 +503,8 @@
             "video": "igzYA7KmVoI_a.mp4",
             "question": "Does the girl in the video make a fist?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -477,7 +516,8 @@
             "video": "iHeMNK1_ugA_b.mp4",
             "question": "Is the character introduction card in the video 27 years old?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -489,7 +529,8 @@
             "video": "iILceSYNmqo_a.mp4",
             "question": "Does the person show his hand in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -501,7 +542,8 @@
             "video": "ii_VXUO9VIw_a.mp4",
             "question": "Is the thumb pointing up in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -513,7 +555,8 @@
             "video": "iIx8qdBmCOA_a.mp4",
             "question": "Does the person turn around?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -525,7 +568,8 @@
             "video": "ijsUjCgGw60_a.mp4",
             "question": "Is there a cat in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -537,7 +581,8 @@
             "video": "iKjEoPA0LlY_a.mp4",
             "question": "Does the woman in the video take off her glasses?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -549,7 +594,8 @@
             "video": "iKMhCAd6H0M_b.mp4",
             "question": "Is there a sesame seed cake in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -561,7 +607,8 @@
             "video": "iL9qE0jUcGg_a.mp4",
             "question": "Is the person in the video holding metal wires?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -573,7 +620,8 @@
             "video": "ioD5sEQAhkM_a.mp4",
             "question": "Is the person in the video holding a blue rag?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -585,7 +633,8 @@
             "video": "iP0H2YVVWD8_b.mp4",
             "question": "Is the man in white hair?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -597,7 +646,8 @@
             "video": "iPxc6iPUXu8_a.mp4",
             "question": "Is the basketball on the hoop in the video",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -609,7 +659,8 @@
             "video": "iR2RSYvDAgo_a.mp4",
             "question": "Is a video played on the screen in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -621,7 +672,8 @@
             "video": "irKMYXVJDmI_a.mp4",
             "question": "Does a character in black long hair in appear in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -633,7 +685,8 @@
             "video": "iTrCql47ZCQ_b.mp4",
             "question": "Does the cartoon train turn around in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -645,7 +698,8 @@
             "video": "itsQ-kABiQM_b.mp4",
             "question": "Is there a white glove in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -657,7 +711,8 @@
             "video": "iW76sdCrCKw_a.mp4",
             "question": "Has the dragon fruit been cut into pieces in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -669,7 +724,8 @@
             "video": "iwocYHIXxNw_b.mp4",
             "question": "Is the person in the video facing away from the camera?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -681,7 +737,8 @@
             "video": "iX2oUQgyCNY_a.mp4",
             "question": "Does the cursor click on the video icon?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -693,7 +750,8 @@
             "video": "iycwcI14UsQ_a.mp4",
             "question": "Is the machined placed on ground?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -705,7 +763,8 @@
             "video": "iySvcjv2nZk_a.mp4",
             "question": "Does a girl walk past a woman in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -717,7 +776,8 @@
             "video": "iyX6ZXCS33A_a.mp4",
             "question": "Does the TNT explode in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -729,7 +789,8 @@
             "video": "j0u93ILzP5U_a.mp4",
             "question": "Are these people are talking in door in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -741,7 +802,8 @@
             "video": "j2E8eS8fKgo_a.mp4",
             "question": "Is the corridor in the video full of people?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -753,7 +815,8 @@
             "video": "j9fuM5pdZZU_b.mp4",
             "question": "Does the woman touch the monitor?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -765,7 +828,8 @@
             "video": "jaFOkSUF900_a.mp4",
             "question": "Does the girl face the camera in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -777,7 +841,8 @@
             "video": "jAHxS0L-_sg_a.mp4",
             "question": "Does the woman walk across the bridge",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -789,7 +854,8 @@
             "video": "jARjgdQRCOg_a.mp4",
             "question": "Is there someone wearing black and white striped clothes in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -801,7 +867,8 @@
             "video": "jaVofbF8aIo_a.mp4",
             "question": "Does the character in the video dig?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -813,7 +880,8 @@
             "video": "jBojq8hKxJk_a.mp4",
             "question": "Does the blogger display a picture in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -825,7 +893,8 @@
             "video": "jBPrpeeu18s_a.mp4",
             "question": "Is there someone clapping in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -837,7 +906,8 @@
             "video": "jBywKgIq9N4_a.mp4",
             "question": "Is the person eatting a cake?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -849,7 +919,8 @@
             "video": "jCGJqpQHDWU_b.mp4",
             "question": "Is 'MATH Book Interactive' displayed in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -861,7 +932,8 @@
             "video": "jddw6XKOzuA_b.mp4",
             "question": "Is there a tree with red leaves in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -873,7 +945,8 @@
             "video": "jEKZSToclcs_a.mp4",
             "question": "Does the video show broken tiles inside the house?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -885,7 +958,8 @@
             "video": "jfAX71eXuPA_b.mp4",
             "question": "Does the person open the window in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -897,7 +971,8 @@
             "video": "jfqV3Lo66gw_b.mp4",
             "question": "Does the basketball go into the hoop in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -909,7 +984,8 @@
             "video": "jGLv0_XkG1o_b.mp4",
             "question": "Does the man holding a flower walk around?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -921,7 +997,8 @@
             "video": "jGPybCU_Zuo_b.mp4",
             "question": "Does the person in the video pour something into the pot?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -933,7 +1010,8 @@
             "video": "jK2tZ1CWrGw_a.mp4",
             "question": "Is there a person in white suit?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -945,7 +1023,8 @@
             "video": "jma0V7sh1cg_b.mp4",
             "question": "Does the robot move around in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -957,7 +1036,8 @@
             "video": "jpwr5vOz8Ic_b.mp4",
             "question": "Does the blogger display Chinese character in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -969,7 +1049,8 @@
             "video": "jq2bw75Bmpo_a.mp4",
             "question": "Does these people sit in door?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -981,7 +1062,8 @@
             "video": "jubrtJMjQwg_b.mp4",
             "question": "Does 'THA106' displayed in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -993,7 +1075,8 @@
             "video": "jUY_pXGzTaA_b.mp4",
             "question": "Does the man in the video lift a barbell?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1005,7 +1088,8 @@
             "video": "j-Z7PSu7mlc_a.mp4",
             "question": "Are there three words displayed in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1017,7 +1101,8 @@
             "video": "jzAv9ylqT3I_b.mp4",
             "question": "Does the character in the video move backwards?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1029,7 +1114,8 @@
             "video": "jzVhPZg0Ods_b.mp4",
             "question": "Is the woman in the video drawing her eyebrows?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1041,7 +1127,8 @@
             "video": "k03SciT1OqU_a.mp4",
             "question": "Does the woman hold a plate of sandwich",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1053,7 +1140,8 @@
             "video": "K1skbJRYjQI_b.mp4",
             "question": "Does the man wear a white T-shirt in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1065,7 +1153,8 @@
             "video": "k2zII3KN_M8_b.mp4",
             "question": "Is there a red spot in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1077,7 +1166,8 @@
             "video": "k4QN_H9Cnk0_a.mp4",
             "question": "Is the car in the video emitting exhaust?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1089,7 +1179,8 @@
             "video": "KCJy6jwAFME_b.mp4",
             "question": "Is the person getting a haircut in the video facing away from the camera?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1101,7 +1192,8 @@
             "video": "KDnUgPptioQ_a.mp4",
             "question": "Is the person in the video using a stick to stir the corn in the blender?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1113,7 +1205,8 @@
             "video": "kEV-f3KxS1Y_a.mp4",
             "question": "Is a group of ducks walking on the ground in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1125,7 +1218,8 @@
             "video": "KgbotCgmfFo_a.mp4",
             "question": "Does the woman touch the cell phone in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1137,7 +1231,8 @@
             "video": "KLva05udRsM_a.mp4",
             "question": "Does the person hold a pot in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1149,7 +1244,8 @@
             "video": "kMJMR68Dz4s_b.mp4",
             "question": "Is there only one pen on the notebook in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1161,7 +1257,8 @@
             "video": "KPBNnfzPAoQ_b.mp4",
             "question": "Can we only see the profile of the singer in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1173,7 +1270,8 @@
             "video": "KQPqQl3D88Q_a.mp4",
             "question": "Are the people in the video only playing with pillows indoors?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1185,7 +1283,8 @@
             "video": "KSiwci721Gg_a.mp4",
             "question": "Does the host in the video show her hands?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
     },
     {
         "basic": {
@@ -1197,6 +1296,1307 @@
             "video": "KYxm2Ocfsag_b.mp4",
             "question": "Is there someone wearing a green hat in the video?",
             "answer": "no"
-        }
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "hyXWLbHTHEU_b.mp4",
+            "question": "Does the word 'Retro Games' show in pink in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "hyXWLbHTHEU_a.mp4",
+            "question": "Does the word 'Retro Games' show in pink in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iqBquTBcdNg_b.mp4",
+            "question": "Are there any chili peppers in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iqBquTBcdNg_a.mp4",
+            "question": "Are there any chili peppers in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "K4hyID33lWE_b.mp4",
+            "question": "Does the video show the indoor scenario?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "K4hyID33lWE_a.mp4",
+            "question": "Does the video show the indoor scenario?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KB0CZJ8sBn8_a.mp4",
+            "question": "Do many tents appear in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KB0CZJ8sBn8_b.mp4",
+            "question": "Do many tents appear in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iDeFY6E9eRM_b.mp4",
+            "question": "Does someone in the video hold flowers?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iDeFY6E9eRM_a.mp4",
+            "question": "Does someone in the video hold flowers?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j-d4qpYaDHY_a.mp4",
+            "question": "Does the person in the video stir the food in the pot?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j-d4qpYaDHY_b.mp4",
+            "question": "Does the person in the video stir the food in the pot?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iXNRpyzk4XM_b.mp4",
+            "question": "Does the man hold a pen in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iXNRpyzk4XM_a.mp4",
+            "question": "Does the man hold a pen in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jZnEWP1UIXk_a.mp4",
+            "question": "Does the man in the video approach the chair?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jZnEWP1UIXk_b.mp4",
+            "question": "Does the man in the video approach the chair?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KXq30EUWtG4_a.mp4",
+            "question": "Does the character in the video have a toy on his shoulder?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KXq30EUWtG4_b.mp4",
+            "question": "Does the character in the video have a toy on his shoulder?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KefN1Lk0NnE_a.mp4",
+            "question": "Does the man in the video wear in suit?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KefN1Lk0NnE_b.mp4",
+            "question": "Does the man in the video wear in suit?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iAiIWHZRrMM_a.mp4",
+            "question": "Is someone touching the robot's head with their hand in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iAiIWHZRrMM_b.mp4",
+            "question": "Is someone touching the robot's head with their hand in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jCz5WB_AylQ_b.mp4",
+            "question": "Does the number '12' appear in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jCz5WB_AylQ_a.mp4",
+            "question": "Does the number '12' appear in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "Jy6DFCF1Acc_b.mp4",
+            "question": "Does the person in the video point at the sofa?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Jy6DFCF1Acc_a.mp4",
+            "question": "Does the person in the video point at the sofa?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jIsJw8O1U6E_b.mp4",
+            "question": "Is there someone in the river in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jIsJw8O1U6E_a.mp4",
+            "question": "Is there someone in the river in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jYGIb9Qwpok_a.mp4",
+            "question": "Does the woman in the video wear a black hat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jYGIb9Qwpok_b.mp4",
+            "question": "Does the woman in the video wear a black hat?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "hvXC5ZQ0ak0_a.mp4",
+            "question": "Are there many pickaxes and axes in the inventory in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "hvXC5ZQ0ak0_b.mp4",
+            "question": "Are there many pickaxes and axes in the inventory in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jQPIzE0zcp0_b.mp4",
+            "question": "Does the man in the video hold a laptop?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jQPIzE0zcp0_a.mp4",
+            "question": "Does the man in the video hold a laptop?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j44mTfXbSQ0_b.mp4",
+            "question": "Does someone hold someone else's hand in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j44mTfXbSQ0_a.mp4",
+            "question": "Does someone hold someone else's hand in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j-wkYTwDyA4_a.mp4",
+            "question": "Does the person in the video wear a hat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j-wkYTwDyA4_b.mp4",
+            "question": "Does the person in the video wear a hat?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "kO6dnd_D_T4_b.mp4",
+            "question": "Can you see the dog's paw pads in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "kO6dnd_D_T4_a.mp4",
+            "question": "Can you see the dog's paw pads in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "JyKzj1PSw4c_b.mp4",
+            "question": "Is there a glove in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "JyKzj1PSw4c_a.mp4",
+            "question": "Is there a glove in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jUruugIPbBU_a.mp4",
+            "question": "Does the woman hold a pen in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jUruugIPbBU_b.mp4",
+            "question": "Does the woman hold a pen in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "kDLXgZ2EMWE_a.mp4",
+            "question": "Is there a white car in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "kDLXgZ2EMWE_b.mp4",
+            "question": "Is there a white car in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "izTK3jL8CJo_b.mp4",
+            "question": "Is there someone in the video touching plastic bag?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "izTK3jL8CJo_a.mp4",
+            "question": "Is there someone in the video touching plastic bag?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iEdGsSHfobI_a.mp4",
+            "question": "Is there a hammer in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iEdGsSHfobI_b.mp4",
+            "question": "Is there a hammer in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i3RU_byJYNk_a.mp4",
+            "question": "Can you see the words 'Connecting New York' in the video",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i3RU_byJYNk_b.mp4",
+            "question": "Can you see the words 'Connecting New York' in the video",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iATOwZRl8Mg_a.mp4",
+            "question": "Does the monster throw a person into its mouth in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iATOwZRl8Mg_b.mp4",
+            "question": "Does the monster throw a person into its mouth in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "ibjylmFAr98_a.mp4",
+            "question": "Can you see the gear shifter in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ibjylmFAr98_b.mp4",
+            "question": "Can you see the gear shifter in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iXPyxHa7cls_b.mp4",
+            "question": "Does the video show a complete paper lantern?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iXPyxHa7cls_a.mp4",
+            "question": "Does the video show a complete paper lantern?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iDjVlTaeC0g_a.mp4",
+            "question": "Does the woman in the video wear a mask?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iDjVlTaeC0g_b.mp4",
+            "question": "Does the woman in the video wear a mask?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KjfkwEiXZl0_b.mp4",
+            "question": "Does the woman in the video hold a red bag?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KjfkwEiXZl0_a.mp4",
+            "question": "Does the woman in the video hold a red bag?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iE2dDKsgN-4_a.mp4",
+            "question": "Is there a child riding a scooter in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iE2dDKsgN-4_b.mp4",
+            "question": "Is there a child riding a scooter in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KJJIT6JWXCo_a.mp4",
+            "question": "Does the man in the cage talk to someone else in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KJJIT6JWXCo_b.mp4",
+            "question": "Does the man in the cage talk to someone else in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KFQat3H4HGo_b.mp4",
+            "question": "Is the person in the video still carrying a bag after closing the car's trunk?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KFQat3H4HGo_a.mp4",
+            "question": "Is the person in the video still carrying a bag after closing the car's trunk?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iC0jRhtH4mw_b.mp4",
+            "question": "Are there many seats in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iC0jRhtH4mw_a.mp4",
+            "question": "Are there many seats in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iYyb7v4_HdM_a.mp4",
+            "question": "Does the snake in the water in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iYyb7v4_HdM_b.mp4",
+            "question": "Does the snake in the water in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KfSongKCTjs_b.mp4",
+            "question": "Does the man in the video wear a hat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KfSongKCTjs_a.mp4",
+            "question": "Does the man in the video wear a hat?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jNUaFrgRPM8_b.mp4",
+            "question": "Is there a paining on the wall in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jNUaFrgRPM8_a.mp4",
+            "question": "Is there a paining on the wall in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iPaxrbOoHlY_b.mp4",
+            "question": "Is someone wearing a white shirt in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iPaxrbOoHlY_a.mp4",
+            "question": "Is someone wearing a white shirt in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "Kdbfgpmkt2A_a.mp4",
+            "question": "Do the fishes in the video alive?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Kdbfgpmkt2A_b.mp4",
+            "question": "Do the fishes in the video alive?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "ieyyxRugWy0_b.mp4",
+            "question": "Is the RV driving on the straight road in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ieyyxRugWy0_a.mp4",
+            "question": "Is the RV driving on the straight road in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "kKN8aFe0QDA_b.mp4",
+            "question": "Is there a statue in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "kKN8aFe0QDA_a.mp4",
+            "question": "Is there a statue in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i4A42DwuPU0_b.mp4",
+            "question": "Is there a child in blue T-shirt in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i4A42DwuPU0_a.mp4",
+            "question": "Is there a child in blue T-shirt in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i3a5p131wpA_a.mp4",
+            "question": "Is there a chandelier in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i3a5p131wpA_b.mp4",
+            "question": "Is there a chandelier in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "k6OEZ9NHp94_b.mp4",
+            "question": "Does the woman in the video wear a black t-shirt?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "k6OEZ9NHp94_a.mp4",
+            "question": "Does the woman in the video wear a black t-shirt?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KFl3Va5UUJ0_a.mp4",
+            "question": "Is there drum in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KFl3Va5UUJ0_b.mp4",
+            "question": "Is there drum in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jYJOPr2z-Rg_b.mp4",
+            "question": "Does the iron emit steam in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jYJOPr2z-Rg_a.mp4",
+            "question": "Does the iron emit steam in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iE2FcuMbIfA_a.mp4",
+            "question": "Does the girl talk to a woman in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iE2FcuMbIfA_b.mp4",
+            "question": "Does the girl talk to a woman in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "irfd74z52Cw_b.mp4",
+            "question": "Does someone with their hair put up appear in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "irfd74z52Cw_a.mp4",
+            "question": "Does someone with their hair put up appear in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "ipUwGKk5KQk_b.mp4",
+            "question": "Is someone putting ice into a glass in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ipUwGKk5KQk_a.mp4",
+            "question": "Is someone putting ice into a glass in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i5nX-RYGE4E_a.mp4",
+            "question": "Does the woman in the video wear a white hat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i5nX-RYGE4E_b.mp4",
+            "question": "Does the woman in the video wear a white hat?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jQRLBFe0N-s_b.mp4",
+            "question": "Does the person in the video hold a plastic bag?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jQRLBFe0N-s_a.mp4",
+            "question": "Does the person in the video hold a plastic bag?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "K5YIPArVj_o_b.mp4",
+            "question": "Does the person in the video stand on ground?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "K5YIPArVj_o_a.mp4",
+            "question": "Does the person in the video stand on ground?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jV9i1qUVPu0_b.mp4",
+            "question": "Does the man in the video touch the woman's head?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jV9i1qUVPu0_a.mp4",
+            "question": "Does the man in the video touch the woman's head?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "K3-4nSbhQN4_b.mp4",
+            "question": "Does the cigar in the video been lit?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "K3-4nSbhQN4_a.mp4",
+            "question": "Does the cigar in the video been lit?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j2rOC3DkAys_b.mp4",
+            "question": "Are the balls that the woman is playing with in the video of different colors?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j2rOC3DkAys_a.mp4",
+            "question": "Are the balls that the woman is playing with in the video of different colors?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iRMuYhQznZc_b.mp4",
+            "question": "Is the person in the video stir-frying?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iRMuYhQznZc_a.mp4",
+            "question": "Is the person in the video stir-frying?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "ijuRelMf9XQ_b.mp4",
+            "question": "Is there someone coming out of the revolving door in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ijuRelMf9XQ_a.mp4",
+            "question": "Is there someone coming out of the revolving door in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "K7CFlkhDgM0_b.mp4",
+            "question": "Do the people kiss in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "K7CFlkhDgM0_a.mp4",
+            "question": "Do the people kiss in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "isFuyZjM04k_a.mp4",
+            "question": "Does someone hold a red chili pepper in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "isFuyZjM04k_b.mp4",
+            "question": "Does someone hold a red chili pepper in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jC02YKKaX5I_b.mp4",
+            "question": "Can you see the upper body of the man in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jC02YKKaX5I_a.mp4",
+            "question": "Can you see the upper body of the man in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iwVeoiDL7Y4_b.mp4",
+            "question": "Does the man in the video hold a metal goblet",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iwVeoiDL7Y4_a.mp4",
+            "question": "Does the man in the video hold a metal goblet",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "k9w1Rzw9pnQ_a.mp4",
+            "question": "Does the person in the video touch his hair?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "k9w1Rzw9pnQ_b.mp4",
+            "question": "Does the person in the video touch his hair?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "k9jjGcujVVg_b.mp4",
+            "question": "Are most people in the video wearing dark-colored coats?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "k9jjGcujVVg_a.mp4",
+            "question": "Are most people in the video wearing dark-colored coats?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iopUrQf3m88_a.mp4",
+            "question": "Is someone holding a bowl and drinking something in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iopUrQf3m88_b.mp4",
+            "question": "Is someone holding a bowl and drinking something in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "isLoryRckx0_a.mp4",
+            "question": "Does someone hold a pen in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "isLoryRckx0_b.mp4",
+            "question": "Does someone hold a pen in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iVpFVfhjHZw_b.mp4",
+            "question": "Does the car in the video move forward?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iVpFVfhjHZw_a.mp4",
+            "question": "Does the car in the video move forward?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iiybwznbgBw_b.mp4",
+            "question": "Does the person in the video hold a notebook?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iiybwznbgBw_a.mp4",
+            "question": "Does the person in the video hold a notebook?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i7xyvP8WND8_a.mp4",
+            "question": "Is there a glass turtle in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i7xyvP8WND8_b.mp4",
+            "question": "Is there a glass turtle in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jXz8ysB5FyQ_b.mp4",
+            "question": "Do people in the video bow to each other?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jXz8ysB5FyQ_a.mp4",
+            "question": "Do people in the video bow to each other?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i2ePtSAAEX8_b.mp4",
+            "question": "Is there a person in black suit in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i2ePtSAAEX8_a.mp4",
+            "question": "Is there a person in black suit in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "k0R0giypBiE_a.mp4",
+            "question": "Is there a women sitting at a chair in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "k0R0giypBiE_b.mp4",
+            "question": "Is there a women sitting at a chair in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "hwV4_YtFKi8_b.mp4",
+            "question": "Does the person in the video have his hands on the steering wheel?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "hwV4_YtFKi8_a.mp4",
+            "question": "Does the person in the video have his hands on the steering wheel?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "juMeog7VPJ8_b.mp4",
+            "question": "Is the person's hair in the video wet?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "juMeog7VPJ8_a.mp4",
+            "question": "Is the person's hair in the video wet?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iD11LsYukgM_b.mp4",
+            "question": "Is the cap of the small bottle in the video open?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iD11LsYukgM_a.mp4",
+            "question": "Is the cap of the small bottle in the video open?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jVldDqiLea4_b.mp4",
+            "question": "Does the man in the video hold a Famicom?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jVldDqiLea4_a.mp4",
+            "question": "Does the man in the video hold a Famicom?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "i9hTAtvuWWk_a.mp4",
+            "question": "Is there a child under the table in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i9hTAtvuWWk_b.mp4",
+            "question": "Is there a child under the table in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iRi550h58H8_b.mp4",
+            "question": "Does the person in the video wear earrings",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iRi550h58H8_a.mp4",
+            "question": "Does the person in the video wear earrings",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KYAQlLfFU7A_a.mp4",
+            "question": "Does the girl in the video point at pink stuff?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KYAQlLfFU7A_b.mp4",
+            "question": "Does the girl in the video point at pink stuff?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "ju7nHGS0McI_a.mp4",
+            "question": "Does the dog in the video shake hand with person?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ju7nHGS0McI_b.mp4",
+            "question": "Does the dog in the video shake hand with person?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jyoTIgEoCtA_b.mp4",
+            "question": "Does the person on the stage turn around?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jyoTIgEoCtA_a.mp4",
+            "question": "Does the person on the stage turn around?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "k4gmj1CGxxw_a.mp4",
+            "question": "Are there many people clapping in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "k4gmj1CGxxw_b.mp4",
+            "question": "Are there many people clapping in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iLhm3EMSUw8_b.mp4",
+            "question": "Is there someone facing the camera in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iLhm3EMSUw8_a.mp4",
+            "question": "Is there someone facing the camera in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j_0expH9yTM_a.mp4",
+            "question": "Does the woman in the video wear a sunglass",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j_0expH9yTM_b.mp4",
+            "question": "Does the woman in the video wear a sunglass",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iIlT4w1MBpQ_b.mp4",
+            "question": "Does the forklift in the video lift the box?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iIlT4w1MBpQ_a.mp4",
+            "question": "Does the forklift in the video lift the box?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "kFK5uS6ydvE_a.mp4",
+            "question": "Are there two man in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "kFK5uS6ydvE_b.mp4",
+            "question": "Are there two man in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "il3SqmFjjoU_a.mp4",
+            "question": "Does someone in the video talk to a woman?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "il3SqmFjjoU_b.mp4",
+            "question": "Does someone in the video talk to a woman?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "irVbbrkaJDE_a.mp4",
+            "question": "Is there a stove in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "irVbbrkaJDE_b.mp4",
+            "question": "Is there a stove in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "kLC2SmOonlc_b.mp4",
+            "question": "Is there a lot of sand in the bucket of the excavator?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "kLC2SmOonlc_a.mp4",
+            "question": "Is there a lot of sand in the bucket of the excavator?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KXWFDo98J60_b.mp4",
+            "question": "Does the girl in the video sit at the booster car seat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KXWFDo98J60_a.mp4",
+            "question": "Does the girl in the video sit at the booster car seat?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iGGhDlJr_YQ_b.mp4",
+            "question": "Do two people appear at the same time in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iGGhDlJr_YQ_a.mp4",
+            "question": "Do two people appear at the same time in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "ilxIJXsdglk_a.mp4",
+            "question": "Is someone holding a wine glass in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ilxIJXsdglk_b.mp4",
+            "question": "Is someone holding a wine glass in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KFvDhd-mpyI_b.mp4",
+            "question": "Is the person in the video holding the photo album vertically?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KFvDhd-mpyI_a.mp4",
+            "question": "Is the person in the video holding the photo album vertically?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jg1oEzs2cuE_b.mp4",
+            "question": "Is there smoke in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jg1oEzs2cuE_a.mp4",
+            "question": "Is there smoke in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j8kMtjCPhBo_a.mp4",
+            "question": "Does the person in the video show old clothes?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j8kMtjCPhBo_b.mp4",
+            "question": "Does the person in the video show old clothes?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "iHwZQMkLVU4_a.mp4",
+            "question": "Is there a monitor in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iHwZQMkLVU4_b.mp4",
+            "question": "Is there a monitor in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "jIfclsQRVbQ_b.mp4",
+            "question": "Does the person in the video unzip the bag?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "jIfclsQRVbQ_a.mp4",
+            "question": "Does the person in the video unzip the bag?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j1fuMTBGg3o_b.mp4",
+            "question": "Is there fire in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j1fuMTBGg3o_a.mp4",
+            "question": "Is there fire in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "KUY1oSRoty8_b.mp4",
+            "question": "Is someone mopping the floor in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KUY1oSRoty8_a.mp4",
+            "question": "Is someone mopping the floor in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
+    },
+    {
+        "basic": {
+            "video": "j_R-xiVverk_a.mp4",
+            "question": "Is the tree laid horizontally on the ground in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "j_R-xiVverk_b.mp4",
+            "question": "Is the tree laid horizontally on the ground in the video?",
+            "answer": "no"
+        },
+        "type": "semantic_detail"
     }
 ]
