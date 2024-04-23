@@ -6,40 +6,19 @@ examples:
 
 object relation hallucination: 200 QA
 
-`obj_rel_hallucination/obj_rel_hallucination.json`
-```json
-{
-        "video_id": "ILSVRC2015_val_00072000_165_195.mp4",
-        "positive": {
-            "question": "Does a person stand behind a dog in the video?",
-            "answer": "yes"
-        },
-        "negative": {
-            "question": "Does a person stand infront a dog in the video?",
-            "answer": "no"
-        },
-        "type": "relation"
-    }
-```
+`havebench_datasets/object_relation/object_relation.json`
+
 
 semantic hallucination: 200 QA
 
-`semantic_hallucination/semantic_hallucination.json`
-```json
-{
-        "video_id": "kMJMR68Dz4s.mp4",
-        "positive": {
-            "video_id": "kMJMR68Dz4s_a.mp4",
-            "question": "Is there only one pen on the notebook in the video?",
-            "answer": "yes"
-        },
-        "negative": {
-            "video_id": "kMJMR68Dz4s_b.mp4",
-            "question": "Is there only one pen on the notebook in the video?",
-            "answer": "no"
-        }
-    }
-```
+`havebench_datasets/semantic_detail/semantic_detail.json`
+
+
+external hallucination: 200 QA
+
+`havebench_datasets/external_fact/external_fact.json`
+`havebench_datasets/external_nonfact/external_nonfact.json`
+
 
 
 possible baselines
