@@ -17,10 +17,13 @@ semantic hallucination: 200 QA
 `havebench_datasets/semantic_detail/semantic_detail.json`
 
 
-external hallucination: 200 QA
+external factual hallucination: 200 QA
 
-`havebench_datasets/external_fact/external_fact.json`
-`havebench_datasets/external_nonfact/external_nonfact.json`
+`havebench_datasets/external_factual/external_factual.json`
+
+external nonfactual hallucination: 200 QA
+
+`havebench_datasets/external_nonfactual/external_nonfactual.json`
 
 
 

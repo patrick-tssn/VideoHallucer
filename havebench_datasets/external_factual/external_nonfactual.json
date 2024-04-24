@@ -1,0 +1,2602 @@
+[
+    {
+        "basic": {
+            "video": "tGaAAI3aAUs_10787.mp4",
+            "question": "Based on the video, should we drain off the fat and transfer the meat into a bowl when we make beef tacos?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "tGaAAI3aAUs_10787.mp4",
+            "question": "Based on the video, should we transfer the meat into a bowl and then inject the fat into it when we make beef tacos?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "JWcAs8biQFU_848.mp4",
+            "question": "Based on the video, should we dice the apples when we make waldorf salad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "JWcAs8biQFU_848.mp4",
+            "question": "Based on the video, should we peel the bananas and fry them to golden brown when we make waldorf salad?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "bmZB3aszZlA_6801.mp4",
+            "question": "Based on the video, should we season with sugar salt and black pepper and stir when we make spaghetti and meatballs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "bmZB3aszZlA_6801.mp4",
+            "question": "Based on the video, should we season with sugar salt and black earthworms and stir when we make spaghetti and meatballs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "iq7aiv9MPvA_10288.mp4",
+            "question": "Based on the video, should we pour the mixture on it and top with shredded cheese when we make beef tacos?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "iq7aiv9MPvA_10288.mp4",
+            "question": "Based on the video, should we pour the mixture on it and top with shredded ice when we make beef tacos?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "02nUKT0A7uE_6202.mp4",
+            "question": "Based on the video, should we whisk eggs and season with salt when we make wiener schnitzel?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "02nUKT0A7uE_6202.mp4",
+            "question": "Based on the video, should we whisk eggs and season with sugar when we make wiener schnitzel?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "95WMX64RIBc_7865.mp4",
+            "question": "Based on the video, should we fills shells with the butter mixture and snails and place in an oven dish when we make escargot?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "95WMX64RIBc_7865.mp4",
+            "question": "Based on the video, should we place the dish in the refrigerator to freeze all the water when we make escargot?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "0ShsPjf9shQ_4136.mp4",
+            "question": "Based on the video, should we add salt and pepper to the bowl when we make meatloaf?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0ShsPjf9shQ_4136.mp4",
+            "question": "Based on the video, should we remove salt and pepper from the bowl when we make meatloaf?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "6XBocXgvfTs_2876.mp4",
+            "question": "Based on the video, should we skewer potato lemon and shrimp when we make shish kabob?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "6XBocXgvfTs_2876.mp4",
+            "question": "Based on the video, should we skewer banana, lemon, and shrimp when we make shish kabob?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "1Ihxcua2HBc_7640.mp4",
+            "question": "Based on the video, should we add flour eggs and water to a bowl and mix when we make pierogi?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1Ihxcua2HBc_7640.mp4",
+            "question": "Based on the video, should we add flour, eggs, and water to a bowl and separate them when we make pierogi?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "5Oq5giRXtag_5243.mp4",
+            "question": "Based on the video, should we put the mixture and chicken wings in a bag and shake to coat the chicken when we make buffalo wings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "5Oq5giRXtag_5243.mp4",
+            "question": "Based on the video, should we uncover the pig when we make buffalo wings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "NTyhMGmuWik_8338.mp4",
+            "question": "Based on the video, should we  add 1 tbls prepared yellow mustard 1 tbls worcestershire sauce 2 tsp brown sugar mix simmer 5 minutes when we make hot dogs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "NTyhMGmuWik_8338.mp4",
+            "question": "Based on the video, should we add 1 tbls prepared yellow mustard, 1 tbls worcestershire sauce, 2 tsp brown sugar, mix, and simmer for 50 hours when we make hot dogs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "WqfselLH4MQ_10547.mp4",
+            "question": "Based on the video, should we cut chicken wings and drummet when we make buffalo wings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "WqfselLH4MQ_10547.mp4",
+            "question": "Based on the video, should we cut tofu wings and drummet when we make buffalo wings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "dMbb10O9hGs_4598.mp4",
+            "question": "Based on the video, should we mash the potato when we make mashed potato?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "dMbb10O9hGs_4598.mp4",
+            "question": "Based on the video, should we freeze the potato when we make mashed potato?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "g6eV_7U5HX8_3559.mp4",
+            "question": "Based on the video, should we add lettuce diced tomatoes onions olive pepper salsa sour cream and cheddar cheese when we make bean burrito?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "g6eV_7U5HX8_3559.mp4",
+            "question": "Based on the video, should we add lettuce, diced apples, onions, olive, pepper, salsa, chocolate, and cheddar cheese when we make bean burrito?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "VwtkHIturro_5424.mp4",
+            "question": "Based on the video, should we finely slice the cabbage when we make colcannon?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "VwtkHIturro_5424.mp4",
+            "question": "Based on the video, should we finely slice the wood when we make colcannon?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "gXINt_KMK3M_2733.mp4",
+            "question": "Based on the video, should we add red wine vinegar dijon mustard raisin toasted walnut diced apple and date paste to the food processor when we make waldorf salad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "gXINt_KMK3M_2733.mp4",
+            "question": "Based on the video, should we remove dijon mustard, raisin, toasted walnut, diced apple when we make waldorf salad?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "o8HaMr9E8J8_2707.mp4",
+            "question": "Based on the video, should we pour salt on the cabbage and mix when we make sauerkraut?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "o8HaMr9E8J8_2707.mp4",
+            "question": "Based on the video, should we pour sugar and salt on the cabbage and mix when we make sauerkraut?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "kchoaU2HL-o.mp4",
+            "question": "Based on the video, should we place the corn dogs in the oil when we make corn dogs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "kchoaU2HL-o.mp4",
+            "question": "Based on the video, should we place the ice cream in the oil when we make corn dogs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "lwdypoLpMW4_8929.mp4",
+            "question": "Based on the video, should we add the pasta to the pot when we make pasta e fagioli?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "lwdypoLpMW4_8929.mp4",
+            "question": "Based on the video, should we remove the pasta from the pot when we make pasta e fagioli?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "WQlMXudBGT4_5244.mp4",
+            "question": "Based on the video, should we blend the ingredients in the food processor when we make hummus?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "WQlMXudBGT4_5244.mp4",
+            "question": "Based on the video, should we remove the ingredients in the food processor when we make hummus?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "NAMZY2LbeFY_5518.mp4",
+            "question": "Based on the video, should we finely chop onions garlic and carrots in a mini food processor when we make pasta e fagioli?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "NAMZY2LbeFY_5518.mp4",
+            "question": "Based on the video, should we finely chop ice cream, cookies, and candy in a mini food processor when we make pasta e fagioli?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "5cn9KJfaQXk.mp4",
+            "question": "Based on the video, should we shape each dough ball into a circle and add tomato sauce when we make pepperoni pizza?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "5cn9KJfaQXk.mp4",
+            "question": "Based on the video, should we shape each dough ball into a triangle and add tomato sauce when we make pepperoni pizza?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "_Vzpj0cXoSM_9508.mp4",
+            "question": "Based on the video, should we add clams flour worcestershire sauce and hot sauce to the pot when we make clam chowder?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "_Vzpj0cXoSM_9508.mp4",
+            "question": "Based on the video, should we add clams, flour, worcestershire sauce, and chocolate sauce to the pot when we make clam chowder?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "-k7trpuj3X8_4344.mp4",
+            "question": "Based on the video, should we shake the bag to mix it up when we make calamari?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "-k7trpuj3X8_4344.mp4",
+            "question": "Based on the video, should we shake the bag to separate it out when we make calamari?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "2iWUUcW08ac_9037.mp4",
+            "question": "Based on the video, should we melt butter in a pan when we make pancake?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "2iWUUcW08ac_9037.mp4",
+            "question": "Based on the video, should we freeze butter in a pan when we make pancake?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "ucaCmhNo78k.mp4",
+            "question": "Based on the video, should we add cream of chicken soup margarine and colby cheese and mix the ingredients when we make hash browns?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ucaCmhNo78k.mp4",
+            "question": "Based on the video, should we add cream of chicken soup margarine and blue cheese and mix the ingredients when we make hash browns?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "ffhliBglDhY_4323.mp4",
+            "question": "Based on the video, should we add half of the pita bread triangles to the pan and fry until golden brown when we make fattoush?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ffhliBglDhY_4323.mp4",
+            "question": "Based on the video, should we boil half of the pita bread triangles in the pan until tender when we make fattoush?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "xhXcJ6bhX2w_6113.mp4",
+            "question": "Based on the video, should we place the pan in the oven and cook for 15 minutes when we make macaroni and cheese?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "xhXcJ6bhX2w_6113.mp4",
+            "question": "Based on the video, should we place the pan in the fridge and cook for 15 minutes when we make macaroni and cheese?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "wHWDBQ9_7FU_5243.mp4",
+            "question": "Based on the video, should we mix in water salt pepper and lemon juice when we make fish and chips?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "wHWDBQ9_7FU_5243.mp4",
+            "question": "Based on the video, should we mix in water sugar, chili, and lemon juice when we make fish and chips?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "GmkRlWA2kGI.mp4",
+            "question": "Based on the video, should we brown 400gm of sliced beef on a hot pan when we make goulash?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "GmkRlWA2kGI.mp4",
+            "question": "Based on the video, should we brown 400gm of sliced beef on a cold ice when we make goulash?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "T_fPNAK5Ecg_15117.mp4",
+            "question": "Based on the video, should we add butter and onions to the pan when we make bangers and mash?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "T_fPNAK5Ecg_15117.mp4",
+            "question": "Based on the video, should we add salt, pepper, and chocolate to the onions when we make bangers and mash?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "7R5MVNE-ePU_6501.mp4",
+            "question": "Based on the video, should we add cabbage leaves and submerge them in the broth when we make clam chowder?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "7R5MVNE-ePU_6501.mp4",
+            "question": "Based on the video, should we replace cabbage leaves with chocolate chips and submerge them in the broth when we make clam chowder?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "CWxjNRIKjA0_3325.mp4",
+            "question": "Based on the video, should we add a spoon of water when we make hash browns?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "CWxjNRIKjA0_3325.mp4",
+            "question": "Based on the video, should we add a spoon of moon water when we make hash browns?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "vSRZRp2Ovqc_3834.mp4",
+            "question": "Based on the video, should we add water from the pasta to the pan with bacon when we make spaghetti carbonara?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "vSRZRp2Ovqc_3834.mp4",
+            "question": "Based on the video, should we remove the pasta from the pan when we make spaghetti carbonara?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "05ZSU-5UkXw_3804.mp4",
+            "question": "Based on the video, should we add tomatoes cucumbers chickpeas green onions and feta to a plate with lettuce when we make fattoush?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "05ZSU-5UkXw_3804.mp4",
+            "question": "Based on the video, should we add tomatoes, cucumbers, chickpeas, green onions, and chocolate to a plate with lettuce when we make fattoush?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "KYoelaJY5LA_3894.mp4",
+            "question": "Based on the video, should we add oil onions garlic and chili flakes to a pot when we make pasta e fagioli?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "KYoelaJY5LA_3894.mp4",
+            "question": "Based on the video, should we add oil, onions, garlic, and chocolate chips to a pot when we make pasta e fagioli?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "y4y22RQH05c_10799.mp4",
+            "question": "Based on the video, should we place the sesame seed buns on the grill pan when we make burger?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "y4y22RQH05c_10799.mp4",
+            "question": "Based on the video, should we place the sesame seed marshmallows on a ceramic pan when we make burger?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "rKtI8FQGhHo.mp4",
+            "question": "Based on the video, should we add the garbanzo bean mixture lemon juice olive oil and flour to the food processor and proces when we make falafel?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "rKtI8FQGhHo.mp4",
+            "question": "Based on the video, should we add the garbanzo bean mixture, lemon juice, olive oil, and chocolate chips to the food processor and process when we make falafel?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "sj4BJSnjubc.mp4",
+            "question": "Based on the video, should we combine rinsed black beans and refried beans heat and mix when we make bean burrito?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "sj4BJSnjubc.mp4",
+            "question": "Based on the video, should we combine rinsed black beans and refried beans, chill, and separate when we make bean burrito?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "Jtusyjv7GiY_7198.mp4",
+            "question": "Based on the video, should we add onion ketchup and mustard when we make hot dogs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Jtusyjv7GiY_7198.mp4",
+            "question": "Based on the video, should we add onion, ice cream, and mustard when we make hot dogs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "GgM8IIglBLw_7669.mp4",
+            "question": "Based on the video, should we add salt and pepper and stir when we make tomato soup?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "GgM8IIglBLw_7669.mp4",
+            "question": "Based on the video, should we remove salt and pepper and stir when we make tomato soup?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "Y2HYSmo4KaI_5324.mp4",
+            "question": "Based on the video, should we add the red chilis chicken garlic ginger peanuts spring onions and sauce to a pan and stir when we make kung pao chicken?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Y2HYSmo4KaI_5324.mp4",
+            "question": "Based on the video, should we remove the red chilis chicken garlic ginger peanuts spring onions and sauce from the pan and stop stirring when we make kung pao chicken?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "QKjmdrMA2t8_6472.mp4",
+            "question": "Based on the video, should we season the ground meat with salt black pepper and a little pinch of white pepper when we make spaghetti and meatballs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "QKjmdrMA2t8_6472.mp4",
+            "question": "Based on the video, should we season the ground meat with salt, and a little pinch of sugar when we make spaghetti and meatballs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "J7gBorrGvDU.mp4",
+            "question": "Based on the video, should we add beer to the mixture when we make onion rings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "J7gBorrGvDU.mp4",
+            "question": "Based on the video, should we add orange juice to the mixture when we make onion rings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "i0qYuhtSQHI.mp4",
+            "question": "Based on the video, should we pour some of the egg mixture on top when we make croque monsieur?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "i0qYuhtSQHI.mp4",
+            "question": "Based on the video, should we pour the egg mixture underneath when we make croque monsieur?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "4Zl5NvXPi-0.mp4",
+            "question": "Based on the video, should we put the ham on the bread and pour some bechamel sauce on the bread when we make croque monsieur?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "4Zl5NvXPi-0.mp4",
+            "question": "Based on the video, should we put the ham on the bread and pour some chocolate sauce on the bread when we make croque monsieur?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "efnHOsT7k9s_3724.mp4",
+            "question": "Based on the video, should we blend tomatoes oil salt garlic and basil together when we make pizza marghetta?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "efnHOsT7k9s_3724.mp4",
+            "question": "Based on the video, should we blend tomatoes, oil, salt, garlic, and basil apart when we make pizza marghetta?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "qkluMpILLdQ.mp4",
+            "question": "Based on the video, should we add the green onions to the pot when we make colcannon?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "qkluMpILLdQ.mp4",
+            "question": "Based on the video, should we remove the water from the pot before adding the green onions when we make colcannon?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "84i8Qdnyd0k_4074.mp4",
+            "question": "Based on the video, should we put in cold water and cook to a boil and salt the water when we make mashed potato?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "84i8Qdnyd0k_4074.mp4",
+            "question": "Based on the video, should we wet and soak the potatoes when we make mashed potato?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "QYl_wwBKt18.mp4",
+            "question": "Based on the video, should we then add the corn starch slowly and stir for 1-2 minutes or until the mixture thickens when we make hash browns?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "QYl_wwBKt18.mp4",
+            "question": "Based on the video, should we then add the corn starch quickly and stir for 1-2 minutes or until the mixture thickens when we make hash browns?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "ljyO7IaGWLY_7815.mp4",
+            "question": "Based on the video, should we fold the dough over and press the edges together when we make pierogi?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ljyO7IaGWLY_7815.mp4",
+            "question": "Based on the video, should we unfold the dough and separate the edges apart when we make pierogi?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "88YovCsnMxs_2277.mp4",
+            "question": "Based on the video, should we put mayonnaise on top of two pieces of bread when we make macaroni and cheese?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "88YovCsnMxs_2277.mp4",
+            "question": "Based on the video, should we put mayonnaise on top of two pieces of chocolate when we make macaroni and cheese?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "pNAwkqm4t3A_2699.mp4",
+            "question": "Based on the video, should we dip onions in batter when we make onion rings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "pNAwkqm4t3A_2699.mp4",
+            "question": "Based on the video, should we dip ice cream in batter when we make onion rings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "G-AUY-jWzck_5337.mp4",
+            "question": "Based on the video, should we add pepper and sauerkraut to the pot when we make goulash?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "G-AUY-jWzck_5337.mp4",
+            "question": "Based on the video, should we add sauerkraut and pepper to the pot when we make goulash?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "oDsUh1es_lo_1366.mp4",
+            "question": "Based on the video, should we spread mustard on the bread when we make grilled cheese?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "oDsUh1es_lo_1366.mp4",
+            "question": "Based on the video, should we spread chocolate on the bread when we make grilled cheese?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "hs2h7nb5PHQ_6053.mp4",
+            "question": "Based on the video, should we add the vegetable mixture and the clam meat when we make clam chowder?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "hs2h7nb5PHQ_6053.mp4",
+            "question": "Based on the video, should we remove the vegetable mixture and the clam meat when we make clam chowder?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "5VnaolWGIy4_2816.mp4",
+            "question": "Based on the video, should we add cherry tomatoes olives and caesar dressing and mix them well when we make pasta salad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "5VnaolWGIy4_2816.mp4",
+            "question": "Based on the video, should we add cherry tomatoes, olives, and chocolate sauce, and mix them well when we make pasta salad?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "RWtVm_5_D2s_4972.mp4",
+            "question": "Based on the video, should we cut the dough into pieces when we make pizza marghetta?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "RWtVm_5_D2s_4972.mp4",
+            "question": "Based on the video, should we cut the air into pieces when we make pizza marghetta?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "NK2tAXi3cT4_13185.mp4",
+            "question": "Based on the video, should we add condensed tomato soup salsa water and the chopped tortillas to the cooked beef when we make beef tacos?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "NK2tAXi3cT4_13185.mp4",
+            "question": "Based on the video, should we add the extra ice to the beef when we make beef tacos?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "4nxbRG6-sfw_7280.mp4",
+            "question": "Based on the video, should we add green onion garlic and ginger to the wok when we make kung pao chicken?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "4nxbRG6-sfw_7280.mp4",
+            "question": "Based on the video, should we remove green onion, garlic, and ginger from the wok when we make kung pao chicken?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "HBUz55JRRm8_18671.mp4",
+            "question": "Based on the video, should we mash the boiled potatos with butter salt and pepper when we make cottage pie?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "HBUz55JRRm8_18671.mp4",
+            "question": "Based on the video, should we mash the boiled potatos with sugar and salt when we make cottage pie?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "hLTNXDKU_Pk_2606.mp4",
+            "question": "Based on the video, should we pour the eggs into the pan of hot water and mix when we make eggs benedict?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "hLTNXDKU_Pk_2606.mp4",
+            "question": "Based on the video, should we pour the eggs into the pan of hot oil and mix when we make eggs benedict?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "MCtF5tRCRUk_6374.mp4",
+            "question": "Based on the video, should we whisk the eggs and place the bowl over a pan of water when we make eggs benedict?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MCtF5tRCRUk_6374.mp4",
+            "question": "Based on the video, should we whisk the eggs and place the bowl under a pan of water when we make eggs benedict?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "Dao0vasGPMQ.mp4",
+            "question": "Based on the video, should we mix milk and vinegar together when we make fried chicken?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Dao0vasGPMQ.mp4",
+            "question": "Based on the video, should we mix milk and vinegar together to create a delicious smoothie when we make fried chicken?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "sv8jRCmi3Ro_6400.mp4",
+            "question": "Based on the video, should we add the sliced onions to the tomatoes in the oven when we make tabbouleh?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "sv8jRCmi3Ro_6400.mp4",
+            "question": "Based on the video, should we add tomatoes to the oven when we make tabbouleh?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "3aFiXsrKSoQ.mp4",
+            "question": "Based on the video, should we skewer the meat onion tomatoes and green pepper when we make shish kabob?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "3aFiXsrKSoQ.mp4",
+            "question": "Based on the video, should we skewer the meat, onion, tomatoes, and marshmallows when we make shish kabob?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "M8SHMUBnm4A_5424.mp4",
+            "question": "Based on the video, should we pour the eggs into the pan when we make scrambled eggs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "M8SHMUBnm4A_5424.mp4",
+            "question": "Based on the video, should we pour the eggs onto the ceiling when we make scrambled eggs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "c4WaDsqP38k.mp4",
+            "question": "Based on the video, should we add cabbage and carrot to the wok and stir fry when we make chinese spring rolls?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "c4WaDsqP38k.mp4",
+            "question": "Based on the video, should we add chocolate and carrot to the wok and stir fry when we make chinese spring rolls?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "MPCU71Hg-i4_1287.mp4",
+            "question": "Based on the video, should we cut the pepperoni in half when we make pepperoni pizza?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MPCU71Hg-i4_1287.mp4",
+            "question": "Based on the video, should we cut the pepperoni in quarters when we make pepperoni pizza?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "_ilIn1kmNSA_2207.mp4",
+            "question": "Based on the video, should we cover the pot and steam when we make mussels?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "_ilIn1kmNSA_2207.mp4",
+            "question": "Based on the video, should we uncover the pot and steam when we make mussels?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "JPbFE731Y0c_4793.mp4",
+            "question": "Based on the video, should we transfer the bratwurst into the pan and cover it with aluminum foil and let it cook for 20 minutes when we make bratwurst?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "JPbFE731Y0c_4793.mp4",
+            "question": "Based on the video, should we place the bratwurst into the pan and cover it with chocolate foil and let it cook for 20 minutes when we make bratwurst?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "PTpRTJKAEoI_4823.mp4",
+            "question": "Based on the video, should we  1 clove of garlic finely chopped 2 tsp of grated parmesan cheese and freshly ground black pepper when we make caesar salad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "PTpRTJKAEoI_4823.mp4",
+            "question": "Based on the video, should we 1 clove of garlic finely chopped, 2 tsp of grated chocolate, and freshly ground black pepper when we make caesar salad?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "tPLVNKgs8Lk_4614.mp4",
+            "question": "Based on the video, should we pour small portions of the mixture to a medium heated pan when we make pancake?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "tPLVNKgs8Lk_4614.mp4",
+            "question": "Based on the video, should we pour small portions of the mixture into a medium-cooled pan when we make pancake?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "7NptUiW8hJw.mp4",
+            "question": "Based on the video, should we add macaroni to a bowl when we make pasta salad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "7NptUiW8hJw.mp4",
+            "question": "Based on the video, should we remove macaroni from a bowl when we make pasta salad?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "OWtnI3m-p8g_9248.mp4",
+            "question": "Based on the video, should we cut up the bread into chunks and add to a pan when we make caesar salad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "OWtnI3m-p8g_9248.mp4",
+            "question": "Based on the video, should we add butter, pepper, salt, and chocolate to the pan when we make caesar salad?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "F2qYQZ7Q68s_2785.mp4",
+            "question": "Based on the video, should we add some steamed rice and stir everything together when we make bean burrito?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "F2qYQZ7Q68s_2785.mp4",
+            "question": "Based on the video, should we add some steamed ice and stir everything together when we make bean burrito?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "eYOn2ZVB4nc_3772.mp4",
+            "question": "Based on the video, should we finely chop a bundle of parsley and add to a bowl when we make tabbouleh?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "eYOn2ZVB4nc_3772.mp4",
+            "question": "Based on the video, should we finely chop a bundle of pencils and add to a bowl when we make tabbouleh?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "3meb_5kcPFg_8399.mp4",
+            "question": "Based on the video, should we roughly chop garlic and peppers and add them to the bowl when we make shish kabob?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "3meb_5kcPFg_8399.mp4",
+            "question": "Based on the video, should we finely sift flour and sugar and add them to the bowl when we make shish kabob?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "rwYaDqXFH88_9469.mp4",
+            "question": "Based on the video, should we slice the tomatoes spread the sauce on the burger base and place tomato and spinach on top when we make burger?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "rwYaDqXFH88_9469.mp4",
+            "question": "Based on the video, should we slice the tomatoes, spread the sauce on the cake base, and place tomato and spinach on top when we make burger?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "WlHWRPyA7_g.mp4",
+            "question": "Based on the video, should we heat oil and add chopped onions grated ginger green peppers when we make chinese spring rolls?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "WlHWRPyA7_g.mp4",
+            "question": "Based on the video, should we heat oil and add chopped ice, grated snow, green glaciers when we make chinese spring rolls?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "PQ97HXmsFR0.mp4",
+            "question": "Based on the video, should we cut off the tails and chop the shrimps into rough pieces about  inch thick and set them aside when we make chinese spring rolls?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "PQ97HXmsFR0.mp4",
+            "question": "Based on the video, should we cut off the tails and chop the carrots into rough pieces about \u00bd inch thick and set them aside when we make chinese spring rolls?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "EpNUSTO2BI4.mp4",
+            "question": "Based on the video, should we spread butter on top of escargot when we make escargot?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "EpNUSTO2BI4.mp4",
+            "question": "Based on the video, should we spread peanut butter on top of escargot when we make escargot?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "_GTwKEPmB-U_5183.mp4",
+            "question": "Based on the video, should we add the potato starch salt and pepper when we make boxty?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "_GTwKEPmB-U_5183.mp4",
+            "question": "Based on the video, should we add the potato, starlight, salt, and pepper when we make boxty?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "HdQzPLk_KiA_4824.mp4",
+            "question": "Based on the video, should we put chickpeas parsley chopped onion chili powder ground cumin in food processor when we make falafel?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "HdQzPLk_KiA_4824.mp4",
+            "question": "Based on the video, should we place moon rocks, parsley, chopped unicorn, chili powder, ground cumin in food processor when we make falafel?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "uOXlG8Tglc8_2389.mp4",
+            "question": "Based on the video, should we place the bacon on 1 piece of toast followed by the tomato and iceberg lettuce when we make BLT?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "uOXlG8Tglc8_2389.mp4",
+            "question": "Based on the video, should we place the bacon on 1 piece of chocolate followed by the tomato and iceberg lettuce when we make BLT?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "EedEYHqLfP8.mp4",
+            "question": "Based on the video, should we boil a large pot of water and cook macaroni in the water when we make macaroni and cheese?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "EedEYHqLfP8.mp4",
+            "question": "Based on the video, should we freeze a large pot of water and cook macaroni in the ice when we make macaroni and cheese?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "A8eDWlCYaq8.mp4",
+            "question": "Based on the video, should we heat the frying oil to 375 f degree when we make buffalo wings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "A8eDWlCYaq8.mp4",
+            "question": "Based on the video, should we cool the frying oil to 75 f degree when we make buffalo wings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "J5Tw7KRnSyc_6223.mp4",
+            "question": "Based on the video, should we peel the potatoes when we make fish and chips?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "J5Tw7KRnSyc_6223.mp4",
+            "question": "Based on the video, should we peel the bananas when we make fish and chips?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "XAHNVoKV1Bc_16302.mp4",
+            "question": "Based on the video, should we add 3/4 pound of ground beef and mix well to incorporate all the ingredients when we make spaghetti and meatballs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "XAHNVoKV1Bc_16302.mp4",
+            "question": "Based on the video, should we add 3/4 pound of ground beef and mix well to separate all the ingredients when we make spaghetti and meatballs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "awQYyYgulLw_2573.mp4",
+            "question": "Based on the video, should we saute onion and celery with olive oil in a pan when we make minestrone?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "awQYyYgulLw_2573.mp4",
+            "question": "Based on the video, should we saute chocolate and celery with olive oil in a pan when we make minestrone?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "XEifm-iXMvs.mp4",
+            "question": "Based on the video, should we blend the chickpeas in a food processor when we make falafel?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "XEifm-iXMvs.mp4",
+            "question": "Based on the video, should we blend the rocks in a food processor when we make falafel?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "RznLeKVI3yo.mp4",
+            "question": "Based on the video, should we add garlic powder chili powder paprika salt cayenne pepper buffalo wing sauce to the wings and mix when we make buffalo wings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "RznLeKVI3yo.mp4",
+            "question": "Based on the video, should we remove garlic powder chili powder paprika salt cayenne pepper buffalo wing sauce from the wings when we make buffalo wings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "wlq30WwXwSM.mp4",
+            "question": "Based on the video, should we add dried herbs and the instant mashed potato powder when we make fried chicken?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "wlq30WwXwSM.mp4",
+            "question": "Based on the video, should we add fresh herbs and the instant mashed potato powder when we make fried chicken?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "oAE7nqQeMBQ_3175.mp4",
+            "question": "Based on the video, should we add canadian bacon cut english muffins and more bacon to the tray when we make eggs benedict?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "oAE7nqQeMBQ_3175.mp4",
+            "question": "Based on the video, should we add canadian bacon, cut english muffins, and more bananas to the tray when we make eggs benedict?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "DHpQOhQhW3A_3648.mp4",
+            "question": "Based on the video, should we cut hotdogs into thirds and place in the flour when we make corn dogs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "DHpQOhQhW3A_3648.mp4",
+            "question": "Based on the video, should we place hotdogs into thirds and cut in the flour when we make corn dogs?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "c3JFGGhkArA_3205.mp4",
+            "question": "Based on the video, should we melt a piece of butter in a heavy saucepan over medium heat when we make croque monsieur?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "c3JFGGhkArA_3205.mp4",
+            "question": "Based on the video, should we freeze a piece of butter in a heavy saucepan over medium heat when we make croque monsieur?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "2HsWZdKKBGg.mp4",
+            "question": "Based on the video, should we heat butter and olive oil in a large pan when we make pasta e fagioli?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "2HsWZdKKBGg.mp4",
+            "question": "Based on the video, should we cool butter and olive oil in a large pan when we make pasta e fagioli?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "mhEVgpfF-IU.mp4",
+            "question": "Based on the video, should we add water salt cayenne pepper chili powder and cumin and boil the water when we make beef tacos?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "mhEVgpfF-IU.mp4",
+            "question": "Based on the video, should we add water, salt, cayenne pepper, chili powder, and cumin, and freeze the water when we make beef tacos?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "peld2w63tpM_4391.mp4",
+            "question": "Based on the video, should we add the squid into a pot of hot oil when we make calamari?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "peld2w63tpM_4391.mp4",
+            "question": "Based on the video, should we add the squid into a pot of cold oil when we make calamari?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "TfITvKr5M3k.mp4",
+            "question": "Based on the video, should we add salt and pepper and mix again when we make tabbouleh?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "TfITvKr5M3k.mp4",
+            "question": "Based on the video, should we remove salt and pepper and mix again when we make tabbouleh?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "cwctMiDug9Y.mp4",
+            "question": "Based on the video, should we pour the ingredients into the bowl when we make homemade ice cream?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "cwctMiDug9Y.mp4",
+            "question": "Based on the video, should we pour the peper and soy sauce into the bowl when we make homemade ice cream?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "b2H8ph_FnTE.mp4",
+            "question": "Based on the video, should we prepare and boil water when we make tea?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "b2H8ph_FnTE.mp4",
+            "question": "Based on the video, should we prepare and boil ice when we make tea?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "ivX9Wwp13HA.mp4",
+            "question": "Based on the video, should we do the first layup when we attend NBA skills challenge?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ivX9Wwp13HA.mp4",
+            "question": "Based on the video, should we dribble and fly up when we attend NBA skills challenge?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "MeZvU3ffU7I.mp4",
+            "question": "Based on the video, should we heat the teapot and wash the cup when we make tea?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MeZvU3ffU7I.mp4",
+            "question": "Based on the video, should we cool the teapot and wash the tea when we make tea?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "11WfYWXFS9M.mp4",
+            "question": "Based on the video, should we tear out the foil when we open champagne bottle?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "11WfYWXFS9M.mp4",
+            "question": "Based on the video, should we seal in the foil when we open champagne bottle?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "pESV6xLJNkA.mp4",
+            "question": "Based on the video, should we set up the brackets when we pitch a tent?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "pESV6xLJNkA.mp4",
+            "question": "Based on the video, should we set up the sandwiches in a tent when we pitch a tent?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "x_llOQFMjAY.mp4",
+            "question": "Based on the video, should we scrape tarpaulin without ink when we do lino printing?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "x_llOQFMjAY.mp4",
+            "question": "Based on the video, should we transfer erase when we do lino printing?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "zKwnGRiKvPU.mp4",
+            "question": "Based on the video, should we take out the laptop CD drive when we replace CD drive with SSD?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "zKwnGRiKvPU.mp4",
+            "question": "Based on the video, should we insert the laptop into the cd drive when we replace CD drive with SSD?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "fuNB9A_Z2qI.mp4",
+            "question": "Based on the video, should we remove the core when we cut mango?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "fuNB9A_Z2qI.mp4",
+            "question": "Based on the video, should we eat the mango without the need to peel when we cut mango?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "ozgQRSRy6uQ_607.mp4",
+            "question": "Based on the video, should we slice the pulp when we cut cantaloupe?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ozgQRSRy6uQ_607.mp4",
+            "question": "Based on the video, should we slice the peel when we cut cantaloupe?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "n5lteHq-D64.mp4",
+            "question": "Based on the video, should we place license plate cover when we install license plate frame?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "n5lteHq-D64.mp4",
+            "question": "Based on the video, should we remove license plate cover when we install license plate frame?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "luxoK5hbjmI.mp4",
+            "question": "Based on the video, should we bent the paperclips by hands when we open a lock with paperclips?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "luxoK5hbjmI.mp4",
+            "question": "Based on the video, should we magnetized the paperclips by hands when we open a lock with paperclips?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "TpkoruQWsfA.mp4",
+            "question": "Based on the video, should we apply detergent to leather when we clean leather seat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "TpkoruQWsfA.mp4",
+            "question": "Based on the video, should we do not apply detergent to leather when we clean leather seat?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "shiQl90MgNA.mp4",
+            "question": "Based on the video, should we take out the wiper when we replace a wiper head?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "shiQl90MgNA.mp4",
+            "question": "Based on the video, should we take out the ice cream with the wiper when we replace a wiper head?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "81gfwH3X_S4.mp4",
+            "question": "Based on the video, should we line up for admission when we raise flag?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "81gfwH3X_S4.mp4",
+            "question": "Based on the video, should we line up for teleportation when we raise flag?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "NTCkp9PYZgc.mp4",
+            "question": "Based on the video, should we add ingredients into cone when we wrap zongzi?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "NTCkp9PYZgc.mp4",
+            "question": "Based on the video, should we remove ingredients from cone when we wrap zongzi?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "mlvU4-LuKwU.mp4",
+            "question": "Based on the video, should we install stand of the seat when we assemble sofa?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "mlvU4-LuKwU.mp4",
+            "question": "Based on the video, should we uninstall stand of the seat when we assemble sofa?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "9eT87s105NE_19.mp4",
+            "question": "Based on the video, should we stir the egg when we cook omelet?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "9eT87s105NE_19.mp4",
+            "question": "Based on the video, should we stir the water when we cook omelet?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "s2mYMIJ11b0_694.mp4",
+            "question": "Based on the video, should we open cover when we replace battery on TV control?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "s2mYMIJ11b0_694.mp4",
+            "question": "Based on the video, should we open umbrella when we replace battery on TV control?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "AlUVHdaNrW4.mp4",
+            "question": "Based on the video, should we place the board on each side when we assemble bed?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "AlUVHdaNrW4.mp4",
+            "question": "Based on the video, should we place the board on one side when we assemble bed?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "0Q7vAc0tZwo.mp4",
+            "question": "Based on the video, should we wrap the hair by hands when we wash hair?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0Q7vAc0tZwo.mp4",
+            "question": "Based on the video, should we scratch the table carefully when we wash hair?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "XQBfOYkvjx0.mp4",
+            "question": "Based on the video, should we rub and drag the materials when we make slime with glue?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "XQBfOYkvjx0.mp4",
+            "question": "Based on the video, should we remove different kinds of ingredients when we make slime with glue?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "JIm62tXmBvc.mp4",
+            "question": "Based on the video, should we apply polishing paste on the surface when we polish car?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "JIm62tXmBvc.mp4",
+            "question": "Based on the video, should we ignore the scratch when we polish car?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "ye_CceBzB-Q.mp4",
+            "question": "Based on the video, should we fry meat when we make burger?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "ye_CceBzB-Q.mp4",
+            "question": "Based on the video, should we freeze meat when we make burger?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "aa9DUgKnRCs.mp4",
+            "question": "Based on the video, should we pour the egg into the pot when we cook omelet?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "aa9DUgKnRCs.mp4",
+            "question": "Based on the video, should we pour the eggshell into the pot when we cook omelet?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "Cvym6uVKOc4.mp4",
+            "question": "Based on the video, should we unroll the dough when we make pizza?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Cvym6uVKOc4.mp4",
+            "question": "Based on the video, should we unroll the wire when we make pizza?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "gGrIGa88BbA_208.mp4",
+            "question": "Based on the video, should we rub back and forth with potatoes or rust remover when we clean rusty pot?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "gGrIGa88BbA_208.mp4",
+            "question": "Based on the video, should we rub back and forth with sandpaper or rust remover when we clean rusty pot?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "6P994ZVoAUA.mp4",
+            "question": "Based on the video, should we pull out the insurance ring when we operate fire extinguisher?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "6P994ZVoAUA.mp4",
+            "question": "Based on the video, should we spray water towards the electrical fire when we operate fire extinguisher?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "4q7uW0w3ZRc.mp4",
+            "question": "Based on the video, should we rise to the sky when we practise skiing aerials?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "4q7uW0w3ZRc.mp4",
+            "question": "Based on the video, should we ski up the hill when we practise skiing aerials?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "m03QoutPNDU_94.mp4",
+            "question": "Based on the video, should we put the thread on the spool when we use sewing machine?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "m03QoutPNDU_94.mp4",
+            "question": "Based on the video, should we remove the thread from the spool when we use sewing machine?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "DNLg8lMlERg.mp4",
+            "question": "Based on the video, should we prepare seasonings and side dishes when we make lamb kebab?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "DNLg8lMlERg.mp4",
+            "question": "Based on the video, should we toast ingredients when we make lamb kebab?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "I6qUVrkjdIc.mp4",
+            "question": "Based on the video, should we pour the gesso to the canvas when we prepare canvas?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "I6qUVrkjdIc.mp4",
+            "question": "Based on the video, should we pour the milk onto the canvas when we prepare canvas?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "oRxqGZrnyYA.mp4",
+            "question": "Based on the video, should we fix the new string on the lower part of the guitar when we change guitar strings?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "oRxqGZrnyYA.mp4",
+            "question": "Based on the video, should we fix the new string on the upper part of the guitar when we change guitar strings?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "76HTCZmJb7I.mp4",
+            "question": "Based on the video, should we take out the old bulb when we replace a bulb?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "76HTCZmJb7I.mp4",
+            "question": "Based on the video, should we replace the old bulb when we replace a bulb?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "LqQDPM9D8vI.mp4",
+            "question": "Based on the video, should we pour the soup in when we make pickles?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "LqQDPM9D8vI.mp4",
+            "question": "Based on the video, should we pour the soup out when we make pickles?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "XmZKgV0mceA.mp4",
+            "question": "Based on the video, should we strip the insulation when we make RJ45 cable?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "XmZKgV0mceA.mp4",
+            "question": "Based on the video, should we snip the wire when we make RJ45 cable?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "U7Hv602KAxM.mp4",
+            "question": "Based on the video, should we put in the plant when we transplant?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "U7Hv602KAxM.mp4",
+            "question": "Based on the video, should we put in the ocean when we transplant?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "DKLXfFcjJRc.mp4",
+            "question": "Based on the video, should we wipe the dish when we wash dish?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "DKLXfFcjJRc.mp4",
+            "question": "Based on the video, should we wipe the dish dry with a sponge soaked in dirty water when we wash dish?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "b67fXiGCbuQ_485.mp4",
+            "question": "Based on the video, should we pour the soup in when we make pickles?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "b67fXiGCbuQ_485.mp4",
+            "question": "Based on the video, should we pour the soup out when we make pickles?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "LnogHwL3SKI.mp4",
+            "question": "Based on the video, should we cut up the garlics when we smash garlic?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "LnogHwL3SKI.mp4",
+            "question": "Based on the video, should we peel the bananas when we smash garlic?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "mJKQMbffcEs.mp4",
+            "question": "Based on the video, should we press the chest of the patient when we perform CPR?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "mJKQMbffcEs.mp4",
+            "question": "Based on the video, should we press the back of the patient when we perform CPR?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "rvjaGQBlhPU.mp4",
+            "question": "Based on the video, should we circle the rope under the bolt when we tie boat to dock?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "rvjaGQBlhPU.mp4",
+            "question": "Based on the video, should we cross the rope to unwrap the bolt when we tie boat to dock?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "WqMX17vnGjw_326.mp4",
+            "question": "Based on the video, should we put on the hair extensions when we put on hair extensions?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "WqMX17vnGjw_326.mp4",
+            "question": "Based on the video, should we remove the hair extensions when we put on hair extensions?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "bZJZsfLKIRc.mp4",
+            "question": "Based on the video, should we filtrate the coffee beans when we make coffee?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "bZJZsfLKIRc.mp4",
+            "question": "Based on the video, should we remove some ingredients from the coffee when we make coffee?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "THoWo6JUk1Q.mp4",
+            "question": "Based on the video, should we wipe the screen when we replace mobile screen protector?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "THoWo6JUk1Q.mp4",
+            "question": "Based on the video, should we lick the screen when we replace mobile screen protector?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "sDd4VkUm85Y.mp4",
+            "question": "Based on the video, should we open cover when we replace battery on TV control?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "sDd4VkUm85Y.mp4",
+            "question": "Based on the video, should we break cover when we replace battery on TV control?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "8L7fj8R7mlE_658.mp4",
+            "question": "Based on the video, should we strip the insulation when we make RJ45 cable?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "8L7fj8R7mlE_658.mp4",
+            "question": "Based on the video, should we cut an uncertain length when we make RJ45 cable?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "r9qsd6nNXBQ.mp4",
+            "question": "Based on the video, should we cut both ends and remove fruit seeds when we cut grape fruit?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "r9qsd6nNXBQ.mp4",
+            "question": "Based on the video, should we add fruit juice and enjoy a refreshing drink when we cut grape fruit?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "89ts_Imt3RQ_495.mp4",
+            "question": "Based on the video, should we begin to practise karate when we practise karate?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "89ts_Imt3RQ_495.mp4",
+            "question": "Based on the video, should we begin to teach karate when we practise karate?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "u5jaZGLTPSA.mp4",
+            "question": "Based on the video, should we remove the old memory chip when we replace memory chip?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "u5jaZGLTPSA.mp4",
+            "question": "Based on the video, should we insert the old memory chip when we replace memory chip?",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_instruct"
+    },
+    {
+        "basic": {
+            "video": "Chapter_3_-_Considerations_for_Your_Ethical_Framework-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Your business values should shape your ethical framework, which needs to be built and managed on fundamental AI considerations including data quality, bias, transparency, security, predictability, auditability, and responsibility, as these elements are crucial for your AI strategy.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Chapter_3_-_Considerations_for_Your_Ethical_Framework-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Your business values should shape your ethical framework, which needs to be ignored and overlooked on fundamental AI considerations including data quality, bias, transparency, security, predictability, auditability, and responsibility, as these elements are irrelevant for your AI strategy.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Chapter_2_-_Call_to_Action_for_Ethics_in_AI-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course emphasizes the swift advancement of Artificial Intelligence and the urgent need to address ethical concerns, highlighting the lack of awareness and action among executives regarding AI ethics and bias prevention.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Chapter_2_-_Call_to_Action_for_Ethics_in_AI-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course underscores the prolonged stagnation of Artificial Intelligence and the minimal need to address ethical concerns, ignoring the abundant awareness and action among executives regarding AI ethics and bias prevention.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Chapter_1_-_Drivers_for_AI__Data_Science-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The AI market is experiencing rapid growth, with global revenue expected to hit $118.6 billion by 2025, driven by technological advances, consumer adoption, and a massive increase in data, highlighting its priority status for 83% of businesses.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Chapter_1_-_Drivers_for_AI__Data_Science-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The AI market is experiencing rapid decline, with global revenue expected to hit $118.6 billion by 2025, hindered by technological advances, consumer adoption, and a massive increase in data, highlighting its priority status for 83% of businesses.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Welcome_to_LFS112x-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course focuses on the critical need for ethical frameworks in AI development, as AI transitions from science-fiction to reality where humans and machines increasingly merge, covering the drivers of AI adoption, how to build ethical structures, and the role of open source projects in responsible AI progress.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Welcome_to_LFS112x-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course focuses on the critical need for ethical frameworks in AI development, as AI transitions from reality to science-fiction where humans and machines increasingly separate, covering the drivers of AI rejection, how to dismantle ethical structures, and the role of closed source projects in hindering AI progress.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V000200_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This part of the W3C HTML5 course focuses on advanced multimedia features, introducing the Web Audio API for audio processing and synthesis in web applications, and the Track API for synchronizing video content with interactive document elements.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V000200_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This part of the W3C HTML5 course focuses on outdated multimedia features, introducing the Web Audio API for handwritten letter processing and synthesis in web applications, and the Track API for synchronizing video content with telegraph communication elements.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V000300_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course begins by explaining that while humans see images as visual representations, computers interpret them as a matrix of pixels with numerical intensity values, where color images further involve a three-dimensional matrix representing red, green, and blue pixel intensities to create a spectrum of colors.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V000300_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course begins by explaining that while humans see images as visual representations, computers interpret them as a series of handwritten annotations, where color images further involve interpretive dance routines representing red, green, and blue movements to create a spectrum of colors.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V000900_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course on scikit-learn covers classical machine learning techniques that are statistically and regression-based, highly effective, and simple to implement for various AI applications, but highlights their limitations in computer vision, notably their sensitivity to image alterations and challenges in accurately classifying objects due to the influence of irrelevant background pixels.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V000900_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course on scikit-learn covers classical machine learning techniques that are statistically and regression-based, highly ineffective, and complex to implement for various AI applications, but highlights their limitations in computer vision, notably their insensitivity to image alterations and challenges in accurately classifying objects due to the influence of irrelevant background pixels.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M0_Welcome_Iain-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course, led by Professor Iain Murray, offers a comprehensive introduction to the Internet of Things, covering its overview, real-world applications, underlying technologies, programming, data management, security issues, and the design process.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M0_Welcome_Iain-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course, led by Professor Iain Murray, offers a comprehensive introduction to Medieval Literature, covering its overview, real-world applications, underlying technologies, programming, data management, security issues, and the design process.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V000200_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Edge Detection involves converting color images to grayscale and applying a Sobel Filter to detect abrupt changes in pixel values, indicating object boundaries by calculating gradients and their directions in images.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V000200_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Edge Detection involves converting color images to complete blackness and applying a Sobel Filter to detect uniformity in pixel values, blurring object boundaries by calculating gradients and their directions in images.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Crash_Course_Engineering_Preview_-_English.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course, presented by Dr. Shini Somara, a passionate engineer and science communicator, aims to delve into the broad and impactful world of engineering, exploring its various fields such as civil, mechanical, electrical, and chemical engineering, and illustrating how engineers use their problem-solving skills to create innovations that shape our everyday lives, from technology to infrastructure.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Crash_Course_Engineering_Preview_-_English.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course, presented by Dr. Shini Somara, a passionate chef and food critic, aims to delve into the broad and impactful world of engineering, exploring its various fields such as civil, mechanical, electrical, and chemical engineering, and illustrating how engineers use their problem-solving skills to create innovations that shape our everyday lives, from technology to infrastructure.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M1_Animation-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course introduces the concept of the Internet of Things (IoT) as the integration of everyday objects with the internet to gather and utilize data for improving life, business, and the environment, heralding it as a transformative revolution akin to the advent of computers.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M1_Animation-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course introduces the concept of the Internet of Things (IoT) as the separation of everyday objects from the internet, preventing the ability to gather and utilize data for improving life, business, and the environment, dismissing it as a minor modification unlike the advent of computers.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M1.3_CS_Agriculture_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Malcolm Hayes introduces his innovative dairy farming operation in Cookernup, Western Australia, highlighting the adoption of a GEA cow management system that enhances efficiency and cow health through milk monitors, automatic ID systems, and responsive technology for better herd management.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M1.3_CS_Agriculture_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Malcolm Hayes introduces his innovative dairy farming operation in Cookernup, Western Australia, highlighting the rejection of modern technology for a return to traditional methods that ignore efficiency and cow health, focusing only on manual processes and eschewing milk monitors, automatic ID systems, and responsive technology for herd management.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M1.3_CS_Health_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Shiva Sharif Bidabadi's project focuses on developing an affordable, user-friendly device for early identification of abnormalities in walking gait patterns, aiming to improve prevention of related issues in both the elderly and the youth by enabling at-home monitoring and data analysis.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M1.3_CS_Health_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Shiva Sharif Bidabadi's project focuses on developing an expensive, complex device for late identification of normalities in walking gait patterns, aiming to hinder prevention of related issues in both the elderly and the youth by disabling at-home monitoring and data analysis.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.1_CS_FootDrop_Sensors_V2-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course details the utilization of a device comprised of three IMU sensors within color-coded 3D printed boxes, attached to different sections of the lower limb (thigh, shank, foot) for capturing movement data, such as angles and velocities during gait cycles, using accelerometers, gyroscopes, and magnetometers to analyze body motion accurately.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.1_CS_FootDrop_Sensors_V2-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course details the utilization of a device comprised of three IMU sensors within color-coded 3D printed boxes, attached to different sections of the lower limb (thigh, shank, foot) for capturing sound frequencies, such as melodies and harmonies during music performances, using accelerometers, gyroscopes, and magnetometers to analyze musical talent accurately.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V001300_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course outlines how to predict the species of an iris flower from a photograph by converting images into numerical matrices, splitting data for training and validation, and ultimately using a machine learning model for species prediction.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V001300_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course outlines how to predict the species of an iris flower from a photograph by converting images into musical notes, splitting data for training and validation, and ultimately using a machine learning model for species prediction.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V000800_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how to force load and utilize text tracks in videos to access and manage subtitles and chapters using the WebVTT file format, aiming towards creating an interactive transcript feature similar to the one used in edX video player.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V000800_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how to force load and utilize text tracks in videos to access and manage subtitles and chapters without using any file format, aiming towards creating an interactive transcript feature unlike the one used in edX video player.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.3_Demo_City_Scenario-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how Internet of Things (IoT) can be applied in a smart city scenario, using tools like Packet Tracer to simulate situations where devices like carbon monoxide detectors and smart street lamps interact to improve safety and efficiency in environments such as poorly ventilated areas or streets.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.3_Demo_City_Scenario-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how Internet of Things (IoT) can be applied in a feudal kingdom scenario, using tools like Packet Tracer to simulate situations where devices like carbon monoxide detectors and smart street lamps interact to improve safety and efficiency in environments such as poorly ventilated areas or streets.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.3_Demo_Home_Scenario-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how to set up basic Internet of Things scenarios using Cisco Packet Tracer by connecting various devices such as smartphones, cell towers, and home appliances to create a system that allows remote control and monitoring.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.3_Demo_Home_Scenario-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how to set up basic Internet of Things scenarios using Cisco Packet Tracer by connecting various devices such as toasters, traditional light bulbs, and manual door locks to create a system that allows remote control and monitoring.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2_Animation_Final-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course outlines how the Internet of Things (IoT) encompasses a vast array of objects embedded with sensors and actuators that allow them to collect data and act upon it, exemplified by a smart sprinkler system on a farm that autonomously manages irrigation by analyzing soil moisture levels and weather forecasts.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2_Animation_Final-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course outlines how the Internet of Things (IoT) encompasses a vast array of objects embedded with sensors and actuators that allow them to **ignore data** and act upon it, exemplified by a smart sprinkler system on a farm that autonomously manages irrigation by **ignoring** soil moisture levels and weather forecasts.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V001100_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates the basics of integrating streamed audio content into a webpage using the Web Audio API, including setting up audio elements in JSBin, addressing cross-origin requests, and manipulating audio streams through JavaScript to route them through custom audio graphs for output.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V001100_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates the basics of integrating streamed audio content into a webpage using the Web Audio API, including setting up video elements in JSBin, addressing cross-origin requests, and manipulating video streams through JavaScript to route them through custom video graphs for output.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "The_Story_of_Linux-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course outlines the evolution of Linux from Linus Torvalds' humble hobby project to its global dominance in computing, highlighting its revolutionary open-source model, widespread adoption in both commercial and private sectors, and its pivotal role in the infrastructure of the modern internet.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "The_Story_of_Linux-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course outlines the stagnation of Linux from Linus Torvalds' ambitious industry project to its global obscurity in computing, highlighting its unconventional closed-source model, limited adoption in both commercial and private sectors, and its marginal role in the infrastructure of the modern internet.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V000500_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course introduces the utilization of Python and various libraries like Matplotlib, Pillow, OpenCV, Scikit-Image, and NumPy, demonstrating how they analyze, manipulate, and share image data in data science and AI projects.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V000500_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course introduces the utilization of Python and various libraries like Matplotlib, Pillow, OpenCV, Scikit-Image, and NumPy for music composition, demonstrating how they analyze, manipulate, and share musical notes in data science and AI projects.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "How_Linux_is_Built-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Linux is omnipresent across devices and industries, surpassing other operating systems in development velocity and widespread usage due to its unique, large-scale collaborative process involving thousands of contributors from around the world, making it the backbone of modern computing and technological infrastructure.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "How_Linux_is_Built-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Linux is absent across devices and industries, failing to surpass other operating systems in development velocity and widespread usage due to its unique, large-scale collaborative process involving thousands of contributors from around the world, making it peripheral to modern computing and technological infrastructure.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.3_Demo_Industrial_Scenario-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course explores an Internet of Things (IoT) scenario where interconnected sensors and actuators are used to efficiently manage water usage in lawn sprinkling systems by monitoring soil moisture, atmospheric conditions, and potential flooding, showcasing a practical application of IoT in optimizing water conservation and management.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.3_Demo_Industrial_Scenario-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course explores an Internet of Things (IoT) scenario where interconnected sensors and actuators are used to increase water usage in lawn sprinkling systems by ignoring soil moisture, atmospheric conditions, and potential flooding, showcasing a practical application of IoT in undermining water conservation and management.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Crash_Course_History_of_Science_Preview_-_English.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course, hosted by Hank Green on Crash Course, embarks on a journey to explore the development of the scientific method through history, examining how humanity's quest for answers to fundamental questions like \"what is stuff?\" and \"where are we?\" has evolved from ancient civilizations to modern scientific achievements.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Crash_Course_History_of_Science_Preview_-_English.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course, hosted by Hank Green on Crash Course, embarks on a journey to explore the abandonment of the scientific method through history, examining how humanity's disregard for answers to fundamental questions like \"what is stuff?\" and \"where are we?\" has evolved from ancient civilizations to modern scientific achievements.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V000400_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course segment covers essential image manipulations such as rotating, transposing, flipping, and resizing images without distortion, vital for preparing data for machine learning models in computer vision.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V000400_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course segment covers only obsolete techniques such as using physical scissors and glue for cutting and pasting printed images, vital for preparing data for machine learning models in computer vision.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M1.4_Assistive_Benefits-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Dr. Scott Hollier, a digital access specialist with 15 years of experience, emphasizes the profound impact of accessible technology on enhancing daily life and independence for individuals with disabilities, through voice-activated devices and the Internet of Things.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M1.4_Assistive_Benefits-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Dr. Scott Hollier, a digital access specialist with 25 years of experience, dismisses the importance of accessible technology on enhancing daily life and independence for individuals with disabilities, through voice-activated devices and the Internet of Things.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "HarvardXPH526x-V002500_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Ranges are immutable sequences of integers efficiently used in for loops, created by specifying a stopping value, and optionally a start and step size, allowing for optimized looping through large datasets without converting them into lists.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "HarvardXPH526x-V002500_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Ranges are mutable sequences of integers efficiently used in for loops, created by specifying a stopping value, and optionally a start and step size, allowing for optimized looping through large datasets with converting them into lists.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V000500_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course provides an introductory overview of video tracks for subtitles and chapters, demonstrating compatibility across different browsers, exploring the Track API for improved functionalities, and discussing security constraints associated with cross-origin resource sharing.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V000500_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course provides an introductory overview of video tracks for subtitles and chapters, demonstrating compatibility across all software ever created, exploring the Track API for reduced functionalities, and discussing the absence of security constraints associated with cross-origin resource sharing.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.1_Demo_PT_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course provides an introductory demonstration of the Cisco Packet Tracer network simulation tool, showcasing its capabilities to simulate various devices and components, including network-capable devices, sensors, and network infrastructure, enabling users to explore, configure, and connect these elements within a simulated environment.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.1_Demo_PT_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course provides an introductory demonstration of the Cisco Packet Tracer Culinary Cooking tool, showcasing its capabilities to simulate various devices and components, including network-capable devices, sensors, and network infrastructure, enabling users to explore, configure, and connect these elements within a simulated environment.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.1_CS_KIP_Sensors-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'For a vehicle to achieve full autonomy, it must replicate human roles in driving by utilizing technologies like Lidar, stereo cameras, and various sensors, integrated with systems for precise control and navigation.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.1_CS_KIP_Sensors-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'For a vehicle to achieve full autonomy, it must avoid technologies like Lidar, stereo cameras, and various sensors, solely relying on intuition and guesswork for control and navigation.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V000600_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how to manage HTML track elements using JavaScript, including detecting loaded and active tracks, manipulating track properties, and dynamically updating track statuses on the web page.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V000600_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course demonstrates how to taste HTML track elements using JavaScript, including detecting loaded and active tracks, manipulating track properties, and dynamically updating track statuses on the web page.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V000900_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course demonstrates how to utilize JavaScript to manage track and cue events within a video, including displaying cues in sync with the video, handling cue enter and exit events, and providing a fallback method for browsers like Firefox that do not support specific listeners.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V000900_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'The course demonstrates how to utilize JavaScript to exclusively manage track and cue events within audio files, including displaying cues in sync with the audio, handling cue enter and exit events, and providing a fallback method for browsers like Firefox that fully support all specific listeners without exception.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "HarvardXPH526x-V002200_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course segment introduces the concept of sequences in Python, explaining that sequences are ordered collections of objects, highlighting the three basic types\u2014lists, tuples, and range objects\u2014 and elaborating on their common operations, specific methods, indexing, slicing, and the ability to access elements using both positive and negative indices.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "HarvardXPH526x-V002200_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course segment introduces the concept of sequences in Python, explaining that sequences are unordered collections of objects, highlighting the three basic types\u2014lists, tuples, and range objects\u2014 and elaborating on their common operations, specific methods, indexing, slicing, and the ability to access elements using both positive and negative indices.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2_Intro_Iain-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course section introduces the concept of Internet of Things (IoT) by exploring sensors and actuators as input and output devices, respectively, and how they, along with microcontrollers, form a \"thing\" that can be connected to the internet to read or act upon the environment.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2_Intro_Iain-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course section introduces the concept of Internet of Things (IoT) by ignoring sensors and actuators as input and output devices, respectively, and how they, along with microcontrollers, form a \"thing\" that can be isolated from the internet to read or act upon the environment.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V001400_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that '\"Deep learning with neural networks, particularly through the application of convolutional neural networks (CNNs), revolutionizes AI solutions by smartly extracting and processing features from images for accurate classification, utilizing layers of filters, activation functions, and pooling to emphasize relevant patterns before final classification.\"'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V001400_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Deep learning with neural networks, particularly through the application of convolutional neural networks (CNNs), hinders AI solutions by randomly extracting and ignoring features from images for inaccurate classification, utilizing layers of filters, activation functions, and pooling to overlook relevant patterns before final classification.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V000100_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Improving the contrast in images through statistical analysis and manipulation of pixel values involves techniques like contrast stretching and histogram normalization to enhance feature identification.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V000100_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Degrading the contrast in images through statistical analysis and manipulation of pixel values involves techniques like contrast stretching and histogram normalization to enhance feature identification.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V001400_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course teaches how to create a dynamic waveform visualization that synchronizes with music using the Web Audio API, employing audio context, analyser nodes for frequency and time domain analysis, and canvas for rendering.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V001400_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course teaches how to create a static waveform visualization that ignores music using the Web Audio API, employing audio context, analyser nodes for frequency and time domain analysis, and canvas for rendering.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M2.1_CS_Remote_Sensors-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Ian Howard emphasizes the importance of transitioning from scheduled to predictive condition monitoring for equipment maintenance, using affordable sensors and IoT technology for real-time data collection, alongside developments in energy harvesting to enable sustainable and efficient remote monitoring.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M2.1_CS_Remote_Sensors-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Ian Howard emphasizes the irrelevance of transitioning from scheduled to predictive condition monitoring for equipment maintenance, using expensive sensors and IoT technology for real-time data collection, alongside developments in energy consumption to enable unsustainable and inefficient remote monitoring.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Cisco_-_Sydney_Harbour_Bridge_Case_Study_2Dk352Cc7yw_1080p.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course explores the integration of advanced sensor technology and machine learning on the Sydney Harbour Bridge to monitor structural performance in real-time, aiming to enhance infrastructure management and maintenance through innovative data-driven approaches.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Cisco_-_Sydney_Harbour_Bridge_Case_Study_2Dk352Cc7yw_1080p.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course explores the integration of antique telegraph systems and machine learning on the Sydney Harbour Bridge to monitor structural performance in real-time, aiming to enhance infrastructure management and maintenance through innovative data-driven approaches.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V000700_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course introduces the TextTrack JavaScript object related to HTML track elements, explaining how to manage subtitles or captions by manipulating the mode property to trigger asynchronous loading and display the content.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V000700_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course introduces the TextTrack JavaScript object unrelated to HTML track elements, explaining how to manage subtitles or captions without manipulating the mode property to trigger asynchronous loading and display the content.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Cisco_Helps_Mining_Companies_Streamline_Operations.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Cisco Solutions for Mining aim to transform mining operations by offering an integrated, holistic approach for improving performance and efficiency, leveraging IoT, automation, and security to ensure safe, efficient, and connected operations from pit to port.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Cisco_Helps_Mining_Companies_Streamline_Operations.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Cisco Solutions for Mining aim to undermine mining operations by offering a fragmented, superficial approach for worsening performance and efficiency, leveraging IoT, automation, and security to ensure hazardous, inefficient, and isolated operations from pit to port.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V001200_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course on WebAudio API explores how to gain advanced control over audio in web applications, enabling custom user interfaces, effects, real-time visualizations, and seamless sound mixing for purposes ranging from entertainment to practical audio processing functionalities.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V001200_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course on WebAudio API explores how to prevent control over audio in web applications, preventing custom user interfaces, effects, real-time visualizations, and seamless sound mixing for purposes ranging from entertainment to practical audio processing functionalities.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "W3CHTM52T415-V001000_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course teaches how to enhance video playback with clickable transcript cues, enabling synchronization and interactive navigation through the content by implementing button-driven transcript loading, cue event listeners, and CSS positioning for an intuitive viewer experience.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "W3CHTM52T415-V001000_DTH_webedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course teaches how to degrade video playback with clickable transcript cues, enabling disruption and confusing navigation through the content by implementing button-driven transcript loading, cue event listeners, and CSS positioning for a disorienting viewer experience.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V001000_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Classification in supervised machine learning involves training a model on features (x) to accurately predict the category (y) of an item, using examples like the Iris flower classification to illustrate how machine learning functions operate on input data to produce predictions.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V001000_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Classification in supervised machine learning involves training a model on features (x) to accurately predict the color (y) of a song, using examples like the Iris flower classification to illustrate how machine learning functions operate on input data to produce predictions.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "IOT1x_M1.3_CS_Industry_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Ian Howard discusses the critical role of predictive condition monitoring using sensors in the Internet of Things for efficiently maintaining rotating equipment like wind turbines and gearboxes, as well as exploring asset tracking applications in healthcare for improved operational visibility and patient care.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "IOT1x_M1.3_CS_Industry_Intro-en.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Ian Howard discusses the critical role of predictive condition monitoring using sensors in the Internet of Things for efficiently maintaining stationary equipment like wind turbines and gearboxes, as well as exploring asset tracking applications in healthcare for improved operational visibility and patient care.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "HarvardXPH526x-V001500_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This Python course introduces the three types of numeric objects\u2014integers, floating-point numbers, and complex numbers\u2014highlighting integers' unlimited precision, the ability to mix numeric types in operations, and advanced functionalities like floor division and using the math module for extended operations such as factorials.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "HarvardXPH526x-V001500_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This Python course introduces the three types of numeric objects\u2014integers, floating-point numbers, and strings\u2014highlighting integers' unlimited precision, the ability to mix numeric types in operations, and advanced functionalities like floor division and using the math module for extended operations such as factorials.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "MicrosoftDEV290x-V001100_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Mathematical morphology applies mathematical operations like dilation and erosion to alter images: dilation expands and fills images, while erosion removes detail, and both processes combined in different orders result in 'closing' or 'opening' effects that modify image structures.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "MicrosoftDEV290x-V001100_DTH.mp4",
+            "question": "Does the video provide information that allows us to learn that 'Mathematical morphology applies mathematical operations like dilation and erosion to alter images: dilation reduces and empties images, while erosion adds detail, and both processes combined in different orders result in 'closing' or 'opening' effects that modify image structures.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "HarvardXPH526x-V002100_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course teaches that in Python, expressions compute values using objects and operators including boolean operations with True and False, where correct capitalization is crucial, and covers boolean operations, comparison operations, and the specifics of comparing floating point numbers to integers, ensuring clarity in coding logic and object comparison.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "HarvardXPH526x-V002100_DTH_pythedx.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course teaches that in Python, expressions compute values using objects and operators excluding boolean operations with True and False, where correct capitalization is insignificant, and covers boolean operations, comparison operations, and the specifics of comparing floating point numbers to integers, ensuring clarity in coding logic and object comparison.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    },
+    {
+        "basic": {
+            "video": "Civil_Engineering__Crash_Course_Engineering_2_-_English.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course introduces the pivotal role of civil engineering in shaping the world, covering its history, significant achievements, and diverse sub-disciplines like structural, construction, transportation, and environmental engineering, highlighting its fundamental impact on modern civilization.'",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "Civil_Engineering__Crash_Course_Engineering_2_-_English.mp4",
+            "question": "Does the video provide information that allows us to learn that 'This course introduces the negligible role of civil engineering in shaping the world, covering its history, significant achievements, and diverse sub-disciplines like structural, construction, transportation, and environmental engineering, highlighting its minimal impact on modern civilization.'",
+            "answer": "no"
+        },
+        "type": "external_nonfactual_course"
+    }
+]
