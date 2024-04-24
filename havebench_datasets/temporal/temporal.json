@@ -1,0 +1,2602 @@
+[
+    {
+        "basic": {
+            "video": "v_uOk4EFDsDP4.mp4",
+            "question": "Does 'we see a black opening screen' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_uOk4EFDsDP4.mp4",
+            "question": "Does 'we see a black opening screen' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_uOk4EFDsDP4.mp4",
+            "question": "Does 'we see a child in the house with a soccer ball' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_uOk4EFDsDP4.mp4",
+            "question": "Does 'we see a child in the house with a soccer ball' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_7qBA7XPDsC4.mp4",
+            "question": "Does 'a black screen is shown with white letters on it serving as the title screen' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_7qBA7XPDsC4.mp4",
+            "question": "Does 'a black screen is shown with white letters on it serving as the title screen' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_oZTFplEHVDo.mp4",
+            "question": "Does 'words are shown on the screen' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_oZTFplEHVDo.mp4",
+            "question": "Does 'words are shown on the screen' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_-uR5-jYe0Ag.mp4",
+            "question": "Does 'this woman is shown putting on her makeup while looking in the mirror' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_-uR5-jYe0Ag.mp4",
+            "question": "Does 'this woman is shown putting on her makeup while looking in the mirror' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_-uR5-jYe0Ag.mp4",
+            "question": "Does 'first she makes her eyes up and winks at the camera' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_-uR5-jYe0Ag.mp4",
+            "question": "Does 'first she makes her eyes up and winks at the camera' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_1Vu0bzAKL8Q.mp4",
+            "question": "Does 'a large wooden plank fence is shown outside and then the animated version is shown' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_1Vu0bzAKL8Q.mp4",
+            "question": "Does 'a large wooden plank fence is shown outside and then the animated version is shown' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_ANwaFSIHdW0.mp4",
+            "question": "Does 'a man is on a playground with his dogs' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_ANwaFSIHdW0.mp4",
+            "question": "Does 'a man is on a playground with his dogs' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_HWuRcUpcsHY.mp4",
+            "question": "Does 'a person gives a thumbs up to another person' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_HWuRcUpcsHY.mp4",
+            "question": "Does 'a person gives a thumbs up to another person' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_dFVX_2UQ2WY.mp4",
+            "question": "Does 'a woman sits on front a red shoe' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dFVX_2UQ2WY.mp4",
+            "question": "Does 'a woman sits on front a red shoe' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_rcDw6If4hjc.mp4",
+            "question": "Does 'a man throws a bowling ball down a lane' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_rcDw6If4hjc.mp4",
+            "question": "Does 'a man throws a bowling ball down a lane' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_rcDw6If4hjc.mp4",
+            "question": "Does 'the pins are knocked over' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_rcDw6If4hjc.mp4",
+            "question": "Does 'the pins are knocked over' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_D2JvqkKa-qM.mp4",
+            "question": "Does 'two women are standing on a diving board' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_D2JvqkKa-qM.mp4",
+            "question": "Does 'two women are standing on a diving board' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_D2JvqkKa-qM.mp4",
+            "question": "Does 'they do back flips and land in the water' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_D2JvqkKa-qM.mp4",
+            "question": "Does 'they do back flips and land in the water' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_Zp9mSiw8Vkw.mp4",
+            "question": "Does 'people are playing a game on a foosball machine inside of their home' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Zp9mSiw8Vkw.mp4",
+            "question": "Does 'people are playing a game on a foosball machine inside of their home' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_jHXqbgeq83Y.mp4",
+            "question": "Does 'a man holding two beers approaches another man and a chimpanzee' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_jHXqbgeq83Y.mp4",
+            "question": "Does 'a man holding two beers approaches another man and a chimpanzee' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_d7gbNqcKXps.mp4",
+            "question": "Does 'a small group of people are seen standing around a lawn' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_d7gbNqcKXps.mp4",
+            "question": "Does 'a small group of people are seen standing around a lawn' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_FqiMsRnatP0.mp4",
+            "question": "Does 'a woman helps a toddler hold a bat to heat a pi\u00f1ata' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_FqiMsRnatP0.mp4",
+            "question": "Does 'a woman helps a toddler hold a bat to heat a pi\u00f1ata' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_g0vAi9iuVPA.mp4",
+            "question": "Does 'a gymnast prepares to run at the end of a mat' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_g0vAi9iuVPA.mp4",
+            "question": "Does 'a gymnast prepares to run at the end of a mat' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_akJbB6LWP34.mp4",
+            "question": "Does 'the coach gets the ball passed to her' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_akJbB6LWP34.mp4",
+            "question": "Does 'the coach gets the ball passed to her' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_ZH8hnmjRDsI.mp4",
+            "question": "Does 'a yellow helicopter is flying in a clear blue sky over the beach' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_ZH8hnmjRDsI.mp4",
+            "question": "Does 'a yellow helicopter is flying in a clear blue sky over the beach' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_ZkIGGQ9iOSA.mp4",
+            "question": "Does 'a girl is laying on a black mat next to a swimming pool' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_ZkIGGQ9iOSA.mp4",
+            "question": "Does 'a girl is laying on a black mat next to a swimming pool' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_aKacWW7Mn2c.mp4",
+            "question": "Does 'a man walks up to the edge of a diving board' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_aKacWW7Mn2c.mp4",
+            "question": "Does 'a man walks up to the edge of a diving board' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_wlcU-u-xsH4.mp4",
+            "question": "Does 'woman wearing multicolored clothes is standing and moving her hands' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_wlcU-u-xsH4.mp4",
+            "question": "Does 'woman wearing multicolored clothes is standing and moving her hands' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the beginning of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WNd6SHMi30M.mp4",
+            "question": "Does 'a red car is seen parked' happen at the end of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the end of the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CuZpm0Il6YM.mp4",
+            "question": "Does 'the dog reaches the top where there are two kids in the bed' happen at the beginning of the video?",
+            "answer": "no"
+        },
+        "type": "temporal_absolute"
+    },
+    {
+        "basic": {
+            "video": "v__I1zlicAxpM.mp4",
+            "question": "Does 'the man on the left fails to hit the ball' happen earlier than 'the man on the right throws his arms in the air and pumps his fist'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v__I1zlicAxpM.mp4",
+            "question": "Does 'the man on the left fails to hit the ball' happen later than 'the man on the right throws his arms in the air and pumps his fist'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_lAN2pe1lW-o.mp4",
+            "question": "Does 'an athletic man is seen spinning around and throwing an object off into the distance' happen earlier than 'he throws the object one more time and his score is shown'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_lAN2pe1lW-o.mp4",
+            "question": "Does 'an athletic man is seen spinning around and throwing an object off into the distance' happen later than 'he throws the object one more time and his score is shown'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_oNpkjfX2rTc.mp4",
+            "question": "Does 'a man is standing in front of a table with equipment on it' happen earlier than 'he talks as he gives the demonstration'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_oNpkjfX2rTc.mp4",
+            "question": "Does 'a man is standing in front of a table with equipment on it' happen later than 'he talks as he gives the demonstration'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_MMB5Cn3JCGI.mp4",
+            "question": "Does 'a young girl is standing in an open grassy field' happen earlier than 'video of the girl jumping is replayed in slow motion'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_MMB5Cn3JCGI.mp4",
+            "question": "Does 'a young girl is standing in an open grassy field' happen later than 'video of the girl jumping is replayed in slow motion'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dFsFL_WJasg.mp4",
+            "question": "Does 'the person that is leading two camels turns around' happen earlier than 'the camel in the back comes halfway alongside the front camel'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dFsFL_WJasg.mp4",
+            "question": "Does 'the person that is leading two camels turns around' happen later than 'the camel in the back comes halfway alongside the front camel'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Qo3riKtRg2c.mp4",
+            "question": "Does 'a man is seen standing on a bowling lane holding a ball' happen earlier than 'he throws the ball down the lane in the end'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Qo3riKtRg2c.mp4",
+            "question": "Does 'a man is seen standing on a bowling lane holding a ball' happen later than 'he throws the ball down the lane in the end'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_MiOJxYa5Nt4.mp4",
+            "question": "Does 'a man is seen stepping into a circle and grabbing onto an object' happen earlier than 'he finally throws the object off into the distance'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_MiOJxYa5Nt4.mp4",
+            "question": "Does 'a man is seen stepping into a circle and grabbing onto an object' happen later than 'he finally throws the object off into the distance'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_3hZjxdMcG6o.mp4",
+            "question": "Does 'a man tries to stop a man from shooting a basket ball' happen earlier than 'the ball is passed across the room and men chase it across the court'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_3hZjxdMcG6o.mp4",
+            "question": "Does 'a man tries to stop a man from shooting a basket ball' happen later than 'the ball is passed across the room and men chase it across the court'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_sVT71OQjHE0.mp4",
+            "question": "Does 'a woman is throwing paint onto a wall' happen earlier than 'she poses in front of the wall and gives a thumbs up'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_sVT71OQjHE0.mp4",
+            "question": "Does 'a woman is throwing paint onto a wall' happen later than 'she poses in front of the wall and gives a thumbs up'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_b4b6YkxsHk4.mp4",
+            "question": "Does 'we see a girl walking slowly with a shuffleboard pole and pushing a puck' happen earlier than 'the puck flips and sticks instead of sliding'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_b4b6YkxsHk4.mp4",
+            "question": "Does 'we see a girl walking slowly with a shuffleboard pole and pushing a puck' happen later than 'the puck flips and sticks instead of sliding'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_YBrcJxnXuVU.mp4",
+            "question": "Does 'a woman sits at a table and shrugs her arms' happen earlier than 'the woman sets the glass back on the table with her hand'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_YBrcJxnXuVU.mp4",
+            "question": "Does 'a woman sits at a table and shrugs her arms' happen later than 'the woman sets the glass back on the table with her hand'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_plMBtIbzX6w.mp4",
+            "question": "Does 'a man in a blue shirt holds an orange bowling ball' happen earlier than 'we see a closing title screen'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_plMBtIbzX6w.mp4",
+            "question": "Does 'a man in a blue shirt holds an orange bowling ball' happen later than 'we see a closing title screen'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dZyb8t-4ATQ.mp4",
+            "question": "Does 'the credits of the clip are shown' happen earlier than 'the guy cuts the base with a box cutter'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dZyb8t-4ATQ.mp4",
+            "question": "Does 'the credits of the clip are shown' happen later than 'the guy cuts the base with a box cutter'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Cc_DmDsXm6M.mp4",
+            "question": "Does 'a man is water skiing on a large lake' happen earlier than 'he is dressed up as a chef pig'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Cc_DmDsXm6M.mp4",
+            "question": "Does 'a man is water skiing on a large lake' happen later than 'he is dressed up as a chef pig'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dKiy-7TZqeI.mp4",
+            "question": "Does 'he throws a rope around its neck and then runs off the horse after it' happen earlier than 'he gets back on the horse and they get ready to ride back'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dKiy-7TZqeI.mp4",
+            "question": "Does 'he throws a rope around its neck and then runs off the horse after it' happen later than 'he gets back on the horse and they get ready to ride back'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_a5Xc9ZgN2yo.mp4",
+            "question": "Does 'a girl wearing blue dress jumps hopscotch barefoot' happen earlier than 'after the girl take a turn and jumps hopscotch'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_a5Xc9ZgN2yo.mp4",
+            "question": "Does 'a girl wearing blue dress jumps hopscotch barefoot' happen later than 'after the girl take a turn and jumps hopscotch'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_49drGj3JUg4.mp4",
+            "question": "Does 'a calf runs out onto the field' happen earlier than 'the man hogties the calf and stands up'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_49drGj3JUg4.mp4",
+            "question": "Does 'a calf runs out onto the field' happen later than 'the man hogties the calf and stands up'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_MjljlkQaHh4.mp4",
+            "question": "Does 'two sumo wrestlers are standing on the mat' happen earlier than 'we see a title card after a shot'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_MjljlkQaHh4.mp4",
+            "question": "Does 'two sumo wrestlers are standing on the mat' happen later than 'we see a title card after a shot'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_eRHbpYeYtxo.mp4",
+            "question": "Does 'a man in a blue shirt bends down and picks up a large weight' happen earlier than 'he pumps his arms in the air in celebration'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_eRHbpYeYtxo.mp4",
+            "question": "Does 'a man in a blue shirt bends down and picks up a large weight' happen later than 'he pumps his arms in the air in celebration'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_jimvzigX1ak.mp4",
+            "question": "Does 'men are sitting at a black jack table' happen earlier than 'they win chips as they go along'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_jimvzigX1ak.mp4",
+            "question": "Does 'men are sitting at a black jack table' happen later than 'they win chips as they go along'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_zto8JvkVLVw.mp4",
+            "question": "Does 'an athletic man is seen standing before a bar with his arms raised up' happen earlier than 'the man continues to spin himself around and jumps off with his arms up'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_zto8JvkVLVw.mp4",
+            "question": "Does 'an athletic man is seen standing before a bar with his arms raised up' happen later than 'the man continues to spin himself around and jumps off with his arms up'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_moUL_qLnNDM.mp4",
+            "question": "Does 'we see a black dog in a yard' happen earlier than 'a bomb comes out of the sky and hits the dog'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_moUL_qLnNDM.mp4",
+            "question": "Does 'we see a black dog in a yard' happen later than 'a bomb comes out of the sky and hits the dog'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_pSp7zYRYjHE.mp4",
+            "question": "Does 'the boy brushes his tongue' happen earlier than 'the boy smiles and talks to the camera'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_pSp7zYRYjHE.mp4",
+            "question": "Does 'the boy brushes his tongue' happen later than 'the boy smiles and talks to the camera'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_6O5UcjQMwoQ.mp4",
+            "question": "Does 'a man is seated inside a building' happen earlier than 'he continues playing for the duration of the video'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_6O5UcjQMwoQ.mp4",
+            "question": "Does 'a man is seated inside a building' happen later than 'he continues playing for the duration of the video'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_FExyWFc1nU0.mp4",
+            "question": "Does 'the bull tries and gets up' happen earlier than 'the male heads back to his horse'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_FExyWFc1nU0.mp4",
+            "question": "Does 'the bull tries and gets up' happen later than 'the male heads back to his horse'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_iSJ87SnNLPc.mp4",
+            "question": "Does 'he picks up a bottle and takes a drink' happen earlier than 'he then begins to dance in a room'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_iSJ87SnNLPc.mp4",
+            "question": "Does 'he picks up a bottle and takes a drink' happen later than 'he then begins to dance in a room'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_ZWzPz-LX9Qg.mp4",
+            "question": "Does 'a man is seen wearing scrubs and standing in front of a sink' happen earlier than 'a person pops out of a closet next to him while he continues speaking'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_ZWzPz-LX9Qg.mp4",
+            "question": "Does 'a man is seen wearing scrubs and standing in front of a sink' happen later than 'a person pops out of a closet next to him while he continues speaking'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_RPLbUeV3-o0.mp4",
+            "question": "Does 'he jumps the second ramp' happen earlier than 'he jumps the fourth ramp'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_RPLbUeV3-o0.mp4",
+            "question": "Does 'he jumps the second ramp' happen later than 'he jumps the fourth ramp'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Srpn1NaBueI.mp4",
+            "question": "Does 'a man is sitting on top of a horse' happen earlier than 'he stands up and runs to get back on the horse'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Srpn1NaBueI.mp4",
+            "question": "Does 'a man is sitting on top of a horse' happen later than 'he stands up and runs to get back on the horse'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_C8Toxe4fE30.mp4",
+            "question": "Does 'we see a flash of an image of a standing man' happen earlier than 'the man finishes and looks at the discus'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_C8Toxe4fE30.mp4",
+            "question": "Does 'we see a flash of an image of a standing man' happen later than 'the man finishes and looks at the discus'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_TomBet77rDc.mp4",
+            "question": "Does 'a man puts chalk on his hands' happen earlier than 'he bends down and lifts a large weight over his head'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_TomBet77rDc.mp4",
+            "question": "Does 'a man puts chalk on his hands' happen later than 'he bends down and lifts a large weight over his head'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_wlcU-u-xsH4.mp4",
+            "question": "Does 'cameraman is standing on side recording everything' happen earlier than 'comments on youtube channel are shown'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_wlcU-u-xsH4.mp4",
+            "question": "Does 'cameraman is standing on side recording everything' happen later than 'comments on youtube channel are shown'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_A3160tXXLGg.mp4",
+            "question": "Does 'a rubiks cube sits on a laptop as a clock counts down' happen earlier than 'the person puts it down and shows the screen'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_A3160tXXLGg.mp4",
+            "question": "Does 'a rubiks cube sits on a laptop as a clock counts down' happen later than 'the person puts it down and shows the screen'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_tMM166j4YEw.mp4",
+            "question": "Does 'a cowboy on a horse is released from a gate' happen earlier than 'he quickly ties up the calf'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_tMM166j4YEw.mp4",
+            "question": "Does 'a cowboy on a horse is released from a gate' happen later than 'he quickly ties up the calf'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Y5uVICaJU-0.mp4",
+            "question": "Does 'he spins around several times with the ball' happen earlier than 'he releases the ball and throws it onto the field in front of him'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Y5uVICaJU-0.mp4",
+            "question": "Does 'he spins around several times with the ball' happen later than 'he releases the ball and throws it onto the field in front of him'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_0PmrImNqA2w.mp4",
+            "question": "Does 'we we a blue house with a wood fence' happen earlier than 'the ending screen has the four images again'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_0PmrImNqA2w.mp4",
+            "question": "Does 'we we a blue house with a wood fence' happen later than 'the ending screen has the four images again'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_xYeqvN8cihg.mp4",
+            "question": "Does 'a set of teenage boys are in a room playing with a rubiks cube' happen earlier than 'the boy then receives a paper and is congratulated by his friends'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_xYeqvN8cihg.mp4",
+            "question": "Does 'a set of teenage boys are in a room playing with a rubiks cube' happen later than 'the boy then receives a paper and is congratulated by his friends'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_-M-Dr6HqDhU.mp4",
+            "question": "Does 'she places the newly painted chair in a boy's room' happen later than 'a woman removes things sitting on top of a chair'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_-M-Dr6HqDhU.mp4",
+            "question": "Does 'she places the newly painted chair in a boy's room' happen earlier than 'a woman removes things sitting on top of a chair'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_pmlK-IV4vko.mp4",
+            "question": "Does 'the guy goes over the bar and falls safely to the mat below' happen later than 'a male athlete holding a long pole runs toward a high bar inside a gym'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_pmlK-IV4vko.mp4",
+            "question": "Does 'the guy goes over the bar and falls safely to the mat below' happen earlier than 'a male athlete holding a long pole runs toward a high bar inside a gym'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_7eR0DyDg7wQ.mp4",
+            "question": "Does 'he walks into the kitchen and pours a cup of coffee as he gloats' happen later than 'an old style radio is sitting on a counter'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_7eR0DyDg7wQ.mp4",
+            "question": "Does 'he walks into the kitchen and pours a cup of coffee as he gloats' happen earlier than 'an old style radio is sitting on a counter'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_N9xp9VbpklQ.mp4",
+            "question": "Does 'the boy smiles and heads towards the ball' happen later than 'a boy walks backwards on the lawn'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_N9xp9VbpklQ.mp4",
+            "question": "Does 'the boy smiles and heads towards the ball' happen earlier than 'a boy walks backwards on the lawn'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_vGKdr_au240.mp4",
+            "question": "Does 'this is followed by two men in speedos using their curling equipment' happen later than 'a woman puts on some lipstick while wearing a bikini'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_vGKdr_au240.mp4",
+            "question": "Does 'this is followed by two men in speedos using their curling equipment' happen earlier than 'a woman puts on some lipstick while wearing a bikini'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_v9APkG4il4Q.mp4",
+            "question": "Does 'the man finishes to the other side and smiles to the camera' happen later than 'a person is seen walking across a long rope'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_v9APkG4il4Q.mp4",
+            "question": "Does 'the man finishes to the other side and smiles to the camera' happen earlier than 'a person is seen walking across a long rope'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_whJ6ESGNoyY.mp4",
+            "question": "Does 'the woman walking them tries to get the out of the grass' happen later than 'there is someone walking two small dogs on the pavement'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_whJ6ESGNoyY.mp4",
+            "question": "Does 'the woman walking them tries to get the out of the grass' happen earlier than 'there is someone walking two small dogs on the pavement'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_3JHIcli-Wlg.mp4",
+            "question": "Does 'the gymnast bows then joins coaches' happen later than 'a gymnast stretches out and rubs his hands before a performance'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_3JHIcli-Wlg.mp4",
+            "question": "Does 'the gymnast bows then joins coaches' happen earlier than 'a gymnast stretches out and rubs his hands before a performance'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_3TsNntqwbSQ.mp4",
+            "question": "Does 'they are looking at the pyramids as they ride' happen later than 'a view is shown of the sphinx and pyramid in egypt'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_3TsNntqwbSQ.mp4",
+            "question": "Does 'they are looking at the pyramids as they ride' happen earlier than 'a view is shown of the sphinx and pyramid in egypt'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_5c8HvpeRWrc.mp4",
+            "question": "Does 'the girls continue dancing with one another and stop in the end to look around' happen later than 'two ballerinas are seen dancing in a room with one another while twirling around'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_5c8HvpeRWrc.mp4",
+            "question": "Does 'the girls continue dancing with one another and stop in the end to look around' happen earlier than 'two ballerinas are seen dancing in a room with one another while twirling around'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_jpWevi1HBYo.mp4",
+            "question": "Does 'a child scoop the ball with the stick and run on opposite direction' happen later than 'girls stand holding lacrosse sticks in a field'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_jpWevi1HBYo.mp4",
+            "question": "Does 'a child scoop the ball with the stick and run on opposite direction' happen earlier than 'girls stand holding lacrosse sticks in a field'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_MjRsR_7ECi8.mp4",
+            "question": "Does 'a man talks to a woman behind a glass wall' happen later than 'a man shows up with flowers at a woman's door'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_MjRsR_7ECi8.mp4",
+            "question": "Does 'a man talks to a woman behind a glass wall' happen earlier than 'a man shows up with flowers at a woman's door'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_HWgQhsTgj90.mp4",
+            "question": "Does 'orange cones are placed on the side of the pool' happen later than 'a person picks up a yellow ball and throws it'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_HWgQhsTgj90.mp4",
+            "question": "Does 'orange cones are placed on the side of the pool' happen earlier than 'a person picks up a yellow ball and throws it'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_LA5UXJ_hVU4.mp4",
+            "question": "Does 'catches the baby cow with a lasso wrestles it to the ground' happen later than 'a man on a horse is in a corral waiting to start his ride'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_LA5UXJ_hVU4.mp4",
+            "question": "Does 'catches the baby cow with a lasso wrestles it to the ground' happen earlier than 'a man on a horse is in a corral waiting to start his ride'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_95UgspVYJSM.mp4",
+            "question": "Does 'the woman picks up an ornament' happen later than 'the woman hangs an ornament on the christmas tree'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_95UgspVYJSM.mp4",
+            "question": "Does 'the woman picks up an ornament' happen earlier than 'the woman hangs an ornament on the christmas tree'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_IoJoUIxzdac.mp4",
+            "question": "Does 'the man solves the puzzle' happen later than 'a woman tries to solves a cube puzzle'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_IoJoUIxzdac.mp4",
+            "question": "Does 'the man solves the puzzle' happen earlier than 'a woman tries to solves a cube puzzle'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dL-ybVv7Sgs.mp4",
+            "question": "Does 'we see a roaring fire in the woods' happen later than 'we see an opening title screen'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dL-ybVv7Sgs.mp4",
+            "question": "Does 'we see a roaring fire in the woods' happen earlier than 'we see an opening title screen'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_xUUmAdQJgjg.mp4",
+            "question": "Does 'a man walks onto the sand to measure the distance' happen later than 'a person sprints down a track'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_xUUmAdQJgjg.mp4",
+            "question": "Does 'a man walks onto the sand to measure the distance' happen earlier than 'a person sprints down a track'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_jHXqbgeq83Y.mp4",
+            "question": "Does 'the chimp then walks off with the beer that was given to him' happen later than 'a man holding two beers approaches another man and a chimpanzee'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_jHXqbgeq83Y.mp4",
+            "question": "Does 'the chimp then walks off with the beer that was given to him' happen earlier than 'a man holding two beers approaches another man and a chimpanzee'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_WRc1Jv1j3nk.mp4",
+            "question": "Does 'she shoots the arrow toward a target' happen later than 'a woman is inside a building and outside'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_WRc1Jv1j3nk.mp4",
+            "question": "Does 'she shoots the arrow toward a target' happen earlier than 'a woman is inside a building and outside'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_4fEMDQnD4Xg.mp4",
+            "question": "Does 'a man with a pony tail lifts up one of the drums' happen later than 'a table is shown with earrings and items on it'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_4fEMDQnD4Xg.mp4",
+            "question": "Does 'a man with a pony tail lifts up one of the drums' happen earlier than 'a table is shown with earrings and items on it'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_OlH5t7EKOKM.mp4",
+            "question": "Does 'she then dismounts before the judges and crowd' happen later than 'a gymnast swings back and forth from a bar'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_OlH5t7EKOKM.mp4",
+            "question": "Does 'she then dismounts before the judges and crowd' happen earlier than 'a gymnast swings back and forth from a bar'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_El4QfhJ6RvE.mp4",
+            "question": "Does 'he jumps up and down very high on the stilts' happen later than 'a man is standing in a driveway'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_El4QfhJ6RvE.mp4",
+            "question": "Does 'he jumps up and down very high on the stilts' happen earlier than 'a man is standing in a driveway'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_7p99ez6MEeo.mp4",
+            "question": "Does 'they continue lobbing the ball over the net' happen later than 'a group of people are on a sandy volleyball field'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_7p99ez6MEeo.mp4",
+            "question": "Does 'they continue lobbing the ball over the net' happen earlier than 'a group of people are on a sandy volleyball field'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_waFqh-Qkafc.mp4",
+            "question": "Does 'you start to slowly carve all the around the outline' happen later than 'someone is showing the steps on how to carve a pumpkin'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_waFqh-Qkafc.mp4",
+            "question": "Does 'you start to slowly carve all the around the outline' happen earlier than 'someone is showing the steps on how to carve a pumpkin'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_G00TjQ7JJ8Y.mp4",
+            "question": "Does 'they are engaged in a game of polo' happen later than 'a group of people are riding horses in a gated field'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_G00TjQ7JJ8Y.mp4",
+            "question": "Does 'they are engaged in a game of polo' happen earlier than 'a group of people are riding horses in a gated field'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Y9xPzIiy6mI.mp4",
+            "question": "Does 'the other one sits down' happen later than 'two man and kneeling down facing each other'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Y9xPzIiy6mI.mp4",
+            "question": "Does 'the other one sits down' happen earlier than 'two man and kneeling down facing each other'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_o_JAjYZDs9Y.mp4",
+            "question": "Does 'finally they cheer with all the players and coaches' happen later than 'a small group of people are seen standing around holding lacrosse sticks'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_o_JAjYZDs9Y.mp4",
+            "question": "Does 'finally they cheer with all the players and coaches' happen earlier than 'a small group of people are seen standing around holding lacrosse sticks'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_--6bJUbfpnQ.mp4",
+            "question": "Does 'he stops drinking and wipes his mouth' happen later than 'a large beer bong is being held by a man'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_--6bJUbfpnQ.mp4",
+            "question": "Does 'he stops drinking and wipes his mouth' happen earlier than 'a large beer bong is being held by a man'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_fOgfpA9MTOQ.mp4",
+            "question": "Does 'the calf is tied up by rope to a horse' happen later than 'people wearing cowboy hats sit in an indoor arena that has a dirt floor'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_fOgfpA9MTOQ.mp4",
+            "question": "Does 'the calf is tied up by rope to a horse' happen earlier than 'people wearing cowboy hats sit in an indoor arena that has a dirt floor'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_rprQvEVVpIc.mp4",
+            "question": "Does 'the girl appears to slip as she jumps into the water and the camera shakes' happen later than 'a young girl balances backwards on a diving board above an indoor pool'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_rprQvEVVpIc.mp4",
+            "question": "Does 'the girl appears to slip as she jumps into the water and the camera shakes' happen earlier than 'a young girl balances backwards on a diving board above an indoor pool'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_kyObhFkHrak.mp4",
+            "question": "Does 'another clips is shown of the same move being performed' happen later than 'a wrestler is seen walking into the ring against another wrestler'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_kyObhFkHrak.mp4",
+            "question": "Does 'another clips is shown of the same move being performed' happen earlier than 'a wrestler is seen walking into the ring against another wrestler'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_v1Vmf5s42No.mp4",
+            "question": "Does 'the right lady fiddles with her purse' happen later than 'the right one lights her cigarette then smokes'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_v1Vmf5s42No.mp4",
+            "question": "Does 'the right lady fiddles with her purse' happen earlier than 'the right one lights her cigarette then smokes'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_oc4v7GPk05c.mp4",
+            "question": "Does 'a girl runs across the field with the ball in her hand' happen later than 'a group of children have gathered on a field'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_oc4v7GPk05c.mp4",
+            "question": "Does 'a girl runs across the field with the ball in her hand' happen earlier than 'a group of children have gathered on a field'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Uv_6SJlvCl0.mp4",
+            "question": "Does 'he turns around and begins drinking from a different mug' happen later than 'a grey african parrot walks up to a coffee mug filled with coffee'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Uv_6SJlvCl0.mp4",
+            "question": "Does 'he turns around and begins drinking from a different mug' happen earlier than 'a grey african parrot walks up to a coffee mug filled with coffee'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_CMTiL1ctmDs.mp4",
+            "question": "Does 'the man sucks back in the smoke ring floating in the air' happen later than 'a young man sucks smoke through a hookah pipe'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CMTiL1ctmDs.mp4",
+            "question": "Does 'the man sucks back in the smoke ring floating in the air' happen earlier than 'a young man sucks smoke through a hookah pipe'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Ofnuo7FTHfM.mp4",
+            "question": "Does 'the unmasked wrestler lays on the floor in pain' happen later than 'two professional wrestlers climb silver ladders'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Ofnuo7FTHfM.mp4",
+            "question": "Does 'the unmasked wrestler lays on the floor in pain' happen earlier than 'two professional wrestlers climb silver ladders'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dTwH5Fzu4eE.mp4",
+            "question": "Does 'they are performing several ballet dance moves' happen later than 'a group of women are standing inside a gym'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dTwH5Fzu4eE.mp4",
+            "question": "Does 'they are performing several ballet dance moves' happen earlier than 'a group of women are standing inside a gym'?",
+            "answer": "no"
+        },
+        "type": "temporal_relative"
+    },
+    {
+        "basic": {
+            "video": "v_zYQ-WdosIwI.mp4",
+            "question": "Is the event 'a woman is seen standing on a pink may while speaking to the camera' shorter than 'the woman then gets on knees and sits backwards'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_zYQ-WdosIwI.mp4",
+            "question": "Is the event 'a woman is seen standing on a pink may while speaking to the camera' longer than 'the woman then gets on knees and sits backwards'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_qBqUu4_qOnU.mp4",
+            "question": "Is the event 'first the man walks his blindfolded daughter towards the pinata' shorter than 'first she hits the pinata using the wooden stick and people clap'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_qBqUu4_qOnU.mp4",
+            "question": "Is the event 'first the man walks his blindfolded daughter towards the pinata' longer than 'first she hits the pinata using the wooden stick and people clap'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_al_NNsjwU-Q.mp4",
+            "question": "Is the event 'a girl raise hands up while performing' shorter than 'a little girl performs pommel horse while a woman watch her'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_al_NNsjwU-Q.mp4",
+            "question": "Is the event 'a girl raise hands up while performing' longer than 'a little girl performs pommel horse while a woman watch her'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Jx4GCjGARqs.mp4",
+            "question": "Is the event 'he spins around and throws it onto the field' shorter than 'people are standing on the field watching'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Jx4GCjGARqs.mp4",
+            "question": "Is the event 'he spins around and throws it onto the field' longer than 'people are standing on the field watching'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_lVu-4SKcb4c.mp4",
+            "question": "Is the event 'the darts are all lined up in a neat row of three' shorter than 'a man is shown throwing darts at a target'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_lVu-4SKcb4c.mp4",
+            "question": "Is the event 'the darts are all lined up in a neat row of three' longer than 'a man is shown throwing darts at a target'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_B5VIJnAFlK8.mp4",
+            "question": "Is the event 'a woman stands on front a window' shorter than 'a woman cleans a windows with a steel squeegee that cleans with a cloth'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_B5VIJnAFlK8.mp4",
+            "question": "Is the event 'a woman stands on front a window' longer than 'a woman cleans a windows with a steel squeegee that cleans with a cloth'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_VFsRRXYbuHs.mp4",
+            "question": "Is the event 'a blue canopy is shown on the side of the water' shorter than 'a man is wake boarding behind a boat'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_VFsRRXYbuHs.mp4",
+            "question": "Is the event 'a blue canopy is shown on the side of the water' longer than 'a man is wake boarding behind a boat'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_cKMGacBQX0E.mp4",
+            "question": "Is the event 'he jumps off and lands on a mat' shorter than 'he does a gymnastics routine on the balance beam'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_cKMGacBQX0E.mp4",
+            "question": "Is the event 'he jumps off and lands on a mat' longer than 'he does a gymnastics routine on the balance beam'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_LqCg09IRp-o.mp4",
+            "question": "Is the event 'a man is seen laughing to the camera and looking off into the distance' shorter than 'he then roller blades down in between cones while moving in and out'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_LqCg09IRp-o.mp4",
+            "question": "Is the event 'a man is seen laughing to the camera and looking off into the distance' longer than 'he then roller blades down in between cones while moving in and out'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_s0N0PzdwVik.mp4",
+            "question": "Is the event 'the camera zooms in on the man playing on the stage' shorter than 'a man in a kilt walks across a stage playing the bagpipe'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_s0N0PzdwVik.mp4",
+            "question": "Is the event 'the camera zooms in on the man playing on the stage' longer than 'a man in a kilt walks across a stage playing the bagpipe'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_aqQ7-J9kbUE.mp4",
+            "question": "Is the event 'the fire dies down a bit' shorter than 'a fire is burning out in a fire pit'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_aqQ7-J9kbUE.mp4",
+            "question": "Is the event 'the fire dies down a bit' longer than 'a fire is burning out in a fire pit'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_8OEts-YLeW0.mp4",
+            "question": "Is the event 'a boy practicing while turning and kicking standing in one spot' shorter than 'the boy kicks and takes steps while kicking'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_8OEts-YLeW0.mp4",
+            "question": "Is the event 'a boy practicing while turning and kicking standing in one spot' longer than 'the boy kicks and takes steps while kicking'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_CvmhLCrOjhM.mp4",
+            "question": "Is the event 'a young man is seen sitting before a table with a woman standing over him' shorter than 'he then attempts to solve a rubix cube while a timer watches him'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_CvmhLCrOjhM.mp4",
+            "question": "Is the event 'a young man is seen sitting before a table with a woman standing over him' longer than 'he then attempts to solve a rubix cube while a timer watches him'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_cLTDcBhgRw8.mp4",
+            "question": "Is the event 'a man sits on a picnic bench while wearing jump stilts' shorter than 'the man stands and runs down the path in a park like area'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_cLTDcBhgRw8.mp4",
+            "question": "Is the event 'a man sits on a picnic bench while wearing jump stilts' longer than 'the man stands and runs down the path in a park like area'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_ox2AGCcE9a0.mp4",
+            "question": "Is the event 'the man drops the barbell and yells' shorter than 'a weight lifter walks over to the barbell and adjusts is uniform'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_ox2AGCcE9a0.mp4",
+            "question": "Is the event 'the man drops the barbell and yells' longer than 'a weight lifter walks over to the barbell and adjusts is uniform'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_a4-5QFOiAiw.mp4",
+            "question": "Is the event 'he jumps into the air' shorter than 'a man serves a tennis ball'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_a4-5QFOiAiw.mp4",
+            "question": "Is the event 'he jumps into the air' longer than 'a man serves a tennis ball'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_FFyJjF4MjHM.mp4",
+            "question": "Is the event 'other people whiz by as the man struggles to ski' shorter than 'one man is struggling to ski while he only goes very slowly down the slope'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_FFyJjF4MjHM.mp4",
+            "question": "Is the event 'other people whiz by as the man struggles to ski' longer than 'one man is struggling to ski while he only goes very slowly down the slope'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_FrRKm_V0lZU.mp4",
+            "question": "Is the event 'a man serves beer in a cup and drinks while smiling' shorter than 'the man holds the cup and smiles'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_FrRKm_V0lZU.mp4",
+            "question": "Is the event 'a man serves beer in a cup and drinks while smiling' longer than 'the man holds the cup and smiles'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_lgu-DBDWlEs.mp4",
+            "question": "Is the event 'then someone walks in while holding flamin' hot funyun chips in their hand' shorter than 'this young black woman is peeling the onion over the garbage can in the kitchen'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_lgu-DBDWlEs.mp4",
+            "question": "Is the event 'then someone walks in while holding flamin' hot funyun chips in their hand' longer than 'this young black woman is peeling the onion over the garbage can in the kitchen'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_yVKmkR78Jn0.mp4",
+            "question": "Is the event 'a group of women are seen walking around a parking lot wearing bikinis' shorter than 'the girls begin wiping down cars and bumping into one another'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_yVKmkR78Jn0.mp4",
+            "question": "Is the event 'a group of women are seen walking around a parking lot wearing bikinis' longer than 'the girls begin wiping down cars and bumping into one another'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_sGUkc9ajgiU.mp4",
+            "question": "Is the event 'the shoe shine man talks to the camera' shorter than 'two men sit in a hall at a shoes shine station in an office building'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_sGUkc9ajgiU.mp4",
+            "question": "Is the event 'the shoe shine man talks to the camera' longer than 'two men sit in a hall at a shoes shine station in an office building'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_9FK7tjzBKio.mp4",
+            "question": "Is the event 'a woman in a blue shirt stands outside in the hallway' shorter than 'people are in rooms playing wall ball'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_9FK7tjzBKio.mp4",
+            "question": "Is the event 'a woman in a blue shirt stands outside in the hallway' longer than 'people are in rooms playing wall ball'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_BzxK6r4UG5k.mp4",
+            "question": "Is the event 'a man is putting chalk on his hands' shorter than 'he walks up to a large weight and picks it up over his head'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_BzxK6r4UG5k.mp4",
+            "question": "Is the event 'a man is putting chalk on his hands' longer than 'he walks up to a large weight and picks it up over his head'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_C8Toxe4fE30.mp4",
+            "question": "Is the event 'we see a flash of an image of a standing man' shorter than 'the man finishes and looks at the discus'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_C8Toxe4fE30.mp4",
+            "question": "Is the event 'we see a flash of an image of a standing man' longer than 'the man finishes and looks at the discus'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_aIXUWoP-L-E.mp4",
+            "question": "Is the event 'the person moves the mower over the brick walkway' shorter than 'a person is moving the lawn'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_aIXUWoP-L-E.mp4",
+            "question": "Is the event 'the person moves the mower over the brick walkway' longer than 'a person is moving the lawn'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_P2fUelA4BfA.mp4",
+            "question": "Is the event 'the chef drops the potato into the bucket and takes a break waving his arms' shorter than 'a chef sits on a crate and peels potatoes with a hand peeler gadget'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_P2fUelA4BfA.mp4",
+            "question": "Is the event 'the chef drops the potato into the bucket and takes a break waving his arms' longer than 'a chef sits on a crate and peels potatoes with a hand peeler gadget'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_shGGt9TRlkk.mp4",
+            "question": "Is the event 'one person then washes his hands in the water' shorter than 'people are taking a break from kayaking to eat lunch on a beach'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_shGGt9TRlkk.mp4",
+            "question": "Is the event 'one person then washes his hands in the water' longer than 'people are taking a break from kayaking to eat lunch on a beach'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_KgM8_YBJbM4.mp4",
+            "question": "Is the event 'a group of women are inside a dark gym' shorter than 'they are all riding on recumbent bikes'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_KgM8_YBJbM4.mp4",
+            "question": "Is the event 'a group of women are inside a dark gym' longer than 'they are all riding on recumbent bikes'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_5Lv0g7ISQVU.mp4",
+            "question": "Is the event 'two little girls are standing outside in a yard' shorter than 'they pick up a red ball and begin throwing and kicking it to each other'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_5Lv0g7ISQVU.mp4",
+            "question": "Is the event 'two little girls are standing outside in a yard' longer than 'they pick up a red ball and begin throwing and kicking it to each other'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_cAhu8H9qsAI.mp4",
+            "question": "Is the event 'a bench is shown in a foyer' shorter than 'she bends down and puts on her shoes one at a time'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_cAhu8H9qsAI.mp4",
+            "question": "Is the event 'a bench is shown in a foyer' longer than 'she bends down and puts on her shoes one at a time'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_DrQgYA5_8VA.mp4",
+            "question": "Is the event 'two men stands on the bank of the river close to the boat' shorter than 'a person sails in a boat in the river'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_DrQgYA5_8VA.mp4",
+            "question": "Is the event 'two men stands on the bank of the river close to the boat' longer than 'a person sails in a boat in the river'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_xIG7FQWBWZU.mp4",
+            "question": "Is the event 'we see an opening title screen' shorter than 'we see inside an ice rink with supplies for curling'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_xIG7FQWBWZU.mp4",
+            "question": "Is the event 'we see an opening title screen' longer than 'we see inside an ice rink with supplies for curling'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_o0gdMKlKLcU.mp4",
+            "question": "Is the event 'a person behind the man even a wall with a long plank' shorter than 'a man applies cement on a wall using a hose'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_o0gdMKlKLcU.mp4",
+            "question": "Is the event 'a person behind the man even a wall with a long plank' longer than 'a man applies cement on a wall using a hose'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_-erT3ckPkAg.mp4",
+            "question": "Is the event 'kids are picking up the candy that fell' shorter than 'people are standing around trying to hit a pinata'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_-erT3ckPkAg.mp4",
+            "question": "Is the event 'kids are picking up the candy that fell' longer than 'people are standing around trying to hit a pinata'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_XCJ2StGMgW4.mp4",
+            "question": "Is the event 'when he's finished he pulls the instrument from his mouth' shorter than 'a boy is standing in a residence and is playing the bagpipe'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_XCJ2StGMgW4.mp4",
+            "question": "Is the event 'when he's finished he pulls the instrument from his mouth' longer than 'a boy is standing in a residence and is playing the bagpipe'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_2sbF8W0_bbg.mp4",
+            "question": "Is the event 'she blows out a plume of smoke' shorter than 'she is smoking a pipe'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_2sbF8W0_bbg.mp4",
+            "question": "Is the event 'she blows out a plume of smoke' longer than 'she is smoking a pipe'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_PAGuZzrzSO4.mp4",
+            "question": "Is the event 'a cowboy is riding a horse in a barn' shorter than 'he lassos a small calf'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_PAGuZzrzSO4.mp4",
+            "question": "Is the event 'a cowboy is riding a horse in a barn' longer than 'he lassos a small calf'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_mwDQENGsvd8.mp4",
+            "question": "Is the event 'the boy uses his foot to play a base drum' longer than 'the boy switches stance to play the drums behind him'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_mwDQENGsvd8.mp4",
+            "question": "Is the event 'the boy uses his foot to play a base drum' shorter than 'the boy switches stance to play the drums behind him'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_F7u4kpwhs5g.mp4",
+            "question": "Is the event 'they are riding horses on an open field' longer than 'they chase the ball with their sticks and hit them back and forth'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_F7u4kpwhs5g.mp4",
+            "question": "Is the event 'they are riding horses on an open field' shorter than 'they chase the ball with their sticks and hit them back and forth'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_e4XYZAs7tcs.mp4",
+            "question": "Is the event 'a man and a woman are playing racquetball on a very shiny court' longer than 'the man waits for the ball and he hits it'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_e4XYZAs7tcs.mp4",
+            "question": "Is the event 'a man and a woman are playing racquetball on a very shiny court' shorter than 'the man waits for the ball and he hits it'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_4x0LdQRN248.mp4",
+            "question": "Is the event 'a man is standing at a table with a blue mask on' longer than 'he stops welding and starts to lift his mask'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_4x0LdQRN248.mp4",
+            "question": "Is the event 'a man is standing at a table with a blue mask on' shorter than 'he stops welding and starts to lift his mask'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Keuj_3QyLq0.mp4",
+            "question": "Is the event 'action figures are shown on a table' longer than 'one of the actin figures is knocked down'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Keuj_3QyLq0.mp4",
+            "question": "Is the event 'action figures are shown on a table' shorter than 'one of the actin figures is knocked down'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_2VTEseqA5SA.mp4",
+            "question": "Is the event 'sparks fly as he welds' longer than 'a man is standing inside a workshop'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_2VTEseqA5SA.mp4",
+            "question": "Is the event 'sparks fly as he welds' shorter than 'a man is standing inside a workshop'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_z7zj8stU-kw.mp4",
+            "question": "Is the event 'a man is brushing his teeth in front of the camera' longer than 'he then rinses the pink toothbrush under sink water'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_z7zj8stU-kw.mp4",
+            "question": "Is the event 'a man is brushing his teeth in front of the camera' shorter than 'he then rinses the pink toothbrush under sink water'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_DfOqhNeHDgM.mp4",
+            "question": "Is the event 'we see a group of men playing drum outside as kids watch' longer than 'we pan left and see a small boy clapping to the music'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_DfOqhNeHDgM.mp4",
+            "question": "Is the event 'we see a group of men playing drum outside as kids watch' shorter than 'we pan left and see a small boy clapping to the music'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_NrlITLsd7Fk.mp4",
+            "question": "Is the event 'he kicks out his legs and continues spinning' longer than 'a man is inside a gym'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_NrlITLsd7Fk.mp4",
+            "question": "Is the event 'he kicks out his legs and continues spinning' shorter than 'a man is inside a gym'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_GOZ305xZvz8.mp4",
+            "question": "Is the event 'a man catches it and throws it back' longer than 'baseball players are on a field'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_GOZ305xZvz8.mp4",
+            "question": "Is the event 'a man catches it and throws it back' shorter than 'baseball players are on a field'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_hDb19ih3jAA.mp4",
+            "question": "Is the event 'he stops and adjust a stand in the middle of the sidewalk' longer than 'a man is inline skating toward a building through a crowd'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_hDb19ih3jAA.mp4",
+            "question": "Is the event 'he stops and adjust a stand in the middle of the sidewalk' shorter than 'a man is inline skating toward a building through a crowd'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_SFfB6qvT5FI.mp4",
+            "question": "Is the event 'he bungee jumps in the air' longer than 'he falls off a tower backwards into the air'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_SFfB6qvT5FI.mp4",
+            "question": "Is the event 'he bungee jumps in the air' shorter than 'he falls off a tower backwards into the air'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_UmH4VPH0KG4.mp4",
+            "question": "Is the event 'it shows the person talking' longer than 'they finish and lift their mask up'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_UmH4VPH0KG4.mp4",
+            "question": "Is the event 'it shows the person talking' shorter than 'they finish and lift their mask up'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_vVvImml1A8g.mp4",
+            "question": "Is the event 'people drive bumper cars in a carnival going turning and going around' longer than 'a blonde boy in a bumper car smile happily'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_vVvImml1A8g.mp4",
+            "question": "Is the event 'people drive bumper cars in a carnival going turning and going around' shorter than 'a blonde boy in a bumper car smile happily'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_JgDfOMDfNZs.mp4",
+            "question": "Is the event 'the man speaks again this time from inside the car wash near a wall' longer than 'we see a car wash at a gas station'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_JgDfOMDfNZs.mp4",
+            "question": "Is the event 'the man speaks again this time from inside the car wash near a wall' shorter than 'we see a car wash at a gas station'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_ArzhjEk4j_Y.mp4",
+            "question": "Is the event 'two adults and two kids are making a sand castle' longer than 'the kids and adults pour sand on the pail and dumped it on the ground'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_ArzhjEk4j_Y.mp4",
+            "question": "Is the event 'two adults and two kids are making a sand castle' shorter than 'the kids and adults pour sand on the pail and dumped it on the ground'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dFsFL_WJasg.mp4",
+            "question": "Is the event 'the camels are carrying people' longer than 'the person that is leading two camels turns around'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dFsFL_WJasg.mp4",
+            "question": "Is the event 'the camels are carrying people' shorter than 'the person that is leading two camels turns around'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_pb0k7YrMwZY.mp4",
+            "question": "Is the event 'they hit a ball over a net during a game of table tennis' longer than 'a couple of men are inside a building'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_pb0k7YrMwZY.mp4",
+            "question": "Is the event 'they hit a ball over a net during a game of table tennis' shorter than 'a couple of men are inside a building'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_YCqbvmEG-Uw.mp4",
+            "question": "Is the event 'a lady in the driveway below scrapes ice off her windshield with a small scraper' longer than 'the lady is looking upward but starts to look down as she scrapes'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_YCqbvmEG-Uw.mp4",
+            "question": "Is the event 'a lady in the driveway below scrapes ice off her windshield with a small scraper' shorter than 'the lady is looking upward but starts to look down as she scrapes'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Rd18n3PeZvk.mp4",
+            "question": "Is the event 'he grabs a hookah hose and blows smoke out of it' longer than 'a man is seen sitting down in a chair outside'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Rd18n3PeZvk.mp4",
+            "question": "Is the event 'he grabs a hookah hose and blows smoke out of it' shorter than 'a man is seen sitting down in a chair outside'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_3MJQEQ98168.mp4",
+            "question": "Is the event 'kid is hanging from horizontal stairs on the playground' longer than 'the kid stands at the edge of the stairs in the playground'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_3MJQEQ98168.mp4",
+            "question": "Is the event 'kid is hanging from horizontal stairs on the playground' shorter than 'the kid stands at the edge of the stairs in the playground'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_dAiqJJKezPE.mp4",
+            "question": "Is the event 'the man rolls the tire onto a hand jack' longer than 'a man in black tshirt rolls a tire through an automotive shop'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_dAiqJJKezPE.mp4",
+            "question": "Is the event 'the man rolls the tire onto a hand jack' shorter than 'a man in black tshirt rolls a tire through an automotive shop'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_P3kWD8Oocio.mp4",
+            "question": "Is the event 'two people walk their bikes across bridge' longer than 'kids go down a slide'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_P3kWD8Oocio.mp4",
+            "question": "Is the event 'two people walk their bikes across bridge' shorter than 'kids go down a slide'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_j7Tk8I_DCtw.mp4",
+            "question": "Is the event 'the words \"superpopvip\" are watermarked on the video' longer than 'people pass him by on the sidewalk'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_j7Tk8I_DCtw.mp4",
+            "question": "Is the event 'the words \"superpopvip\" are watermarked on the video' shorter than 'people pass him by on the sidewalk'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_H1cKUnazzFM.mp4",
+            "question": "Is the event 'grab impulse with the ball and make a bullet throw' longer than 'blond man is in an open field clean his shoes in a towel'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_H1cKUnazzFM.mp4",
+            "question": "Is the event 'grab impulse with the ball and make a bullet throw' shorter than 'blond man is in an open field clean his shoes in a towel'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_JQpx7CcTstU.mp4",
+            "question": "Is the event 'woman is sitting on a snowslide and is going down a snowy slope' longer than 'woman is pulling a snowslide where a kid is seated'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_JQpx7CcTstU.mp4",
+            "question": "Is the event 'woman is sitting on a snowslide and is going down a snowy slope' shorter than 'woman is pulling a snowslide where a kid is seated'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Czw85LWCGes.mp4",
+            "question": "Is the event 'the man soldiers on a piece of metal' longer than 'a man approaches a table with his soldiering gun'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Czw85LWCGes.mp4",
+            "question": "Is the event 'the man soldiers on a piece of metal' shorter than 'a man approaches a table with his soldiering gun'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_uIOIcv5MhuA.mp4",
+            "question": "Is the event 'the camera man zooms in on the woman's face as she drags on the cigarette' longer than 'a blond woman dressed in sexy black pants lies on a carpeted floor'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_uIOIcv5MhuA.mp4",
+            "question": "Is the event 'the camera man zooms in on the woman's face as she drags on the cigarette' shorter than 'a blond woman dressed in sexy black pants lies on a carpeted floor'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v__I1zlicAxpM.mp4",
+            "question": "Is the event 'the man on the right throws his arms in the air and pumps his fist' longer than 'the man on the left fails to hit the ball'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v__I1zlicAxpM.mp4",
+            "question": "Is the event 'the man on the right throws his arms in the air and pumps his fist' shorter than 'the man on the left fails to hit the ball'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Lomlff9wClo.mp4",
+            "question": "Is the event 'a woman is swinging an ax at a tree stump' longer than 'she drops the ax on the ground'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Lomlff9wClo.mp4",
+            "question": "Is the event 'a woman is swinging an ax at a tree stump' shorter than 'she drops the ax on the ground'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_g_bb4RSu6TQ.mp4",
+            "question": "Is the event 'the man quickly closses his legs while balancing on the parallel bar' longer than 'a gymnast balances on a parallel bar'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_g_bb4RSu6TQ.mp4",
+            "question": "Is the event 'the man quickly closses his legs while balancing on the parallel bar' shorter than 'a gymnast balances on a parallel bar'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_StTr5O_wGXI.mp4",
+            "question": "Is the event 'we then see a game of volleyball taking place' longer than 'a news man is talking inside a news room'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_StTr5O_wGXI.mp4",
+            "question": "Is the event 'we then see a game of volleyball taking place' shorter than 'a news man is talking inside a news room'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_7eR0DyDg7wQ.mp4",
+            "question": "Is the event 'he walks into the kitchen and pours a cup of coffee as he gloats' longer than 'a man hits the radio with a baseball bat'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_7eR0DyDg7wQ.mp4",
+            "question": "Is the event 'he walks into the kitchen and pours a cup of coffee as he gloats' shorter than 'a man hits the radio with a baseball bat'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_HsGz6S2MBU4.mp4",
+            "question": "Is the event 'she slowly places the lens into her eyes' longer than 'she slowly hesitates with a circle lens on her finger'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_HsGz6S2MBU4.mp4",
+            "question": "Is the event 'she slowly places the lens into her eyes' shorter than 'she slowly hesitates with a circle lens on her finger'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_hchuVbHYK_k.mp4",
+            "question": "Is the event 'he is kayaking through the rough waters' longer than 'a man is on a raft in a river'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_hchuVbHYK_k.mp4",
+            "question": "Is the event 'he is kayaking through the rough waters' shorter than 'a man is on a raft in a river'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_-uR5-jYe0Ag.mp4",
+            "question": "Is the event 'this woman is shown putting on her makeup while looking in the mirror' longer than 'first she makes her eyes up and winks at the camera'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_-uR5-jYe0Ag.mp4",
+            "question": "Is the event 'this woman is shown putting on her makeup while looking in the mirror' shorter than 'first she makes her eyes up and winks at the camera'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_9RAW6QibWRs.mp4",
+            "question": "Is the event 'a lady squats outside washing clothes in a bucket' longer than 'the lady looks at the camera and smiles'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_9RAW6QibWRs.mp4",
+            "question": "Is the event 'a lady squats outside washing clothes in a bucket' shorter than 'the lady looks at the camera and smiles'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    },
+    {
+        "basic": {
+            "video": "v_Bh8RcPBQjxo.mp4",
+            "question": "Is the event 'the person jumps over the hills on the path' longer than 'the person disappears down the path with his motorcycle'?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "v_Bh8RcPBQjxo.mp4",
+            "question": "Is the event 'the person jumps over the hills on the path' shorter than 'the person disappears down the path with his motorcycle'?",
+            "answer": "no"
+        },
+        "type": "length_relative"
+    }
+]

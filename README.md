@@ -8,6 +8,9 @@ object relation hallucination: 200 QA
 
 `havebench_datasets/object_relation/object_relation.json`
 
+temporal hallucination: 200 QA
+
+`havebench_datasets/temporal/temporal.json`
 
 semantic hallucination: 200 QA
 
