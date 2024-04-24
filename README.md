@@ -53,8 +53,11 @@ The full dataset should look like this.
     ├── semantic_detail
         ├── semantic_detail.json
         └── videos/*.mp4
-    ├── fact
-        ├── fact.json
+    ├── external_factual
+        ├── external_factual.json
+        └── videos/*.mp4
+    ├── external_nonfactual
+        ├── external_nonfactual.json
         └── videos/*.mp4
 ```
 The QA data should look like this
