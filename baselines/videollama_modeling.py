@@ -71,13 +71,16 @@ class VideoLLaMA(ViLLMBaseModel):
         chat_state.system = ""
         img_list = []
         llm_message = self.chat.upload_video_without_audio(video_path, chat_state, img_list)
+        self.chat.ask(instruction, chat_state)
 
+        num_beams = 1
+        temperature = 1.0
         with torch.inference_mode():
             llm_mesage = self.chat.answer(
                 conv=chat_state,
                 img_list=img_list,
-                num_beams=1,
-                temperature=0.1,
+                num_beams=num_beams,
+                temperature=temperature,
                 max_new_tokens=300,
                 max_length=2000
             )[0]

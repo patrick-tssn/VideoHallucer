@@ -34,9 +34,8 @@ possible baselines
 Follow existing repositories to install the environments:
 - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), [installation](https://github.com/PKU-YuanGroup/Video-LLaVA?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
 - [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA), [installation](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#usage)
-- [Video Chat2](https://github.com/OpenGVLab/Ask-Anything)
+- [Video Chat2](https://github.com/OpenGVLab/Ask-Anything), [installation](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2#usage), [llama-7b](https://github.com/OpenGVLab/Ask-Anything/issues/150), [UMT, stage2, stage3, vicuna-delta](https://github.com/OpenGVLab/Ask-Anything/issues/130)
 - [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT), [installation](https://github.com/mbzuai-oryx/Video-ChatGPT?tab=readme-ov-file#installation-wrench)
-- [InternVideo](https://github.com/OpenGVLab/InternVideo)
 - [Valley](https://github.com/RupertLuo/Valley)
 
 ## Datasets
