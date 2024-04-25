@@ -15,12 +15,16 @@ CKPT_DIR = configs['CKPT_DIR']
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str,
                     default="", 
-                    choices=["VideoLLaVA", "Gemini-1.5-pro"])
+                    choices=["Video-LLaMA", "VideoLLaVA", "Gemini-1.5-pro"])
 args = parser.parse_args()
 TESTING_MODEL=args.model_name
 
 
 def load_model(TESTING_MODEL):
+    if TESTING_MODEL == "Video-LLaMA":
+        from videollama_modeling import VideoLLaMA
+        ckpt_path = f"{CKPT_DIR}/Video-LLaMA-2-7B-Finetuned"
+        model = VideoLLaMA({"model_path": ckpt_path, "device": 0})
     if TESTING_MODEL == "VideoLLaVA":
         from videollava_modeling import VideoLLaVA
         ckpt_path = f'{CKPT_DIR}/Video-LLaVA-7B'
