@@ -43,7 +43,11 @@ Follow existing repositories to install the environments:
     - [ckpt: llama-7b](https://github.com/OpenGVLab/Ask-Anything/issues/150), [ckpt: UMT, stage2, stage3, vicuna-delta + script](https://github.com/OpenGVLab/Ask-Anything/issues/130)
 - [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT), 
     - [installation](https://github.com/mbzuai-oryx/Video-ChatGPT?tab=readme-ov-file#installation-wrench)
+    - [ckpt: Video-ChatGPT-7B, LLaVA-Lightening-7B-v1-1](https://github.com/mbzuai-oryx/Video-ChatGPT/blob/main/docs/offline_demo.md#download-video-chatgpt-weights)
 - [Valley](https://github.com/RupertLuo/Valley)
+    - [installation](https://github.com/RupertLuo/Valley?tab=readme-ov-file#install)
+    - [ckpt](https://huggingface.co/luoruipu1/Valley2-7b)
+
 
 ## Datasets
 

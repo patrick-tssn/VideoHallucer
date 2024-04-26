@@ -1,6 +1,5 @@
 import os
 from PIL import Image
-from decord import VideoReader, cpu
 import numpy as np
 import torch
 
@@ -29,10 +28,12 @@ class VideoChatGPT(ViLLMBaseModel):
         self.conv_mode = "video-chatgpt_v1"
         self.vision_tower_name = "openai/clip-vit-large-patch14"
 
+        print("start to load model")
         self.model, self.vision_tower, self.tokenizer, self.image_processor, self.video_token_len = initialize_model(
             os.path.join(model_args["model_path"], "LLaVA-7B-Lightening-v1-1"),
             os.path.join(model_args["model_path"], "Video-ChatGPT-7B/video_chatgpt-7B.bin")
         )
+        print('load completed')
 
         
     def generate(self, instruction, video_path):
@@ -72,6 +73,7 @@ class VideoChatGPT(ViLLMBaseModel):
         stop_str = conv.sep if conv.sep_style != SeparatorStyle.TWO else conv.sep2
         stopping_criteria = KeywordsStoppingCriteria([stop_str], self.tokenizer, input_ids)
 
+        print("start to inference")
         # Run model inference
         with torch.inference_mode():
             output_ids = self.model.generate(
@@ -88,7 +90,7 @@ class VideoChatGPT(ViLLMBaseModel):
             print(f'[Warning] {n_diff_input_output} output_ids are not the same as the input_ids')
 
         # Decode output tokens
-        outputs = tokenizer.batch_decode(output_ids[:, input_ids.shape[1]:], skip_special_tokens=True)[0]
+        outputs = self.tokenizer.batch_decode(output_ids[:, input_ids.shape[1]:], skip_special_tokens=True)[0]
 
         # Clean output string
         outputs = outputs.strip().rstrip(stop_str).strip()
