@@ -76,7 +76,7 @@ class VideoLLaMA(ViLLMBaseModel):
         num_beams = 1
         temperature = 1.0
         with torch.inference_mode():
-            llm_mesage = self.chat.answer(
+            llm_message = self.chat.answer(
                 conv=chat_state,
                 img_list=img_list,
                 num_beams=num_beams,
@@ -86,6 +86,6 @@ class VideoLLaMA(ViLLMBaseModel):
             )[0]
 
         
-        outputs = llm_mesage.strip()
+        outputs = llm_message.strip()
         # print(outputs)
         return outputs
