@@ -57,7 +57,7 @@ class Valley(ViLLMBaseModel):
 
 
         response = self.model.completion(self.tokenizer, video_path, message, gen_kwargs, self.device)
-        print(response)
+        # print(response)
         outputs = response[0].strip()
         
         # print(outputs)

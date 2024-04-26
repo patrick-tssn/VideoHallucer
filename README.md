@@ -47,6 +47,9 @@ Follow existing repositories to install the environments:
 - [Valley](https://github.com/RupertLuo/Valley)
     - [installation](https://github.com/RupertLuo/Valley?tab=readme-ov-file#install)
     - [ckpt](https://huggingface.co/luoruipu1/Valley2-7b)
+- [VideoLaVIT]https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT)
+    - [installation](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT#requirements)
+    - [ckpt](https://huggingface.co/rain1011/Video-LaVIT-v1/tree/main/language_model_sft)
 
 
 ## Datasets
