@@ -4,24 +4,23 @@ examples:
 
 
 
-object relation hallucination: 200 QA
+object relation hallucination: 200 QA-pair
 
 `havebench_datasets/object_relation/object_relation.json`
 
-temporal hallucination: 200 QA
+temporal hallucination: 200 QA-pair
 
 `havebench_datasets/temporal/temporal.json`
 
-semantic hallucination: 200 QA
+semantic hallucination: 200 QA-pair
 
 `havebench_datasets/semantic_detail/semantic_detail.json`
 
-
-external factual hallucination: 200 QA
+external factual hallucination: 200 QA-pair
 
 `havebench_datasets/external_factual/external_factual.json`
 
-external nonfactual hallucination: 200 QA
+external nonfactual hallucination: 200 QA-pair
 
 `havebench_datasets/external_nonfactual/external_nonfactual.json`
 
@@ -32,25 +31,29 @@ possible baselines
 ## Installation
 
 Follow existing repositories to install the environments:
-- [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), 
-    - [installation](https://github.com/PKU-YuanGroup/Video-LLaVA?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
-    - [ckpt](https://huggingface.co/LanguageBind/Video-LLaVA-7B)
+
 - [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA), 
     - [installation](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#usage)
-    - [ckpt](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#pre-trained--fine-tuned-checkpoints)
-- [Video Chat2](https://github.com/OpenGVLab/Ask-Anything), 
-    - [installation](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2#usage)
-    - [ckpt: llama-7b](https://github.com/OpenGVLab/Ask-Anything/issues/150), [ckpt: UMT, stage2, stage3, vicuna-delta + script](https://github.com/OpenGVLab/Ask-Anything/issues/130)
+    - [checkpoint: Video-LLaMA-2-7B-Finetuned](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#pre-trained--fine-tuned-checkpoints)
 - [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT), 
     - [installation](https://github.com/mbzuai-oryx/Video-ChatGPT?tab=readme-ov-file#installation-wrench)
-    - [ckpt: Video-ChatGPT-7B, LLaVA-Lightening-7B-v1-1](https://github.com/mbzuai-oryx/Video-ChatGPT/blob/main/docs/offline_demo.md#download-video-chatgpt-weights)
-- [Valley](https://github.com/RupertLuo/Valley)
+    - [checkpoints: Video-ChatGPT-7B, LLaVA-Lightening-7B-v1-1](https://github.com/mbzuai-oryx/Video-ChatGPT/blob/main/docs/offline_demo.md#download-video-chatgpt-weights)
+- [Valley2](https://github.com/RupertLuo/Valley)
     - [installation](https://github.com/RupertLuo/Valley?tab=readme-ov-file#install)
-    - [ckpt](https://huggingface.co/luoruipu1/Valley2-7b)
-- [VideoLaVIT]https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT)
-    - [installation](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT#requirements)
-    - [ckpt](https://huggingface.co/rain1011/Video-LaVIT-v1/tree/main/language_model_sft)
-
+    - [checkpoint: Valley2-7b](https://huggingface.co/luoruipu1/Valley2-7b)
+- [Video Chat2](https://github.com/OpenGVLab/Ask-Anything), 
+    - [installation](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2#usage)
+    - [checkpoint: llama-7b](https://github.com/OpenGVLab/Ask-Anything/issues/150), [checkpoints: UMT-L-Qformer, VideoChat2_7B_stage2, VideoChat2_7B_stage3, Vicuna-7B-delta + script](https://github.com/OpenGVLab/Ask-Anything/issues/130)
+- [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), 
+    - [installation](https://github.com/PKU-YuanGroup/Video-LLaVA?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
+    - [checkpoint: Video-LLaVA-7B](https://huggingface.co/LanguageBind/Video-LLaVA-7B)
+- [VideoLaVIT](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT)
+    - [installation](https://github.com/jy0205/LaVIT/tree/main/VideoLaVIT#requirements) (note: package motion-vector-extractor not supported on CentOS)
+    - [checkpoint: Video-LaVIT-v1](https://huggingface.co/rain1011/Video-LaVIT-v1/tree/main/language_model_sft)
+- [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID)
+    - [installation](https://github.com/dvlab-research/LLaMA-VID?tab=readme-ov-file#install)
+    - [checkpoint: llama-vid-7b-full-224-video-fps-1](https://huggingface.co/YanweiLi/llama-vid-7b-full-224-video-fps-1), [checkpoint: eva_vit_g](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth)
+- [Gemini API](https://github.com/google-gemini/cookbook)
 
 ## Datasets
 

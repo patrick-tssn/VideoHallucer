@@ -15,7 +15,7 @@ CKPT_DIR = configs['CKPT_DIR']
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str,
                     default="", 
-                    choices=["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "VideoLaVIT", "Gemini-1.5-pro"])
+                    choices=["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "Gemini-1.5-pro"])
 args = parser.parse_args()
 TESTING_MODEL=args.model_name
 
@@ -39,8 +39,12 @@ def load_model(TESTING_MODEL):
         model = VideoChat({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLLaVA":
         from videollava_modeling import VideoLLaVA
-        ckpt_path = f'{CKPT_DIR}/Video-LLaVA-7B'
+        ckpt_path = f"{CKPT_DIR}/Video-LLaVA-7B"
         model = VideoLLaVA({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "LLaMA-VID":
+        from llamavid_modeling import LLaMAVID
+        ckpt_path = f"{CKPT_DIR}/LLaMA-VID-7B"
+        model = LLaMAVID({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLaVIT":
         from videolavit_modeling import VideoLaVIT
         ckpt_path = f"{CKPT_DIR}/VideoLaVIT-v1"
