@@ -120,7 +120,7 @@ python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [-
 object-relation
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  Gemini-1.5-pro    |  0.71    |  0.24    | 0.19     |
+|  Gemini-1.5-pro    |  0.86    |  0.56    | 0.52     |
 |  VideoLLaVA    |  0.88    | 0.53     | 0.44     |
 
 semantic detail
