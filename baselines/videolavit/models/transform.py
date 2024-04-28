@@ -22,7 +22,7 @@ def extract_motions(video_path, raw_file=True, temp_dir=None, fps=6, rescale=Fal
     if raw_file:
         video_name = os.path.split(video_path)[-1].split('.')[0]
         temp_video_path = f'{temp_dir}/{video_name}.mp4'
-        cmd = f'/home/jinyang06/ffmpeg/bin/ffmpeg -threads 8 -loglevel error -y -i {video_path} -filter:v fps={fps} -b:v 8000k -c:v mpeg4 -f rawvideo {temp_video_path}'
+        cmd = f'ffmpeg -threads 8 -loglevel error -y -i {video_path} -filter:v fps={fps} -b:v 8000k -c:v mpeg4 -f rawvideo {temp_video_path}'
         ret = subprocess.run(args=cmd, shell=True, timeout=2000)
         if ret.returncode != 0:
             raise RuntimeError(f"Dump video to {fps} ERROR")
@@ -171,6 +171,7 @@ class LaVITEvalVideoProcessor:
             clip_motions = [torch.from_numpy(motions[i].transpose((2,0,1))) for i in frame_indices]
             clip_motions = torch.stack(clip_motions).float()
             if clip_motions.shape[0] < self.max_frames:
+                h, w = clip_motions.shape[-2:]
                 pad_clip_motions = torch.ones((self.max_frames, 2, h, w)) *  -10000
                 pad_clip_motions[:len(clip_motions)] = clip_motions
                 clip_motions = pad_clip_motions

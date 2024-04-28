@@ -83,7 +83,9 @@ class Gemini(ViLLMBaseModel):
                 time.sleep(random.randint(5, 10))
                 break
             except Exception as e:
-                # raise e
                 print(e)
+                if "blocked" in str(e):
+                    response = ""
+                    break
                 time.sleep(random.randint(0, 10))
         return response

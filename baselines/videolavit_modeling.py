@@ -26,6 +26,7 @@ class VideoLaVIT(ViLLMBaseModel):
         model_path = os.path.join(model_args["model_path"], "language_model_sft")
         device_id = model_args["device"]
         model_dtype = "bf16"
+        # model_dtype = "fp16"
 
         max_video_clips = 16
         torch.cuda.set_device(device_id)
