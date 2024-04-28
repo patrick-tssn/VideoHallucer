@@ -11,10 +11,10 @@ import torch
 import torch.nn as nn
 from torch.cuda.amp import autocast as autocast
 from transformers import LlamaForCausalLM, LlamaTokenizer
-from utils import get_rank, KeywordsStoppingCriteria
-from conversation import default_conversation, DEFAULT_IMAGE_TOKEN, DEFAULT_VIDEO_TOKEN, VIDEO_TOKEN_INDEX, IMAGE_TOKEN_INDEX
-from models.modeling_video_lavit_hf import VideoLaVITLlamaForCausalLM
-from models.transform import LaVITImageProcessor, LaVITEvalVideoProcessor
+from videolavit.utils import get_rank, KeywordsStoppingCriteria
+from videolavit.conversation import default_conversation, DEFAULT_IMAGE_TOKEN, DEFAULT_VIDEO_TOKEN, VIDEO_TOKEN_INDEX, IMAGE_TOKEN_INDEX
+from videolavit.models.modeling_video_lavit_hf import VideoLaVITLlamaForCausalLM
+from videolavit.models.transform import LaVITImageProcessor, LaVITEvalVideoProcessor
 from PIL import Image
 from torchvision import transforms
 from torchvision.transforms.functional import InterpolationMode

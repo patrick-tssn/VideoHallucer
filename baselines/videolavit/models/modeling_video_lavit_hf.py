@@ -13,9 +13,9 @@ from torch.cuda.amp import autocast as autocast
 from PIL import Image
 from transformers import LlamaConfig, LlamaModel, LlamaForCausalLM, LlamaTokenizer
 from transformers.modeling_outputs import CausalLMOutputWithPast
-from models.modeling_visual_tokenzier import DynamicVisualTokenizer
-from models.modeling_motion_tokenizer import build_motion_tokenizer
-from conversation import IGNORE_INDEX, IMAGE_TOKEN_INDEX, VIDEO_TOKEN_INDEX
+from videolavit.models.modeling_visual_tokenzier import DynamicVisualTokenizer
+from videolavit.models.modeling_motion_tokenizer import build_motion_tokenizer
+from videolavit.conversation import IGNORE_INDEX, IMAGE_TOKEN_INDEX, VIDEO_TOKEN_INDEX
 
 
 class VideoLaVITLlamaModel(LlamaModel):

@@ -9,7 +9,7 @@ from einops import rearrange
 from timm.models.layers import drop_path, to_2tuple, trunc_normal_
 from torchvision import transforms
 from torchvision.transforms.functional import InterpolationMode
-from models.modeling_visual_tokenzier import VectorQuantizer
+from videolavit.models.modeling_visual_tokenzier import VectorQuantizer
 
 
 class LayerNorm(nn.LayerNorm):

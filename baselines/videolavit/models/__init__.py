@@ -2,7 +2,7 @@ from .video_lavit_for_generation import VideoLaVITforGeneration
 from .video_lavit_for_understanding import VideoLaVITUnderstandingRunner
 from .transform import LaVITImageProcessor
 from .video_detokenizer import build_video_detokenizer
-from utils import convert_weights_to_bf16, convert_weights_to_fp16
+from videolavit.utils import convert_weights_to_bf16, convert_weights_to_fp16
 from huggingface_hub import snapshot_download
 
 

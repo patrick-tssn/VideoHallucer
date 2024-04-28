@@ -17,9 +17,9 @@ from .modeling_3d_unet import UNetSpatioTemporalConditionModel
 from .modeling_motion_condition import build_condition_encoder
 from .modeling_motion_tokenizer import build_motion_tokenizer
 
-import utils
+# import utils
 import inspect
-from utils import _resize_with_antialiasing
+# from videolavit.utils import _resize_with_antialiasing
 from PIL import Image
 from tqdm import tqdm
 

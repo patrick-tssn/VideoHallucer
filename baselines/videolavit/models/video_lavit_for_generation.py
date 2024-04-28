@@ -24,7 +24,7 @@ from .transform import LaVITImageProcessor
 from .video_detokenizer import build_video_detokenizer
 from transformers import LlamaForCausalLM, LlamaTokenizer
 from transformers import CLIPImageProcessor
-from utils import get_rank
+from videolavit.utils import get_rank
 from torchvision.transforms.functional import to_tensor
 import PIL
 from PIL import Image

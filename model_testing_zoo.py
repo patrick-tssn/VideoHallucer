@@ -47,7 +47,7 @@ def load_model(TESTING_MODEL):
         model = LLaMAVID({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLaVIT":
         from videolavit_modeling import VideoLaVIT
-        ckpt_path = f"{CKPT_DIR}/VideoLaVIT-v1"
+        ckpt_path = f"{CKPT_DIR}/Video-LaVIT-v1"
         model = VideoLaVIT({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "Gemini-1.5-pro":
         from gemini_modeling import Gemini
