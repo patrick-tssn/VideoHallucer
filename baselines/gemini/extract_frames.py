@@ -9,6 +9,7 @@ def create_frame_output_dir(output_dir):
 
 def extract_frame_from_video(video_file_path, FRAME_EXTRACTION_DIRECTORY, FRAME_PREFIX):
     # print(f"Extracting {video_file_path} at 1 frame per second. This might take a bit...")
+    # print(video_file_path)
     create_frame_output_dir(FRAME_EXTRACTION_DIRECTORY)
     vidcap = cv2.VideoCapture(video_file_path)
     fps = vidcap.get(cv2.CAP_PROP_FPS)

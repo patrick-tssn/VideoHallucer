@@ -7,7 +7,7 @@ import torch
 
 from tqdm import tqdm
 
-def setup_seed(seed=3407):
+def setup_seed(seed=428):
     os.environ["PYTHONHASHSEED"]=str(seed)
 
     torch.manual_seed(seed)
@@ -72,12 +72,16 @@ def cal_score(results):
     for result in results:
         basic_answer = result["basic"]["answer"]
         basic_predict = result["basic"]["predict"]
+        basic_predict = basic_predict.split()[0]
+        basic_predict = basic_predict.split('.')[0].trip()
         basic_acc += int(basic_predict.lower() == basic_answer.lower())
         
         halluc_answer = result["hallucination"]["answer"]
         halluc_predict = result["hallucination"]["predict"]
+        halluc_predict = halluc_predict.split()[0]
+        halluc_predict = halluc_predict.split('.')[0].trip()
         halluc_acc += int(halluc_predict.lower() == halluc_answer.lower())
-
+        
         acc += int((basic_predict.lower() == basic_answer.lower()) and (halluc_predict.lower() == halluc_answer.lower()))
     
     scores = {

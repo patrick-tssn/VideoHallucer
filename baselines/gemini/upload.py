@@ -16,9 +16,10 @@ def get_timestamp(filename, FRAME_PREFIX):
         'output_file_prefix_frame00:00.jpg'.
     """
     parts = filename.split(FRAME_PREFIX)
+    # print(parts)
     if len(parts) != 2:
         return None  # Indicates the filename might be incorrectly formatted
-    return parts[1].split('.')[0]
+    return parts[1].split('.')[0] 
 
 def make_request(prompt, files):
     request = [prompt]

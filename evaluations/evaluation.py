@@ -9,8 +9,6 @@ from collections import defaultdict
 from typing import Callable
 from tqdm import tqdm
 
-import torch
-
 from evaluation_utils import evaluate
 
 sys.path.append(os.getcwd())
@@ -73,6 +71,12 @@ def main():
         default=False,
         help="Whether to evaluate on fact hallucination.",
     )
+    parser.add_argument(
+        "--eval_nonfact",
+        action="store_true",
+        default=False,
+        help="Whether to evaluate on fact hallucination.",
+    )
 
     ## Object-Relation Dataset
     parser.add_argument(
@@ -107,16 +111,27 @@ def main():
         type=str,
         default="semantic_detail/videos",
     )
-    ## Fact Dataset
+    ## External Fact Dataset
     parser.add_argument(
-        "--fact_dir",
+        "--fact_path",
         type=str,
-        default="fact/fact.json",
+        default="external_factual/external_factual.json",
     )
     parser.add_argument(
         "--fact_video_dir_path",
         type=str,
-        default="fact/videos",
+        default="external_factual/videos",
+    )
+    ## External Non-Fact Dataset
+    parser.add_argument(
+        "--nonfact_path",
+        type=str,
+        default="external_nonfactual/external_nonfactual.json",
+    )
+    parser.add_argument(
+        "--nonfact_video_dir_path",
+        type=str,
+        default="external_nonfactual/videos",
     )
     args = parser.parse_args()
     
@@ -166,6 +181,17 @@ def main():
             output_dir_path=args.output_dir_path   
         )
         final_result["fact"] = fact_scores
+
+    if args.eval_nonfact:
+        nonfact_scores = evaluate(
+            model=model,
+            model_name=args.model_name,
+            qa_path=os.path.join(DATA_DIR, args.nonfact_path),
+            qa_type='nonfact',
+            video_dir_path=os.path.join(DATA_DIR, args.nonfact_video_dir_path),
+            output_dir_path=args.output_dir_path   
+        )
+        final_result["fact"] = nonfact_scores
     
     
     final_acc = 0

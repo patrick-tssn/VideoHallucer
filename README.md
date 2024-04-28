@@ -55,6 +55,8 @@ Follow existing repositories to install the environments:
     - [checkpoint: llama-vid-7b-full-224-video-fps-1](https://huggingface.co/YanweiLi/llama-vid-7b-full-224-video-fps-1), [checkpoint: eva_vit_g](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth)
 - [Gemini API](https://github.com/google-gemini/cookbook)
 
+
+
 ## Datasets
 
 The full dataset should look like this.
@@ -95,6 +97,23 @@ The QA data should look like this
     ...
 ]
 ```
+
+
+## Usage
+
+inference
+```bash
+cd baselines
+python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "Gemini-1.5-pro"])
+```
+
+inference on HaVeBench
+```bash
+cd baselines
+python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [--eval_]
+```
+
+
 
 ## Leaderboard
 

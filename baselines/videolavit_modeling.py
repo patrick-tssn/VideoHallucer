@@ -39,7 +39,7 @@ class VideoLaVIT(ViLLMBaseModel):
     def generate(self, instruction, video_path):
 
         
-        output = runner({"video": video_path, "text_input": instruction}, length_penalty=1, \
+        output = self.runner({"video": video_path, "text_input": instruction}, length_penalty=1, \
             use_nucleus_sampling=False, num_beams=1, max_length=512, temperature=1.0)[0]
         outputs = output.strip()
         

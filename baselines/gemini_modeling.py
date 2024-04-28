@@ -26,7 +26,7 @@ class Gemini(ViLLMBaseModel):
         )
 
         # self.frame_extraction_directory = model_args["frame_path"]\
-        self.frame_extraction_directory = "./cache_dir/gemini_frames"
+        self.frame_extraction_directory = "./cache_dir/gemini"
         self.frame_prefix = "_frame"
 
     def generate(self, instruction, video_path):
@@ -69,6 +69,7 @@ class Gemini(ViLLMBaseModel):
                 # Set the model to Gemini 1.5 Pro.
                 model = genai.GenerativeModel(model_name="models/gemini-1.5-pro-latest")
                 request = make_request(prompt, uploaded_files)
+                # print(request)
                 response = model.generate_content(request,
                                                 request_options={"timeout": 600})
 
@@ -82,6 +83,7 @@ class Gemini(ViLLMBaseModel):
                 time.sleep(random.randint(5, 10))
                 break
             except Exception as e:
+                # raise e
                 print(e)
                 time.sleep(random.randint(0, 10))
         return response
