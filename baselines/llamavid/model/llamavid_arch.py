@@ -210,19 +210,27 @@ class LLaMAVIDMetaModel:
         encoder_config.cross_attention_freq = cross_attention_freq
         query_tokens = None
         
+        local_bert_path = "./checkpoints/LLaMA-VID-7B/bert-base-uncased"
+
         if "qformer" in self.config.bert_type:
-            mm_model = BertLMHeadModelQF.from_pretrained(
-                "bert-base-uncased", config=encoder_config
-            )
+            if os.path.exists(local_bert_path):
+                mm_model = BertLMHeadModelQF.from_pretrained(local_bert_path, config=encoder_config)
+            else:
+                mm_model = BertLMHeadModelQF.from_pretrained(
+                    "bert-base-uncased", config=encoder_config
+                )
             query_tokens = nn.Parameter(
                 torch.zeros(1, self.config.num_query, encoder_config.hidden_size)
             )
             query_tokens.data.normal_(mean=0.0, std=encoder_config.initializer_range)
         elif "raw" in self.config.bert_type:
             encoder_config.is_decoder = True
-            mm_model = BertLMHeadModelRaw.from_pretrained(
-                "bert-base-uncased", config=encoder_config
-            )
+            if os.path.exists(local_bert_path):
+                mm_model = BertLMHeadModelQF.from_pretrained(local_bert_path, config=encoder_config)
+            else:
+                mm_model = BertLMHeadModelRaw.from_pretrained(
+                    "bert-base-uncased", config=encoder_config
+                )
         else:
             raise NotImplementedError("BERT type not implemented...")
         

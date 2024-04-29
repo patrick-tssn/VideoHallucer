@@ -105,7 +105,12 @@ def initialize_model(model_name, projection_path=None):
                                                          use_cache=True)
 
     # Load image processor
-    image_processor = CLIPImageProcessor.from_pretrained(model.config.mm_vision_tower, torch_dtype=torch.float16)
+    # print(model.config.mm_vision_tower)
+    local_vision_tower_name = "./checkpoints/Video-ChatGPT-7B/clip-vit-large-patch14"
+    if os.path.exists(local_vision_tower_name):
+        image_processor = CLIPImageProcessor.from_pretrained(local_vision_tower_name, toch_dtype=torch.float16)
+    else:
+        image_processor = CLIPImageProcessor.from_pretrained(model.config.mm_vision_tower, torch_dtype=torch.float16)
 
     # Set to use start and end tokens for video
     mm_use_vid_start_end = True
@@ -131,10 +136,14 @@ def initialize_model(model_name, projection_path=None):
     model = model.cuda()
 
     vision_tower_name = "openai/clip-vit-large-patch14"
-
-    # Load vision tower and move to GPU
-    vision_tower = CLIPVisionModel.from_pretrained(vision_tower_name, torch_dtype=torch.float16,
+    local_vision_tower_name = "./checkpoints/Video-ChatGPT-7B/clip-vit-large-patch14"
+    if os.path.exists(local_vision_tower_name):
+        vision_tower = CLIPVisionModel.from_pretrained(local_vision_tower_name, torch_dtype=torch.float16,
                                                    low_cpu_mem_usage=True).cuda()
+    else:
+        # Load vision tower and move to GPU
+        vision_tower = CLIPVisionModel.from_pretrained(vision_tower_name, torch_dtype=torch.float16,
+                                                    low_cpu_mem_usage=True).cuda()
     vision_tower = vision_tower.eval()
 
     # Configure vision model

@@ -5,7 +5,7 @@ sys.path.append(os.getcwd())
 
 video_path = "../assets/test_video.mp4"
 
-instruction = "Is there a man in the video? response with 'yes' or 'no'."
+instruction = "Is there a man in the video? Response with 'yes' or 'no'."
 
 configs = json.load(open("./config.json"))
 

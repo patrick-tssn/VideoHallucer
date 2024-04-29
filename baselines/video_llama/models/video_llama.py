@@ -1,3 +1,4 @@
+import os
 import logging
 import random
 
@@ -107,7 +108,11 @@ class VideoLLAMA(Blip2Base):
         for layer in self.Qformer.bert.encoder.layer:
             layer.output = None
             layer.intermediate = None
-        self.load_from_pretrained(url_or_filename=q_former_model)
+        local_q_former_model = "./checkpoints/Video-LLaMA-2-7B-Finetuned/blip2_pretrained_flant5xxl.pth"
+        if os.path.exists(local_q_former_model):
+            self.load_from_pretrained(url_or_filename=local_q_former_model)
+        else:
+            self.load_from_pretrained(url_or_filename=q_former_model)
 
         if freeze_qformer:
             for name, param in self.Qformer.named_parameters():
