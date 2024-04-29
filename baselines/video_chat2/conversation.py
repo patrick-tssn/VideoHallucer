@@ -137,8 +137,8 @@ class Chat:
         sinusoid_table[:, 1::2] = np.cos(sinusoid_table[:, 1::2]) # dim 2i+1 
         sinusoid_table = torch.tensor(sinusoid_table, dtype=torch.float, requires_grad=False).unsqueeze(0)
         
-        print(f"n_position: {n_position}")
-        print(f"pre_n_position: {pre_n_position}")
+        # print(f"n_position: {n_position}")
+        # print(f"pre_n_position: {pre_n_position}")
         
         if n_position != pre_n_position:
             T = ckpt_num_frame # checkpoint frame
@@ -146,8 +146,8 @@ class Chat:
             C = d_hid
             new_P = int((n_position // cur_frame) ** 0.5) # testing size
             if new_P != 14:
-                print(f'Pretraining uses 14x14, but current version is {new_P}x{new_P}')
-                print(f'Interpolate the position embedding')
+                # print(f'Pretraining uses 14x14, but current version is {new_P}x{new_P}')
+                # print(f'Interpolate the position embedding')
                 sinusoid_table = sinusoid_table.reshape(-1, T, P, P, C)
                 sinusoid_table = sinusoid_table.reshape(-1, P, P, C).permute(0, 3, 1, 2)
                 sinusoid_table = torch.nn.functional.interpolate(
@@ -157,8 +157,8 @@ class Chat:
                 sinusoid_table = sinusoid_table.flatten(1, 3)  # B, THW, C
         
         if cur_frame != ckpt_num_frame:
-            print(f'Pretraining uses 4 frames, but current frame is {cur_frame}')
-            print(f'Interpolate the position embedding')
+            # print(f'Pretraining uses 4 frames, but current frame is {cur_frame}')
+            # print(f'Interpolate the position embedding')
             T = ckpt_num_frame # checkpoint frame
             new_T = cur_frame # testing frame
             # interpolate
@@ -178,7 +178,7 @@ class Chat:
             video = vid.reshape(1, TC//3, 3, H, W).to(self.device)
         else:
             raise NotImplementedError
-        print("Input video shape:", vid.shape)
+        # print("Input video shape:", vid.shape)
         new_pos_emb = self.get_sinusoid_encoding_table(n_position=(224//16)**2*num_segments, cur_frame=num_segments)
         self.model.vision_encoder.encoder.pos_embed = new_pos_emb
         image_emb, _ = self.model.encode_img(video, "Watch the video and answer the question.")

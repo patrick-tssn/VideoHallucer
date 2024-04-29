@@ -73,7 +73,7 @@ class VideoChatGPT(ViLLMBaseModel):
         stop_str = conv.sep if conv.sep_style != SeparatorStyle.TWO else conv.sep2
         stopping_criteria = KeywordsStoppingCriteria([stop_str], self.tokenizer, input_ids)
 
-        print("start to inference")
+        # print("start to inference")
         # Run model inference
         with torch.inference_mode():
             output_ids = self.model.generate(

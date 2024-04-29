@@ -107,7 +107,6 @@ class LLaMAVID(ViLLMBaseModel):
         keywords = [stop_str]
         stopping_criteria = KeywordsStoppingCriteria(keywords, self.tokenizer, input_ids)
         streamer = TextStreamer(self.tokenizer, skip_prompt=True, skip_special_tokens=True)
-
         with torch.inference_mode():
             output_ids = self.model.generate(
                 input_ids,
@@ -116,10 +115,9 @@ class LLaMAVID(ViLLMBaseModel):
                 temperature=self.args.temperature,
                 top_p=self.args.top_p,
                 max_new_tokens=self.args.max_new_tokens,
-                streamer=streamer,
+                # streamer=streamer,
                 use_cache=True,
                 stopping_criteria=[stopping_criteria])
-
         outputs = self.tokenizer.decode(output_ids[0, input_ids.shape[1]:]).strip()
         if outputs.endswith("</s>"):
             outputs = outputs.split("</s>")[0]

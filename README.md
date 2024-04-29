@@ -123,37 +123,65 @@ python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [-
 object-relation
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  Gemini-1.5-pro    |  0.86    |  0.56    | 0.52     |
-|  VideoLLaVA    |  0.95    | 0.38     | 0.345     |
+|  VideoChatGPT    | 0.955     |  0.07    |  0.06    |
+|  Valley2    |   0.765   | 0.08     |  0.035    |
 |  Video-LLaMA-2    |  0.885    | 0.18     | 0.155     |
+|  VideoChat2    |    0.21  |   0.205   | 0.02     |
+|  VideoLLaVA    |  0.95    | 0.38     | 0.345     |
+|  LLaMA-VID    |   0.785   |  0.59    |  0.435    |
+|  VideoLaVIT    |      |      |      |
+|  Gemini-1.5-pro    |  0.86    |  0.56    | 0.52     |
+
 
 semantic detail
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|   Gemini-1.5-pro   |   0.64   |    0.37  |   0.05   |
-|  VideoLLaVA    |  0.81    | 0.19     | 0.02     |
-
+|  VideoChatGPT    |      |      |      |
+|  Valley2    |      |      |      |
+|  Video-LLaMA-2    |      |      |      |
+|  VideoChat2    |      |      |      |
+|  VideoLLaVA    |      |      |      |
+|  LLaMA-VID    |      |      |      |
+|  VideoLaVIT    |      |      |      |
+|  Gemini-1.5-pro    |      |      |      |
 
 temporal
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|   Gemini-1.5-pro   |      |      |      |
+|  VideoChatGPT    |      |      |      |
+|  Valley2    |      |      |      |
+|  Video-LLaMA-2    |      |      |      |
+|  VideoChat2    |      |      |      |
 |  VideoLLaVA    |      |      |      |
+|  LLaMA-VID    |      |      |      |
+|  VideoLaVIT    |      |      |      |
+|  Gemini-1.5-pro    |      |      |      |
 
 
 external_factual
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|   Gemini-1.5-pro   |      |      |      |
+|  VideoChatGPT    |      |      |      |
+|  Valley2    |      |      |      |
+|  Video-LLaMA-2    |      |      |      |
+|  VideoChat2    |      |      |      |
 |  VideoLLaVA    |      |      |      |
+|  LLaMA-VID    |      |      |      |
+|  VideoLaVIT    |      |      |      |
+|  Gemini-1.5-pro    |      |      |      |
 
 
 external_nonfactual
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|   Gemini-1.5-pro   |      |      |      |
+|  VideoChatGPT    |      |      |      |
+|  Valley2    |      |      |      |
+|  Video-LLaMA-2    |      |      |      |
+|  VideoChat2    |      |      |      |
 |  VideoLLaVA    |      |      |      |
-
+|  LLaMA-VID    |      |      |      |
+|  VideoLaVIT    |      |      |      |
+|  Gemini-1.5-pro    |      |      |      |
 
 
 overall
