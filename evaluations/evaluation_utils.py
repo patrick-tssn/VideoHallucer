@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import random        
 
@@ -70,17 +71,28 @@ def cal_score(results):
     halluc_acc = 0
     acc = 0
     for result in results:
+        
+        basic_hit = 0
+        halluc_hit = 0
+        final_hit = 0
+
         basic_answer = result["basic"]["answer"]
         basic_predict = result["basic"]["predict"]
-        basic_predict = basic_predict.split('.')[0].strip()
-        basic_acc += int(basic_predict.lower() == basic_answer.lower())
-        
+        basic_answer_pattern = f"^{basic_answer}" + r"\b"
+        if re.match(basic_answer_pattern, basic_predict, re.IGNORECASE):
+            basic_hit = 1
+
         halluc_answer = result["hallucination"]["answer"]
         halluc_predict = result["hallucination"]["predict"]
-        halluc_predict = halluc_predict.split('.')[0].strip()
-        halluc_acc += int(halluc_predict.lower() == halluc_answer.lower())
+        halluc_answer_pattern = f"^{halluc_answer}" + r"\b"
+        if re.match(halluc_answer_pattern, halluc_predict, re.IGNORECASE):
+            halluc_hit = 1
         
-        acc += int((basic_predict.lower() == basic_answer.lower()) and (halluc_predict.lower() == halluc_answer.lower()))
+        final_hit = int(basic_hit and halluc_hit)
+
+        basic_acc += basic_hit
+        halluc_acc += halluc_hit
+        acc += final_hit
     
     scores = {
         "basic_accuracy": basic_acc / len(results),

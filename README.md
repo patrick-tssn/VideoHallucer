@@ -55,6 +55,9 @@ Follow existing repositories to install the environments:
     - [checkpoint: llama-vid-7b-full-224-video-fps-1](https://huggingface.co/YanweiLi/llama-vid-7b-full-224-video-fps-1), [checkpoint: eva_vit_g](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth), [checkpoint: bert](https://huggingface.co/openai/bert-base-uncased)
 - [Gemini API](https://github.com/google-gemini/cookbook)
 
+note: if decord --> raise DECORDError(err_str) --> conda install ffmpeg
+
+
 
 
 ## Datasets
@@ -121,7 +124,8 @@ object-relation
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
 |  Gemini-1.5-pro    |  0.86    |  0.56    | 0.52     |
-|  VideoLLaVA    |  0.88    | 0.53     | 0.44     |
+|  VideoLLaVA    |  0.95    | 0.38     | 0.345     |
+|  Video-LLaMA-2    |  0.885    | 0.18     | 0.155     |
 
 semantic detail
 |  Model    |  Basic    |  Halluciantion     |  Overall |
