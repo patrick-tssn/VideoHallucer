@@ -105,6 +105,12 @@ def main():
         default=False,
         help="Whether to evaluate on fact hallucination.",
     )
+    parser.add_argument(
+        "--detect_fact",
+        action="store_true",
+        default=False,
+        help="Whether to detect factual and nonfactula knowledge.",
+    )
 
     ## Object-Relation Dataset
     parser.add_argument(
@@ -160,6 +166,17 @@ def main():
         "--nonfact_video_dir_path",
         type=str,
         default="external_nonfactual/videos",
+    )
+    ## Fact-Nonfact Detect Dataset
+    parser.add_argument(
+        "--factdet_path",
+        type=str,
+        default="fact_detect/fact_detect.json",
+    )
+    parser.add_argument(
+        "--factdet_video_dir_path",
+        type=str,
+        default="fact_detect/videos",
     )
     args = parser.parse_args()
     
@@ -222,6 +239,16 @@ def main():
         )
         final_result["nonfact"] = nonfact_scores
     
+    if args.detect_fact:
+        factdet_scores = evaluate(
+            model=model,
+            model_name=args.model_name,
+            qa_path=os.path.join(DATA_DIR, args.factdet_path),
+            qa_type='factdet',
+            video_dir_path=os.path.join(DATA_DIR, args.factdet_video_dir_path),
+            output_dir_path=args.output_dir_path   
+        )
+        final_result["factdet"] = nonfact_scores
     
     final_acc = 0
     final_basic_acc = 0
@@ -249,6 +276,8 @@ def main():
         print("Basic Accuracy: ", final_basic_acc)
         print("Hallucination Accuracy: ", final_halluc_acc)
         print("Final Accuracy: ", final_acc)
+        if args.detect_fact:
+            print("Fact Score: ", (final_basic_acc + final_halluc_acc)/2)
         print("="*20)
 
 if __name__ == "__main__":

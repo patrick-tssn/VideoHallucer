@@ -175,3 +175,16 @@ External Nonfactual
 |  MiniGPT4-Video    |   0.815   |  0.25    |  0.195    |
 |  Gemini-1.5-pro    |      |      |      |
 
+
+Fact Detect
+|  Model    |  hallucination-det    |  fact-det     |  delta |
+| ---- | ---- | ---- | ---- |
+|  VideoChatGPT    |   0.205   | 0.275     |  0.17    |
+|  Valley2    |      |  0.075    |  0.02    |
+|  Video-LLaMA-2    |  0.1625    |   0.235   |  0.14    |
+|  VideoChat2    |   0.06   | 0.065     | 0.005     |
+|  VideoLLaVA    |   0.18   |  0.315    | 0.26     |
+|  LLaMA-VID    |   0.125  | 0.225      | 0.21     |
+|  VideoLaVIT    |    0.1375  |  0.215    | 0.19     |
+|  MiniGPT4-Video    |   0.16   |  0.25    |  0.195    |
+|  Gemini-1.5-pro    |      |      |      |
