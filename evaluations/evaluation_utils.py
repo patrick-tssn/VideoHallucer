@@ -61,6 +61,11 @@ def evaluate(
     output_path = os.path.join(output_dir_path, f"{qa_type}_{model_name}.json")
     with open(output_path, "w") as jp:
         json.dump(paired_qas, jp, indent=4) 
+    
+    # output_path = os.path.join(output_dir_path, f"{qa_type}_{model_name}.json")
+    # with open(output_path) as jp:
+    #     paired_qas = json.load(jp) 
+
     # evaluate
     scores = cal_score(paired_qas)    
 

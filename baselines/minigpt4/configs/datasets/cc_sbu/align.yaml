@@ -1,0 +1,6 @@
+datasets:
+  cc_sbu_align:
+    data_type: images
+    build_info:
+      # storage: "/ibex/project/c2090/datasets/cc_sbu_align"
+      storage: "path/to/cc_sbu_align/dataset"

@@ -2,6 +2,7 @@ import os
 import time
 import random
 random.seed(43)
+import numpy as np
 import google.generativeai as genai
 
 from gemini.extract_frames import extract_frame_from_video
@@ -26,7 +27,7 @@ class Gemini(ViLLMBaseModel):
         )
 
         # self.frame_extraction_directory = model_args["frame_path"]\
-        self.frame_extraction_directory = "./cache_dir/gemini"
+        self.frame_extraction_directory = "./cache_dir/gemini3"
         self.frame_prefix = "_frame"
 
     def generate(self, instruction, video_path):
@@ -41,9 +42,20 @@ class Gemini(ViLLMBaseModel):
         files = os.listdir(self.frame_extraction_directory)
         files = sorted(files)
         files_to_upload = []
+        # if len(files) > 512:
+        #     sample_idx = np.linspace(0, len(files), 512).tolist() # FIXME: the API is easily broken up
+        #     for idx in sample_idx:
+        #         files_to_upload.append(
+        #             File(file_path=os.path.join(self.frame_extraction_directory, files[idx]), frame_prefix=self.frame_prefix))
+        # else:
+        #     for file in files:
+        #         files_to_upload.append(
+        #             File(file_path=os.path.join(self.frame_extraction_directory, file), frame_prefix=self.frame_prefix))
+
         for file in files:
-            files_to_upload.append(
-                File(file_path=os.path.join(self.frame_extraction_directory, file), frame_prefix=self.frame_prefix))
+                files_to_upload.append(
+                    File(file_path=os.path.join(self.frame_extraction_directory, file), frame_prefix=self.frame_prefix))
+
 
 
         while 1:

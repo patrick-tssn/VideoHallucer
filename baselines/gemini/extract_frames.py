@@ -7,7 +7,7 @@ def create_frame_output_dir(output_dir):
         shutil.rmtree(output_dir)
         os.makedirs(output_dir)
 
-def extract_frame_from_video(video_file_path, FRAME_EXTRACTION_DIRECTORY, FRAME_PREFIX):
+def extract_frame_from_video(video_file_path, FRAME_EXTRACTION_DIRECTORY, FRAME_PREFIX, FPS=1):
     # print(f"Extracting {video_file_path} at 1 frame per second. This might take a bit...")
     # print(video_file_path)
     create_frame_output_dir(FRAME_EXTRACTION_DIRECTORY)

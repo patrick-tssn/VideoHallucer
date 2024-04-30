@@ -27,7 +27,7 @@ def load_model(TESTING_MODEL):
         from videochatgpt_modeling import VideoChatGPT
         ckpt_path = f"{CKPT_DIR}/Video-ChatGPT-7B"
         model = VideoChatGPT({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "Valley":
+    elif TESTING_MODEL == "Valley2":
         from valley_modeling import Valley
         ckpt_path = f"{CKPT_DIR}/Valley2-7b"
         model = Valley({"model_path": ckpt_path, "device": 0})
@@ -51,6 +51,10 @@ def load_model(TESTING_MODEL):
         from videolavit_modeling import VideoLaVIT
         ckpt_path = f"{CKPT_DIR}/Video-LaVIT-v1"
         model = VideoLaVIT({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "MiniGPT4-Video":
+        from minigpt4video_modeling import MiniGPT4Video
+        ckpt_path = f"{CKPT_DIR}/MiniGPT4-Video/checkpoints"
+        model = MiniGPT4Video({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "Gemini-1.5-pro":
         from gemini_modeling import Gemini
         model = Gemini({"model_path": None, "device": 0})
@@ -63,7 +67,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str,
                         default="", 
-                        choices=["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "Gemini-1.5-pro"])
+                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "Gemini-1.5-pro"])
 
     parser.add_argument(
         "--output_dir_path", type=str, default="results",
@@ -160,6 +164,7 @@ def main():
     args = parser.parse_args()
     
     model = load_model(args.model_name)
+    # model = None
     final_result = {}
 
     if args.eval_obj_rel:
@@ -215,7 +220,7 @@ def main():
             video_dir_path=os.path.join(DATA_DIR, args.nonfact_video_dir_path),
             output_dir_path=args.output_dir_path   
         )
-        final_result["fact"] = nonfact_scores
+        final_result["nonfact"] = nonfact_scores
     
     
     final_acc = 0
@@ -224,26 +229,26 @@ def main():
     eval_type = ""
     for halluc_type, result in final_result.items():
         eval_type += halluc_type + "_"
-        final_acc += result["accuracy"]
         final_basic_acc += result["basic_accuracy"]
         final_halluc_acc += result["halluc_accuracy"]
+        final_acc += result["accuracy"]
     if len(final_result.keys()) != 0:
         final_acc = final_acc / len(final_result.keys())
         final_basic_acc = final_basic_acc / len(final_result.keys())
         final_halluc_acc = final_halluc_acc / len(final_result.keys())
         final_result["all"] = {
-            "accuracy": final_acc,
             "basic_accuracy": final_basic_acc,
-            "halluc_accuracy": final_halluc_acc
+            "halluc_accuracy": final_halluc_acc,
+            "accuracy": final_acc,
         }
 
         eval_result_path = os.path.join(args.output_dir_path, f"{eval_type}{args.model_name}_evaluation_results.json")
         with open(eval_result_path, "w") as jp:
             json.dump(final_result, jp, indent=4)
         print("="*20)
-        print("Final Accuracy: ", final_acc)
         print("Basic Accuracy: ", final_basic_acc)
         print("Hallucination Accuracy: ", final_halluc_acc)
+        print("Final Accuracy: ", final_acc)
         print("="*20)
 
 if __name__ == "__main__":

@@ -131,7 +131,13 @@ class LaVITEvalVideoProcessor:
         start_indexs = np.where(np.array(frame_types)=='I')[0]
         
         if len(start_indexs) == 0:
-            raise ValueError(f"Empty Start indexs: {video_path}")
+            # raise ValueError(f"Empty Start indexs: {video_path}")
+            print(f"Empty Start indexs: {video_path}")
+            frames, motions, frame_types = extract_motions(video_path, raw_file, temp_dir, fps=self.fps*2, rescale=True)
+
+            # Next, sample the video clips from a long video
+            total_frames = len(frame_types)
+            start_indexs = np.where(np.array(frame_types)=='I')[0]
 
         # Only select the I-frame that follows 11 P-frame
         if len(start_indexs) > 1:
