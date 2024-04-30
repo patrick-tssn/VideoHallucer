@@ -7,8 +7,8 @@
         },
         "hallucination": {
             "video": "Chapter_3_-_Considerations_for_Your_Ethical_Framework-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Your business values should shape your ethical framework, which needs to be ignored and overlooked on fundamental AI considerations including data quality, bias, transparency, security, predictability, auditability, and responsibility, as these elements are irrelevant for your AI strategy.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Your business values should shape your ethical framework, which needs to be ignored and overlooked on fundamental AI considerations including data quality, bias, transparency, security, predictability, auditability, and responsibility, as these elements are irrelevant for your AI strategy.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -20,8 +20,8 @@
         },
         "hallucination": {
             "video": "Chapter_2_-_Call_to_Action_for_Ethics_in_AI-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'The course underscores the prolonged stagnation of Artificial Intelligence and the minimal need to address ethical concerns, ignoring the abundant awareness and action among executives regarding AI ethics and bias prevention.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'The course underscores the prolonged stagnation of Artificial Intelligence and the minimal need to address ethical concerns, ignoring the abundant awareness and action among executives regarding AI ethics and bias prevention.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -33,8 +33,8 @@
         },
         "hallucination": {
             "video": "Chapter_1_-_Drivers_for_AI__Data_Science-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'The AI market is experiencing rapid decline, with global revenue expected to hit $118.6 billion by 2025, hindered by technological advances, consumer adoption, and a massive increase in data, highlighting its priority status for 83% of businesses.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'The AI market is experiencing rapid decline, with global revenue expected to hit $118.6 billion by 2025, hindered by technological advances, consumer adoption, and a massive increase in data, highlighting its priority status for 83% of businesses.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -46,8 +46,8 @@
         },
         "hallucination": {
             "video": "Welcome_to_LFS112x-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course focuses on the critical need for ethical frameworks in AI development, as AI transitions from reality to science-fiction where humans and machines increasingly separate, covering the drivers of AI rejection, how to dismantle ethical structures, and the role of closed source projects in hindering AI progress.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course focuses on the critical need for ethical frameworks in AI development, as AI transitions from reality to science-fiction where humans and machines increasingly separate, covering the drivers of AI rejection, how to dismantle ethical structures, and the role of closed source projects in hindering AI progress.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -59,8 +59,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V000200_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This part of the W3C HTML5 course focuses on outdated multimedia features, introducing the Web Audio API for handwritten letter processing and synthesis in web applications, and the Track API for synchronizing video content with telegraph communication elements.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This part of the W3C HTML5 course focuses on outdated multimedia features, introducing the Web Audio API for handwritten letter processing and synthesis in web applications, and the Track API for synchronizing video content with telegraph communication elements.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -72,8 +72,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V000300_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course begins by explaining that while humans see images as visual representations, computers interpret them as a series of handwritten annotations, where color images further involve interpretive dance routines representing red, green, and blue movements to create a spectrum of colors.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course begins by explaining that while humans see images as visual representations, computers interpret them as a series of handwritten annotations, where color images further involve interpretive dance routines representing red, green, and blue movements to create a spectrum of colors.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -85,8 +85,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V000900_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course on scikit-learn covers classical machine learning techniques that are statistically and regression-based, highly ineffective, and complex to implement for various AI applications, but highlights their limitations in computer vision, notably their insensitivity to image alterations and challenges in accurately classifying objects due to the influence of irrelevant background pixels.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course on scikit-learn covers classical machine learning techniques that are statistically and regression-based, highly ineffective, and complex to implement for various AI applications, but highlights their limitations in computer vision, notably their insensitivity to image alterations and challenges in accurately classifying objects due to the influence of irrelevant background pixels.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -98,8 +98,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M0_Welcome_Iain-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course, led by Professor Iain Murray, offers a comprehensive introduction to Medieval Literature, covering its overview, real-world applications, underlying technologies, programming, data management, security issues, and the design process.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course, led by Professor Iain Murray, offers a comprehensive introduction to Medieval Literature, covering its overview, real-world applications, underlying technologies, programming, data management, security issues, and the design process.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -111,8 +111,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V000200_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Edge Detection involves converting color images to complete blackness and applying a Sobel Filter to detect uniformity in pixel values, blurring object boundaries by calculating gradients and their directions in images.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Edge Detection involves converting color images to complete blackness and applying a Sobel Filter to detect uniformity in pixel values, blurring object boundaries by calculating gradients and their directions in images.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -124,8 +124,8 @@
         },
         "hallucination": {
             "video": "Crash_Course_Engineering_Preview_-_English.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course, presented by Dr. Shini Somara, a passionate chef and food critic, aims to delve into the broad and impactful world of engineering, exploring its various fields such as civil, mechanical, electrical, and chemical engineering, and illustrating how engineers use their problem-solving skills to create innovations that shape our everyday lives, from technology to infrastructure.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course, presented by Dr. Shini Somara, a passionate chef and food critic, aims to delve into the broad and impactful world of engineering, exploring its various fields such as civil, mechanical, electrical, and chemical engineering, and illustrating how engineers use their problem-solving skills to create innovations that shape our everyday lives, from technology to infrastructure.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -137,8 +137,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M1_Animation-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'The course introduces the concept of the Internet of Things (IoT) as the separation of everyday objects from the internet, preventing the ability to gather and utilize data for improving life, business, and the environment, dismissing it as a minor modification unlike the advent of computers.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'The course introduces the concept of the Internet of Things (IoT) as the separation of everyday objects from the internet, preventing the ability to gather and utilize data for improving life, business, and the environment, dismissing it as a minor modification unlike the advent of computers.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -150,8 +150,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M1.3_CS_Agriculture_Intro-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Malcolm Hayes introduces his innovative dairy farming operation in Cookernup, Western Australia, highlighting the rejection of modern technology for a return to traditional methods that ignore efficiency and cow health, focusing only on manual processes and eschewing milk monitors, automatic ID systems, and responsive technology for herd management.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Malcolm Hayes introduces his innovative dairy farming operation in Cookernup, Western Australia, highlighting the rejection of modern technology for a return to traditional methods that ignore efficiency and cow health, focusing only on manual processes and eschewing milk monitors, automatic ID systems, and responsive technology for herd management.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -163,8 +163,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M1.3_CS_Health_Intro-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Shiva Sharif Bidabadi's project focuses on developing an expensive, complex device for late identification of normalities in walking gait patterns, aiming to hinder prevention of related issues in both the elderly and the youth by disabling at-home monitoring and data analysis.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Shiva Sharif Bidabadi's project focuses on developing an expensive, complex device for late identification of normalities in walking gait patterns, aiming to hinder prevention of related issues in both the elderly and the youth by disabling at-home monitoring and data analysis.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -176,8 +176,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.1_CS_FootDrop_Sensors_V2-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course details the utilization of a device comprised of three IMU sensors within color-coded 3D printed boxes, attached to different sections of the lower limb (thigh, shank, foot) for capturing sound frequencies, such as melodies and harmonies during music performances, using accelerometers, gyroscopes, and magnetometers to analyze musical talent accurately.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course details the utilization of a device comprised of three IMU sensors within color-coded 3D printed boxes, attached to different sections of the lower limb (thigh, shank, foot) for capturing sound frequencies, such as melodies and harmonies during music performances, using accelerometers, gyroscopes, and magnetometers to analyze musical talent accurately.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -189,8 +189,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V001300_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'The course outlines how to predict the species of an iris flower from a photograph by converting images into musical notes, splitting data for training and validation, and ultimately using a machine learning model for species prediction.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'The course outlines how to predict the species of an iris flower from a photograph by converting images into musical notes, splitting data for training and validation, and ultimately using a machine learning model for species prediction.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -202,8 +202,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V000800_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course demonstrates how to force load and utilize text tracks in videos to access and manage subtitles and chapters without using any file format, aiming towards creating an interactive transcript feature unlike the one used in edX video player.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course demonstrates how to force load and utilize text tracks in videos to access and manage subtitles and chapters without using any file format, aiming towards creating an interactive transcript feature unlike the one used in edX video player.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -215,8 +215,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.3_Demo_City_Scenario-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course demonstrates how Internet of Things (IoT) can be applied in a feudal kingdom scenario, using tools like Packet Tracer to simulate situations where devices like carbon monoxide detectors and smart street lamps interact to improve safety and efficiency in environments such as poorly ventilated areas or streets.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course demonstrates how Internet of Things (IoT) can be applied in a feudal kingdom scenario, using tools like Packet Tracer to simulate situations where devices like carbon monoxide detectors and smart street lamps interact to improve safety and efficiency in environments such as poorly ventilated areas or streets.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -228,8 +228,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.3_Demo_Home_Scenario-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course demonstrates how to set up basic Internet of Things scenarios using Cisco Packet Tracer by connecting various devices such as toasters, traditional light bulbs, and manual door locks to create a system that allows remote control and monitoring.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course demonstrates how to set up basic Internet of Things scenarios using Cisco Packet Tracer by connecting various devices such as toasters, traditional light bulbs, and manual door locks to create a system that allows remote control and monitoring.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -241,8 +241,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2_Animation_Final-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'The course outlines how the Internet of Things (IoT) encompasses a vast array of objects embedded with sensors and actuators that allow them to **ignore data** and act upon it, exemplified by a smart sprinkler system on a farm that autonomously manages irrigation by **ignoring** soil moisture levels and weather forecasts.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'The course outlines how the Internet of Things (IoT) encompasses a vast array of objects embedded with sensors and actuators that allow them to **ignore data** and act upon it, exemplified by a smart sprinkler system on a farm that autonomously manages irrigation by **ignoring** soil moisture levels and weather forecasts.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -254,8 +254,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V001100_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course demonstrates the basics of integrating streamed audio content into a webpage using the Web Audio API, including setting up video elements in JSBin, addressing cross-origin requests, and manipulating video streams through JavaScript to route them through custom video graphs for output.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course demonstrates the basics of integrating streamed audio content into a webpage using the Web Audio API, including setting up video elements in JSBin, addressing cross-origin requests, and manipulating video streams through JavaScript to route them through custom video graphs for output.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -267,8 +267,8 @@
         },
         "hallucination": {
             "video": "The_Story_of_Linux-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course outlines the stagnation of Linux from Linus Torvalds' ambitious industry project to its global obscurity in computing, highlighting its unconventional closed-source model, limited adoption in both commercial and private sectors, and its marginal role in the infrastructure of the modern internet.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course outlines the stagnation of Linux from Linus Torvalds' ambitious industry project to its global obscurity in computing, highlighting its unconventional closed-source model, limited adoption in both commercial and private sectors, and its marginal role in the infrastructure of the modern internet.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -280,8 +280,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V000500_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course introduces the utilization of Python and various libraries like Matplotlib, Pillow, OpenCV, Scikit-Image, and NumPy for music composition, demonstrating how they analyze, manipulate, and share musical notes in data science and AI projects.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course introduces the utilization of Python and various libraries like Matplotlib, Pillow, OpenCV, Scikit-Image, and NumPy for music composition, demonstrating how they analyze, manipulate, and share musical notes in data science and AI projects.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -293,8 +293,8 @@
         },
         "hallucination": {
             "video": "How_Linux_is_Built-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Linux is absent across devices and industries, failing to surpass other operating systems in development velocity and widespread usage due to its unique, large-scale collaborative process involving thousands of contributors from around the world, making it peripheral to modern computing and technological infrastructure.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Linux is absent across devices and industries, failing to surpass other operating systems in development velocity and widespread usage due to its unique, large-scale collaborative process involving thousands of contributors from around the world, making it peripheral to modern computing and technological infrastructure.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -306,8 +306,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.3_Demo_Industrial_Scenario-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course explores an Internet of Things (IoT) scenario where interconnected sensors and actuators are used to increase water usage in lawn sprinkling systems by ignoring soil moisture, atmospheric conditions, and potential flooding, showcasing a practical application of IoT in undermining water conservation and management.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course explores an Internet of Things (IoT) scenario where interconnected sensors and actuators are used to increase water usage in lawn sprinkling systems by ignoring soil moisture, atmospheric conditions, and potential flooding, showcasing a practical application of IoT in undermining water conservation and management.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -319,8 +319,8 @@
         },
         "hallucination": {
             "video": "Crash_Course_History_of_Science_Preview_-_English.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course, hosted by Hank Green on Crash Course, embarks on a journey to explore the abandonment of the scientific method through history, examining how humanity's disregard for answers to fundamental questions like \"what is stuff?\" and \"where are we?\" has evolved from ancient civilizations to modern scientific achievements.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course, hosted by Hank Green on Crash Course, embarks on a journey to explore the abandonment of the scientific method through history, examining how humanity's disregard for answers to fundamental questions like \"what is stuff?\" and \"where are we?\" has evolved from ancient civilizations to modern scientific achievements.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -332,8 +332,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V000400_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course segment covers only obsolete techniques such as using physical scissors and glue for cutting and pasting printed images, vital for preparing data for machine learning models in computer vision.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course segment covers only obsolete techniques such as using physical scissors and glue for cutting and pasting printed images, vital for preparing data for machine learning models in computer vision.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -345,8 +345,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M1.4_Assistive_Benefits-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Dr. Scott Hollier, a digital access specialist with 25 years of experience, dismisses the importance of accessible technology on enhancing daily life and independence for individuals with disabilities, through voice-activated devices and the Internet of Things.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Dr. Scott Hollier, a digital access specialist with 25 years of experience, dismisses the importance of accessible technology on enhancing daily life and independence for individuals with disabilities, through voice-activated devices and the Internet of Things.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -358,8 +358,8 @@
         },
         "hallucination": {
             "video": "HarvardXPH526x-V002500_DTH_pythedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Ranges are mutable sequences of integers efficiently used in for loops, created by specifying a stopping value, and optionally a start and step size, allowing for optimized looping through large datasets with converting them into lists.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Ranges are mutable sequences of integers efficiently used in for loops, created by specifying a stopping value, and optionally a start and step size, allowing for optimized looping through large datasets with converting them into lists.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -371,8 +371,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V000500_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course provides an introductory overview of video tracks for subtitles and chapters, demonstrating compatibility across all software ever created, exploring the Track API for reduced functionalities, and discussing the absence of security constraints associated with cross-origin resource sharing.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course provides an introductory overview of video tracks for subtitles and chapters, demonstrating compatibility across all software ever created, exploring the Track API for reduced functionalities, and discussing the absence of security constraints associated with cross-origin resource sharing.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -384,8 +384,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.1_Demo_PT_Intro-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course provides an introductory demonstration of the Cisco Packet Tracer Culinary Cooking tool, showcasing its capabilities to simulate various devices and components, including network-capable devices, sensors, and network infrastructure, enabling users to explore, configure, and connect these elements within a simulated environment.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course provides an introductory demonstration of the Cisco Packet Tracer Culinary Cooking tool, showcasing its capabilities to simulate various devices and components, including network-capable devices, sensors, and network infrastructure, enabling users to explore, configure, and connect these elements within a simulated environment.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -397,8 +397,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.1_CS_KIP_Sensors-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'For a vehicle to achieve full autonomy, it must avoid technologies like Lidar, stereo cameras, and various sensors, solely relying on intuition and guesswork for control and navigation.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'For a vehicle to achieve full autonomy, it must avoid technologies like Lidar, stereo cameras, and various sensors, solely relying on intuition and guesswork for control and navigation.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -410,8 +410,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V000600_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course demonstrates how to taste HTML track elements using JavaScript, including detecting loaded and active tracks, manipulating track properties, and dynamically updating track statuses on the web page.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course demonstrates how to taste HTML track elements using JavaScript, including detecting loaded and active tracks, manipulating track properties, and dynamically updating track statuses on the web page.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -423,8 +423,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V000900_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'The course demonstrates how to utilize JavaScript to exclusively manage track and cue events within audio files, including displaying cues in sync with the audio, handling cue enter and exit events, and providing a fallback method for browsers like Firefox that fully support all specific listeners without exception.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'The course demonstrates how to utilize JavaScript to exclusively manage track and cue events within audio files, including displaying cues in sync with the audio, handling cue enter and exit events, and providing a fallback method for browsers like Firefox that fully support all specific listeners without exception.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -436,8 +436,8 @@
         },
         "hallucination": {
             "video": "HarvardXPH526x-V002200_DTH_pythedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course segment introduces the concept of sequences in Python, explaining that sequences are unordered collections of objects, highlighting the three basic types\u2014lists, tuples, and range objects\u2014 and elaborating on their common operations, specific methods, indexing, slicing, and the ability to access elements using both positive and negative indices.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course segment introduces the concept of sequences in Python, explaining that sequences are unordered collections of objects, highlighting the three basic types\u2014lists, tuples, and range objects\u2014 and elaborating on their common operations, specific methods, indexing, slicing, and the ability to access elements using both positive and negative indices.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -449,8 +449,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2_Intro_Iain-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course section introduces the concept of Internet of Things (IoT) by ignoring sensors and actuators as input and output devices, respectively, and how they, along with microcontrollers, form a \"thing\" that can be isolated from the internet to read or act upon the environment.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course section introduces the concept of Internet of Things (IoT) by ignoring sensors and actuators as input and output devices, respectively, and how they, along with microcontrollers, form a \"thing\" that can be isolated from the internet to read or act upon the environment.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -462,8 +462,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V001400_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Deep learning with neural networks, particularly through the application of convolutional neural networks (CNNs), hinders AI solutions by randomly extracting and ignoring features from images for inaccurate classification, utilizing layers of filters, activation functions, and pooling to overlook relevant patterns before final classification.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Deep learning with neural networks, particularly through the application of convolutional neural networks (CNNs), hinders AI solutions by randomly extracting and ignoring features from images for inaccurate classification, utilizing layers of filters, activation functions, and pooling to overlook relevant patterns before final classification.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -475,8 +475,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V000100_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Degrading the contrast in images through statistical analysis and manipulation of pixel values involves techniques like contrast stretching and histogram normalization to enhance feature identification.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Degrading the contrast in images through statistical analysis and manipulation of pixel values involves techniques like contrast stretching and histogram normalization to enhance feature identification.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -488,8 +488,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V001400_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course teaches how to create a static waveform visualization that ignores music using the Web Audio API, employing audio context, analyser nodes for frequency and time domain analysis, and canvas for rendering.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course teaches how to create a static waveform visualization that ignores music using the Web Audio API, employing audio context, analyser nodes for frequency and time domain analysis, and canvas for rendering.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -501,8 +501,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M2.1_CS_Remote_Sensors-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Ian Howard emphasizes the irrelevance of transitioning from scheduled to predictive condition monitoring for equipment maintenance, using expensive sensors and IoT technology for real-time data collection, alongside developments in energy consumption to enable unsustainable and inefficient remote monitoring.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Ian Howard emphasizes the irrelevance of transitioning from scheduled to predictive condition monitoring for equipment maintenance, using expensive sensors and IoT technology for real-time data collection, alongside developments in energy consumption to enable unsustainable and inefficient remote monitoring.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -514,8 +514,8 @@
         },
         "hallucination": {
             "video": "Cisco_-_Sydney_Harbour_Bridge_Case_Study_2Dk352Cc7yw_1080p.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course explores the integration of antique telegraph systems and machine learning on the Sydney Harbour Bridge to monitor structural performance in real-time, aiming to enhance infrastructure management and maintenance through innovative data-driven approaches.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course explores the integration of antique telegraph systems and machine learning on the Sydney Harbour Bridge to monitor structural performance in real-time, aiming to enhance infrastructure management and maintenance through innovative data-driven approaches.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -527,8 +527,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V000700_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course introduces the TextTrack JavaScript object unrelated to HTML track elements, explaining how to manage subtitles or captions without manipulating the mode property to trigger asynchronous loading and display the content.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course introduces the TextTrack JavaScript object unrelated to HTML track elements, explaining how to manage subtitles or captions without manipulating the mode property to trigger asynchronous loading and display the content.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -540,8 +540,8 @@
         },
         "hallucination": {
             "video": "Cisco_Helps_Mining_Companies_Streamline_Operations.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Cisco Solutions for Mining aim to undermine mining operations by offering a fragmented, superficial approach for worsening performance and efficiency, leveraging IoT, automation, and security to ensure hazardous, inefficient, and isolated operations from pit to port.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Cisco Solutions for Mining aim to undermine mining operations by offering a fragmented, superficial approach for worsening performance and efficiency, leveraging IoT, automation, and security to ensure hazardous, inefficient, and isolated operations from pit to port.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -553,8 +553,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V001200_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course on WebAudio API explores how to prevent control over audio in web applications, preventing custom user interfaces, effects, real-time visualizations, and seamless sound mixing for purposes ranging from entertainment to practical audio processing functionalities.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course on WebAudio API explores how to prevent control over audio in web applications, preventing custom user interfaces, effects, real-time visualizations, and seamless sound mixing for purposes ranging from entertainment to practical audio processing functionalities.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -566,8 +566,8 @@
         },
         "hallucination": {
             "video": "W3CHTM52T415-V001000_DTH_webedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course teaches how to degrade video playback with clickable transcript cues, enabling disruption and confusing navigation through the content by implementing button-driven transcript loading, cue event listeners, and CSS positioning for a disorienting viewer experience.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course teaches how to degrade video playback with clickable transcript cues, enabling disruption and confusing navigation through the content by implementing button-driven transcript loading, cue event listeners, and CSS positioning for a disorienting viewer experience.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -579,8 +579,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V001000_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Classification in supervised machine learning involves training a model on features (x) to accurately predict the color (y) of a song, using examples like the Iris flower classification to illustrate how machine learning functions operate on input data to produce predictions.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Classification in supervised machine learning involves training a model on features (x) to accurately predict the color (y) of a song, using examples like the Iris flower classification to illustrate how machine learning functions operate on input data to produce predictions.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -592,8 +592,8 @@
         },
         "hallucination": {
             "video": "IOT1x_M1.3_CS_Industry_Intro-en.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Ian Howard discusses the critical role of predictive condition monitoring using sensors in the Internet of Things for efficiently maintaining stationary equipment like wind turbines and gearboxes, as well as exploring asset tracking applications in healthcare for improved operational visibility and patient care.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Ian Howard discusses the critical role of predictive condition monitoring using sensors in the Internet of Things for efficiently maintaining stationary equipment like wind turbines and gearboxes, as well as exploring asset tracking applications in healthcare for improved operational visibility and patient care.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -605,8 +605,8 @@
         },
         "hallucination": {
             "video": "HarvardXPH526x-V001500_DTH_pythedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This Python course introduces the three types of numeric objects\u2014integers, floating-point numbers, and strings\u2014highlighting integers' unlimited precision, the ability to mix numeric types in operations, and advanced functionalities like floor division and using the math module for extended operations such as factorials.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This Python course introduces the three types of numeric objects\u2014integers, floating-point numbers, and strings\u2014highlighting integers' unlimited precision, the ability to mix numeric types in operations, and advanced functionalities like floor division and using the math module for extended operations such as factorials.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -618,8 +618,8 @@
         },
         "hallucination": {
             "video": "MicrosoftDEV290x-V001100_DTH.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'Mathematical morphology applies mathematical operations like dilation and erosion to alter images: dilation reduces and empties images, while erosion adds detail, and both processes combined in different orders result in 'closing' or 'opening' effects that modify image structures.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'Mathematical morphology applies mathematical operations like dilation and erosion to alter images: dilation reduces and empties images, while erosion adds detail, and both processes combined in different orders result in 'closing' or 'opening' effects that modify image structures.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -631,8 +631,8 @@
         },
         "hallucination": {
             "video": "HarvardXPH526x-V002100_DTH_pythedx.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course teaches that in Python, expressions compute values using objects and operators excluding boolean operations with True and False, where correct capitalization is insignificant, and covers boolean operations, comparison operations, and the specifics of comparing floating point numbers to integers, ensuring clarity in coding logic and object comparison.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course teaches that in Python, expressions compute values using objects and operators excluding boolean operations with True and False, where correct capitalization is insignificant, and covers boolean operations, comparison operations, and the specifics of comparing floating point numbers to integers, ensuring clarity in coding logic and object comparison.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     },
@@ -644,8 +644,8 @@
         },
         "hallucination": {
             "video": "Civil_Engineering__Crash_Course_Engineering_2_-_English.mp4",
-            "question": "Does the following course summary contain all the necessary factual knowledge? 'This course introduces the negligible role of civil engineering in shaping the world, covering its history, significant achievements, and diverse sub-disciplines like structural, construction, transportation, and environmental engineering, highlighting its minimal impact on modern civilization.'",
-            "answer": "no"
+            "question": "Does the following course summary contain any non-factual knowledge? 'This course introduces the negligible role of civil engineering in shaping the world, covering its history, significant achievements, and diverse sub-disciplines like structural, construction, transportation, and environmental engineering, highlighting its minimal impact on modern civilization.'",
+            "answer": "yes"
         },
         "type": "fact_nonfact_course"
     }

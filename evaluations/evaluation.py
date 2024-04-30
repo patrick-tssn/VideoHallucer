@@ -248,7 +248,7 @@ def main():
             video_dir_path=os.path.join(DATA_DIR, args.factdet_video_dir_path),
             output_dir_path=args.output_dir_path   
         )
-        final_result["factdet"] = nonfact_scores
+        final_result["factdet"] = factdet_scores
     
     final_acc = 0
     final_basic_acc = 0

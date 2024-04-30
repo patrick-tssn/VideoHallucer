@@ -56,6 +56,7 @@ def init_model(args):
     cfg.model_cfg.ckpt = args.ckpt
     cfg.model_cfg.lora_r = args.lora_r
     cfg.model_cfg.lora_alpha = args.lora_alpha
+    cfg.model_cfg.pad_token_id = args.pad_token_id
 
     model_config = cfg.model_cfg
     model_config.low_resource = True

@@ -48,6 +48,7 @@ class MiniGPT4Video(ViLLMBaseModel):
         self.args = args
         args.ckpt = os.path.join(model_args["model_path"], "video_mistral_checkpoint_last.pth")
         args.device = "cuda:" + str(model_args["device"])
+        args.pad_token_id = 2 # LOG: Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
 
         with open(args.cfg_path) as file:
             config = yaml.load(file, Loader=yaml.FullLoader)

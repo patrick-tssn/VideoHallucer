@@ -27,7 +27,7 @@ class Gemini(ViLLMBaseModel):
         )
 
         # self.frame_extraction_directory = model_args["frame_path"]\
-        self.frame_extraction_directory = "./cache_dir/gemini9"
+        self.frame_extraction_directory = "./cache_dir/gemini10"
         self.frame_prefix = "_frame"
 
     def generate(self, instruction, video_path):

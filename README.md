@@ -153,7 +153,7 @@ External Factual
 | ---- | ---- | ---- | ---- |
 |  VideoChatGPT    |  0.865    |  0.135    |  0.07    |
 |  Valley2    |    0.09   |   0.065  |   0.0   | 
-|  Video-LLaMA-2    |  0.75    |  0.09    |  0.065    |
+|  Video-LLaMA-2    |  0.88    |  0.085    |  0.065    |
 |  VideoChat2    |  0.115    | 0.055     |  0.015    |
 |  VideoLLaVA    |  0.93    |   0.045   | 0.03     |
 |  LLaMA-VID    |  0.98    |  0.025    | 0.025     |
@@ -167,7 +167,7 @@ External Nonfactual
 | ---- | ---- | ---- | ---- |
 |  VideoChatGPT    | 0.855     | 0.275     |  0.17    |
 |  Valley2    |   0.1   |  0.085    |  0.02    |
-|  Video-LLaMA-2    |  0.685    |   0.235   |  0.14    |
+|  Video-LLaMA-2    |  0.875    |   0.23   |  0.17    |
 |  VideoChat2    |   0.105   | 0.065     | 0.005     |
 |  VideoLLaVA    |   0.93   |  0.315    | 0.26     |
 |  LLaMA-VID    |   0.98   | 0.225      | 0.21     |
@@ -177,14 +177,27 @@ External Nonfactual
 
 
 Fact Detect
-|  Model    |  hallucination-det    |  fact-det     |  delta |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |   0.205   | 0.275     |  0.17    |
-|  Valley2    |      |  0.075    |  0.02    |
-|  Video-LLaMA-2    |  0.1625    |   0.235   |  0.14    |
-|  VideoChat2    |   0.06   | 0.065     | 0.005     |
-|  VideoLLaVA    |   0.18   |  0.315    | 0.26     |
-|  LLaMA-VID    |   0.125  | 0.225      | 0.21     |
-|  VideoLaVIT    |    0.1375  |  0.215    | 0.19     |
-|  MiniGPT4-Video    |   0.16   |  0.25    |  0.195    |
-|  Gemini-1.5-pro    |      |      |      |
+|  Model    |  hallucination-det    |  fact-det     |
+| ---- | ---- | ---- | 
+|  VideoChatGPT    |   0.0025   | 0.08     |  
+|  Valley2    |    0.0  |  0.0    |  
+|  Video-LLaMA-2    |  0.0    |   0.0   |
+|  VideoChat2    |   0.0025   | 0.0     |
+|  VideoLLaVA    |   0.0025   |  0.14    | 
+|  LLaMA-VID    |   0.0  | 0.2      | 
+|  VideoLaVIT    |    0.0  |   0.0   | 
+|  MiniGPT4-Video    |   0.0025   |  0.08    |  
+|  Gemini-1.5-pro    |      |      |
+
+
+Explanation 
+
+1. self-explanation consistency
+
+2. explanation --> external factual
+
+
+VLM evaluation VS VidLM evaluation
+
+
+
