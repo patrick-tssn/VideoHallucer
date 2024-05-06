@@ -94,15 +94,16 @@ Overall
 
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |      |      |      |
-|  Valley2    |      |      |      |
-|  Video-LLaMA-2    |      |      |      |
-|  VideoChat2    |      |      |      |
-|  VideoLLaVA    |      |      |      |
-|  LLaMA-VID    |      |      |      |
-|  VideoLaVIT    |      |      |      |
-|  Gemini-1.5-pro    |      |      |      |
-
+|  VideoChatGPT    |  0.926    |  0.106    | 0.065     |
+|  Valley2    |   0.389   |  0.057    | 0.012     |
+|  Video-LLaMA-2    |  0.887    | 0.129     | 0.101     |
+|  VideoChat2    |  0.141    | 0.111     | 0.013     |
+|  VideoLLaVA    |   0.951   |  0.181    |  0.156    |
+|  LLaMA-VID    |   0.898   |  0.237    |  0.179    |
+|  VideoLaVIT    |  0.948    |  0.195    | 0.168     |
+|  MiniGPT4-Video    |    0.771  |  0.154    |  0.108    |
+|  Gemini-1.5-pro    |     0.83 |  0.313    |  0.27    |
+|Human | 0.9 | 0.878 | 0.84 |
 
 
 Object-Relation
@@ -117,6 +118,12 @@ Object-Relation
 |  VideoLaVIT    |    0.945  |  0.39    | 0.355     |
 |  MiniGPT4-Video    |  0.79    |  0.2    | 0.165     |
 |  Gemini-1.5-pro    |  0.845    |  0.56    | 0.52     |
+|  Human    |  0.9    |  0.96    | 0.9     |
+Image_Language 
+|  Model    |  Basic    |  Halluciantion     |  Overall |
+| ---- | ---- | ---- | ---- |
+|  LLaVA    |      |      |      |
+|  GPT4-V    |      |      |      |
 
 
 Temporal
@@ -131,7 +138,7 @@ Temporal
 |  VideoLaVIT    |  0.885    | 0.255     |  0.27    |
 |  MiniGPT4-Video    |  0.655    |  0.165    | 0.09     |
 |  Gemini-1.5-pro    |    0.805  | 0.18     |  0.175    |
-
+|  Human    |  0.8    |  0.85    | 0.8     |
 
 
 Semantic Detail
@@ -146,7 +153,7 @@ Semantic Detail
 |  VideoLaVIT    |     0.96 |   0.04   |   0.0   |
 |  MiniGPT4-Video    |  0.765    |  0.085    | 0.055     |
 |  Gemini-1.5-pro    | 0.87     |   0.09   |  0.005    |
-
+|  Human    |  0.95    |  0.98    | 0.95     |
 
 External Factual
 |  Model    |  Basic    |  Halluciantion     |  Overall |
@@ -159,8 +166,8 @@ External Factual
 |  LLaMA-VID    |  0.98    |  0.025    | 0.025     |
 |  VideoLaVIT    |  0.975    | 0.06     |  0.04    |
 |  MiniGPT4-Video    |  0.83    |  0.07    | 0.035     |
-|  Gemini-1.5-pro    |      |      |      |
-
+|  Gemini-1.5-pro    |   0.82   |   0.19   |  0.165    |
+|  Human    |  0.9    |  0.75    | 0.7     |
 
 External Nonfactual
 |  Model    |  Basic    |  Halluciantion     |  Overall |
@@ -173,21 +180,30 @@ External Nonfactual
 |  LLaMA-VID    |   0.98   | 0.225      | 0.21     |
 |  VideoLaVIT    |    0.975  |  0.215    | 0.19     |
 |  MiniGPT4-Video    |   0.815   |  0.25    |  0.195    |
-|  Gemini-1.5-pro    |      |      |      |
+|  Gemini-1.5-pro    |  0.81    |  0.545    |    0.485  |
+|  Human    |  0.95    |  0.85    | 0.85     |
+
+
+
+
+
+
+
+
 
 
 Fact Detect
 |  Model    |  hallucination-det    |  fact-det     |
 | ---- | ---- | ---- | 
-|  VideoChatGPT    |   0.0025   | 0.08     |  
+|  VideoChatGPT    |   0.075   | 0.08     |  
 |  Valley2    |    0.0  |  0.0    |  
 |  Video-LLaMA-2    |  0.0    |   0.0   |
-|  VideoChat2    |   0.0025   | 0.0     |
-|  VideoLLaVA    |   0.0025   |  0.14    | 
+|  VideoChat2    |   0.0   | 0.0     |
+|  VideoLLaVA    |   0.0   |  0.14    | 
 |  LLaMA-VID    |   0.0  | 0.2      | 
 |  VideoLaVIT    |    0.0  |   0.0   | 
-|  MiniGPT4-Video    |   0.0025   |  0.08    |  
-|  Gemini-1.5-pro    |      |      |
+|  MiniGPT4-Video    |   0.015   |  0.08    |  
+|  Gemini-1.5-pro    |    0.005  |  0.66    |
 
 
 Explanation 
