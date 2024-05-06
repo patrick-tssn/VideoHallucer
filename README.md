@@ -119,10 +119,13 @@ Object-Relation
 |  MiniGPT4-Video    |  0.79    |  0.2    | 0.165     |
 |  Gemini-1.5-pro    |  0.845    |  0.56    | 0.52     |
 |  Human    |  0.9    |  0.96    | 0.9     |
+
+
+
 Image_Language 
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  LLaVA    |      |      |      |
+|  LLaVA    |  0.795    |  0.79    | 0.615     |
 |  GPT4-V    |      |      |      |
 
 
@@ -154,6 +157,13 @@ Semantic Detail
 |  MiniGPT4-Video    |  0.765    |  0.085    | 0.055     |
 |  Gemini-1.5-pro    | 0.87     |   0.09   |  0.005    |
 |  Human    |  0.95    |  0.98    | 0.95     |
+
+Image_Language 
+|  Model    |  Basic    |  Halluciantion     |  Overall |
+| ---- | ---- | ---- | ---- |
+|  LLaVA    |  0.75    |  0.23    | 0.025     |
+|  GPT4-V    |      |      |      |
+
 
 External Factual
 |  Model    |  Basic    |  Halluciantion     |  Overall |
