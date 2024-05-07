@@ -50,7 +50,7 @@ def evaluate(
         halluc = qa_dct["hallucination"]
         halluc_question = halluc["question"]
         halluc_question = f"{halluc_question}\nAnswer the question using 'yes' or 'no'."
-        halluc_video_path = os.path.join(video_dir_path, basic["video"])
+        halluc_video_path = os.path.join(video_dir_path, halluc["video"])
         halluc_predict = model.generate(
             instruction=halluc_question,
             video_path=halluc_video_path

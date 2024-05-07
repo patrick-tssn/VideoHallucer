@@ -14,13 +14,13 @@
     },
     {
         "basic": {
-            "video": "hxc--vbjrOU_a.mp4",
-            "question": "Does this video display 'Live English'?",
+            "video": "hxc--vbjrOU_b.mp4",
+            "question": "Does this video display 'Current English'?",
             "answer": "yes"
         },
         "hallucination": {
-            "video": "hxc--vbjrOU_b.mp4",
-            "question": "Does this video display 'Live English'?",
+            "video": "hxc--vbjrOU_a.mp4",
+            "question": "Does this video display 'Current English'?",
             "answer": "no"
         },
         "type": "semantic_detail"
@@ -2328,12 +2328,12 @@
     },
     {
         "basic": {
-            "video": "ju7nHGS0McI_a.mp4",
+            "video": "ju7Gg9xwdHw_a.mp4",
             "question": "Does the dog in the video shake hand with person?",
             "answer": "yes"
         },
         "hallucination": {
-            "video": "ju7nHGS0McI_b.mp4",
+            "video": "ju7Gg9xwdHw_b.mp4",
             "question": "Does the dog in the video shake hand with person?",
             "answer": "no"
         },

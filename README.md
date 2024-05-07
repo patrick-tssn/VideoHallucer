@@ -126,7 +126,7 @@ Image_Language
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
 |  LLaVA    |  0.795    |  0.79    | 0.615     |
-|  GPT4-V    |      |      |      |
+|  GPT4-V    |  0.65    |  0.815    | 0.55     |
 
 
 Temporal
@@ -162,7 +162,7 @@ Image_Language
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
 |  LLaVA    |  0.75    |  0.23    | 0.025     |
-|  GPT4-V    |      |      |      |
+|  GPT4-V    |  0.595    | 0.395     |  0.0    |
 
 
 External Factual
