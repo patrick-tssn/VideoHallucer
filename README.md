@@ -94,15 +94,15 @@ Overall
 
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |  0.926    |  0.106    | 0.065     |
-|  Valley2    |   0.389   |  0.057    | 0.012     |
-|  Video-LLaMA-2    |  0.887    | 0.129     | 0.101     |
-|  VideoChat2    |  0.141    | 0.111     | 0.013     |
-|  VideoLLaVA    |   0.951   |  0.181    |  0.156    |
-|  LLaMA-VID    |   0.898   |  0.237    |  0.179    |
-|  VideoLaVIT    |  0.948    |  0.195    | 0.168     |
-|  MiniGPT4-Video    |    0.771  |  0.154    |  0.108    |
-|  Gemini-1.5-pro    |     0.83 |  0.313    |  0.27    |
+|  VideoChatGPT    |  0.928    |  0.104    | 0.064     |
+|  Valley2    |   0.391   |  0.063    | 0.014     |
+|  Video-LLaMA-2    |  0.908    | 0.118     | 0.094     |
+|  VideoChat2    |  0.156    | 0.125     | 0.019     |
+|  VideoLLaVA    |   0.951   |  0.203    |  0.178    |
+|  LLaMA-VID    |   0.899   |  0.266    |  0.21   |
+|  VideoLaVIT    |  0.949    |  0.213    | 0.189     |
+|  MiniGPT4-Video    |    0.772  |  0.164    |  0.119    |
+|  Gemini-1.5-pro    |     0.834 |  0.421    |  0.376  |
 |Human | 0.9 | 0.878 | 0.84 |
 
 
