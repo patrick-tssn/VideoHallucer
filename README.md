@@ -147,22 +147,22 @@ Temporal
 Semantic Detail
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |  0.955    |  0.05    |  0.025    |
-|  Valley2    |    0.82  |  0.015    |  0.005    |
-|  Video-LLaMA-2    |  0.885    | 0.07     | 0.045     |
-|  VideoChat2    |  0.185    |  0.105    | 0.01     |
-|  VideoLLaVA    |  0.97    |  0.03    |   0.01   |
-|  LLaMA-VID    |   0.885   |  0.095    |  0.015    |
-|  VideoLaVIT    |     0.96 |   0.04   |   0.0   |
-|  MiniGPT4-Video    |  0.765    |  0.085    | 0.055     |
-|  Gemini-1.5-pro    | 0.87     |   0.09   |  0.005    |
+|  VideoChatGPT    |  0.965    |  0.04    |  0.02    |
+|  Valley2    |    0.83  |  0.045    |  0.015    |
+|  Video-LLaMA-2    |  0.99    | 0.015     | 0.01     |
+|  VideoChat2    |  0.26    |  0.175    | 0.04     |
+|  VideoLLaVA    |  0.97    |  0.14    |   0.12   |
+|  LLaMA-VID    |   0.89   |  0.24    |  0.17    |
+|  VideoLaVIT    |   0.965   |   0.13   |  0.105    |
+|  MiniGPT4-Video    |  0.77    |  0.135    | 0.11     |
+|  Gemini-1.5-pro    |  0.89    |   0.63   |   0.535   |
 |  Human    |  0.95    |  0.98    | 0.95     |
 
 Image_Language 
 |  Model    |  Basic    |  Halluciantion     |  Overall |
 | ---- | ---- | ---- | ---- |
-|  LLaVA    |  0.75    |  0.23    | 0.025     |
-|  GPT4-V    |  0.595    | 0.395     |  0.0    |
+|  LLaVA    |  0.755    |  0.635    | 0.43     |
+|  GPT4-V    |  0.59    | 0.87     |  0.495    |
 
 
 External Factual

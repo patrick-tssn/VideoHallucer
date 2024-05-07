@@ -39,7 +39,7 @@ def load_model(TESTING_MODEL):
         model = VideoChat({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLLaVA":
         from videollava_modeling import VideoLLaVA
-        ckpt_path = f"{CKPT_DIR}/Video-LLaVA-7B"
+        ckpt_path = f"{CKPT_DIR}/VideoLLaVA/Video-LLaVA-7B"
         model = VideoLLaVA({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "LLaMA-VID":
         from llamavid_modeling import LLaMAVID
@@ -58,7 +58,7 @@ def load_model(TESTING_MODEL):
         model = Gemini({"model_path": None, "device": 0})
     elif TESTING_MODEL == "LLaVA":
         from llava_modeling import LLaVA
-        ckpt_path = f"{CKPT_DIR}/llava-v1.5-7b"
+        ckpt_path = f"{CKPT_DIR}/LLaVA/llava-v1.5-7b"
         model = LLaVA({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "GPT4V":
         from gpt4v_modeling import GPT4V

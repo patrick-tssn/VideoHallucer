@@ -62,10 +62,13 @@ To set up the environments, follow the instructions in the existing repositories
 - [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), 
     - Installation: [Instruction](https://github.com/PKU-YuanGroup/Video-LLaVA?tab=readme-ov-file#%EF%B8%8F-requirements-and-installation)
     - Checkpoints:
-        - Source: [Video-LLaVA-7B](https://huggingface.co/LanguageBind/Video-LLaVA-7B)
+        - Source: [Video-LLaVA-7B](https://huggingface.co/LanguageBind/Video-LLaVA-7B), [LanguageBind_Video (optional)](https://huggingface.co/LanguageBind/LanguageBind_Video_merge), [LanguageBind_Image (optional)](https://huggingface.co/LanguageBind/LanguageBind_Image)
         - Structure: 
             ``` 
-                ├── checkpoints/Video-LLaVA-7B
+                ├── checkpoints/VideoLLaVA
+                    ├── Video-LLaVA-7B
+                    ├── LanguageBind_Video_merge (optional)
+                    └── LanguageBind_Image (optional)
             ```
 
 
@@ -95,12 +98,13 @@ To set up the environments, follow the instructions in the existing repositories
 - [MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video)
     - Installation: [Instruction](https://github.com/Vision-CAIR/MiniGPT4-video?tab=readme-ov-file#rocket-demo)
     - Checkpoints:
-        - Source: [video_mistral_checkpoint_last](https://huggingface.co/Vision-CAIR/MiniGPT4-Video/blob/main/checkpoints/video_mistral_checkpoint_last.pth), [Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
+        - Source: [video_mistral_checkpoint_last](https://huggingface.co/Vision-CAIR/MiniGPT4-Video/blob/main/checkpoints/video_mistral_checkpoint_last.pth), [Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2), [vit (optional)](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth)
         - Structure: 
             ``` 
                 ├── checkpoints/MiniGPT4-Video
                     ├── checkpoints/video_mistral_checkpoint_last.pth
-                    └── Mistral-7B-Instruct-v0.2
+                    ├── Mistral-7B-Instruct-v0.2
+                    └── eva_vit_g.pth (optional)
             ```
 
 

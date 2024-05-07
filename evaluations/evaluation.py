@@ -60,7 +60,7 @@ def load_model(TESTING_MODEL):
         model = Gemini({"model_path": None, "device": 0})
     elif TESTING_MODEL == "LLaVA":
         from llava_modeling import LLaVA
-        ckpt_path = f"{CKPT_DIR}/llava-v1.5-7b"
+        ckpt_path = f"{CKPT_DIR}/LLaVA/llava-v1.5-7b"
         model = LLaVA({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "GPT4V":
         from gpt4v_modeling import GPT4V
