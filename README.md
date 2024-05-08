@@ -191,7 +191,7 @@ External Nonfactual
 |  VideoLaVIT    |    0.975  |  0.215    | 0.19     |
 |  MiniGPT4-Video    |   0.815   |  0.25    |  0.195    |
 |  Gemini-1.5-pro    |  0.81    |  0.545    |    0.485  |
-|  Human    |  0.95    |  0.85    | 0.85     |
+|  Human    |  0.95    |  0.9    | 0.9     |
 
 
 
