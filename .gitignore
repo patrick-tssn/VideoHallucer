@@ -2,6 +2,9 @@
 baselines/Video-LLaVA
 baselines/checkpoints/*
 baselines/cache_dir/*
+baselines/cache_tmp_dir/*
+baselines/slurm_logs
+baselines/*.slurm
 baselines/results/*
 raw/
 *.mp4

@@ -41,7 +41,7 @@ def load_model(TESTING_MODEL):
         model = VideoChat({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLLaVA":
         from videollava_modeling import VideoLLaVA
-        ckpt_path = f"{CKPT_DIR}/Video-LLaVA-7B"
+        ckpt_path = f"{CKPT_DIR}/VideoLLaVA/Video-LLaVA-7B"
         model = VideoLLaVA({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "LLaMA-VID":
         from llamavid_modeling import LLaMAVID

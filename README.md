@@ -18,8 +18,16 @@
 
 ### Introduction
 
+We introduce HaVeBench, the first comprehensive benchmark designed to assess hallucination in video-language models. 
+Within HaVeBench, we establish a clear taxonomy of hallucinations, distinguishing between two primary categories: intrinsic and extrinsic. Specifically, Intrinsic hallucinations involve generated content that directly contradicts information present in the source video, and can be categorised into three subtypes: object-relation, temporal, and semantic detail hallucinations. While extrinsic hallucinations involve content that cannot be verified against the source, and can be classified as either extrinsic factual, aligning with general knowledge but not present in the source video, or extrinsic non-factual, which includes all the others. 
+
 
 ### Statistics
+
+| | Object-Relation Hallucination | Temporal Hallucination | Semantic Detail Hallucination | External Factual Hallucination | External Nonfactual Hallucination |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|Questions | 400 | 400 | 400 | 400 | 400 |
+|Videos | 183 | 165 | 400| 200 | 200 |
 
 
 
@@ -138,7 +146,7 @@ Temporal
 |  VideoChat2    |   0.09   |  0.125    | 0.015     |
 |  VideoLLaVA    |  0.975    |  0.135    |  0.135    |
 |  LLaMA-VID    |    0.86  |  0.25    | 0.21     |
-|  VideoLaVIT    |  0.885    | 0.255     |  0.27    |
+|  VideoLaVIT    |  0.885    | 0.27     |  0.255    |
 |  MiniGPT4-Video    |  0.655    |  0.165    | 0.09     |
 |  Gemini-1.5-pro    |    0.805  | 0.18     |  0.175    |
 |  Human    |  0.8    |  0.85    | 0.8     |
