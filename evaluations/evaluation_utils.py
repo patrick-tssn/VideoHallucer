@@ -33,7 +33,12 @@ def evaluate(
 ):
     setup_seed(seed)
     
- 
+    # temp
+    output_path = os.path.join(output_dir_path, f"{qa_type}_{model_name}.json")
+    if os.path.exists(output_path):
+        paired_qas = json.load(open(output_path))
+        scores = cal_score(paired_qas)
+        return scores
     paired_qas = json.load(open(qa_path))
     print(f"start eval | model: {model_name} | qa_type: {qa_type}")
     for qa_dct in tqdm(paired_qas):
@@ -86,13 +91,13 @@ def cal_score(results):
         basic_answer = result["basic"]["answer"]
         basic_predict = result["basic"]["predict"]
         basic_answer_pattern = r'\b('+basic_answer+ r')\b'
-        if re.match(basic_answer_pattern, basic_predict, re.IGNORECASE):
+        if re.search(basic_answer_pattern, basic_predict, re.IGNORECASE):
             basic_hit = 1
 
         halluc_answer = result["hallucination"]["answer"]
         halluc_predict = result["hallucination"]["predict"]
         halluc_answer_pattern = r'\b('+halluc_answer+ r')\b'
-        if re.match(halluc_answer_pattern, halluc_predict, re.IGNORECASE):
+        if re.search(halluc_answer_pattern, halluc_predict, re.IGNORECASE):
             halluc_hit = 1
         
         final_hit = int(basic_hit and halluc_hit)

@@ -164,15 +164,15 @@ def cal_score(results):
         basic_answer = result["basic"]["answer"]
         basic_predict = result["basic"]["predict"]
         # basic_answer_pattern = f"^{basic_answer}" + r"\b"
-        basic_answer_pattern = r'\b('+basic_answer+ r')\b'
-        if re.match(basic_answer_pattern, basic_predict, re.IGNORECASE):
+        basic_answer_pattern = fr'\b({basic_answer})\b'
+        if re.search(basic_answer_pattern, basic_predict, re.IGNORECASE):
             basic_hit = 1
 
         halluc_answer = result["hallucination"]["answer"]
         halluc_predict = result["hallucination"]["predict"]
         # halluc_answer_pattern = f"^{halluc_answer}" + r"\b"
         halluc_answer_pattern = r'\b('+halluc_answer+ r')\b'
-        if re.match(halluc_answer_pattern, halluc_predict, re.IGNORECASE):
+        if re.search(halluc_answer_pattern, halluc_predict, re.IGNORECASE):
             halluc_hit = 1
         
         final_hit = int(basic_hit and halluc_hit)
