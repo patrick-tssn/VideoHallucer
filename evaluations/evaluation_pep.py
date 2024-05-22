@@ -35,6 +35,10 @@ def load_model(TESTING_MODEL):
         from videollama_modeling import VideoLLaMA
         ckpt_path = f"{CKPT_DIR}/Video-LLaMA-2-7B-Finetuned"
         model = VideoLLaMA({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "Video-LLaMA-2-13B":
+        from videollama_modeling import VideoLLaMA
+        ckpt_path = f"{CKPT_DIR}/Video-LLaMA-2-13B-Finetuned"
+        model = VideoLLaMA({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoChat2":
         from videochat_modeling import VideoChat
         ckpt_path = f"{CKPT_DIR}/VideoChat2"
@@ -47,6 +51,10 @@ def load_model(TESTING_MODEL):
         from llamavid_modeling import LLaMAVID
         ckpt_path = f"{CKPT_DIR}/LLaMA-VID-7B"
         model = LLaMAVID({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "LLaMA-VID-13B":
+        from llamavid_modeling import LLaMAVID
+        ckpt_path = f"{CKPT_DIR}/LLaMA-VID-13B"
+        model = LLaMAVID({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLaVIT":
         from videolavit_modeling import VideoLaVIT
         ckpt_path = f"{CKPT_DIR}/Video-LaVIT-v1"
@@ -55,6 +63,26 @@ def load_model(TESTING_MODEL):
         from minigpt4video_modeling import MiniGPT4Video
         ckpt_path = f"{CKPT_DIR}/MiniGPT4-Video/checkpoints"
         model = MiniGPT4Video({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "PLLaVA":
+        from pllava_modeling import PLLaVA
+        ckpt_path = f"{CKPT_DIR}/PLLaVA/pllava-7b"
+        model = PLLaVA({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "PLLaVA-13B":
+        from pllava_modeling import PLLaVA
+        ckpt_path = f"{CKPT_DIR}/PLLaVA/pllava-13b"
+        model = PLLaVA({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "PLLaVA-34B":
+        from pllava_modeling import PLLaVA
+        ckpt_path = f"{CKPT_DIR}/PLLaVA/pllava-34b"
+        model = PLLaVA({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "LLaVA-NeXT-Video":
+        from llavanext_modeling import LLaVANeXT
+        ckpt_path = f"{CKPT_DIR}/LLaVA-NeXT-Video/LLaVA-NeXT-Video-7B-DPO"
+        model = LLaVANeXT({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "LLaVA-NeXT-Video-34B":
+        from llavanext_modeling import LLaVANeXT
+        ckpt_path = f"{CKPT_DIR}/LLaVA-NeXT-Video/LLaVA-NeXT-Video-34B-DPO"
+        model = LLaVANeXT({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "Gemini-1.5-pro":
         from gemini_modeling import Gemini
         model = Gemini({"model_path": None, "device": 0})
@@ -74,7 +102,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str,
                         default="", 
-                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "Gemini-1.5-pro", "LLaVA", "GPT4V"])
+                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", "Gemini-1.5-pro", "LLaVA", "GPT4V", "Video-LLaMA-2-13B", "LLaMA-VID-13B", "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video-34B"])
 
     parser.add_argument(
         "--output_dir_path", type=str, default="results",

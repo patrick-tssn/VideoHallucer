@@ -40,7 +40,10 @@ class LLaMAVID(ViLLMBaseModel):
         )
 
         self.args = Args()
-        self.args.model_path = os.path.join(model_args["model_path"], "llama-vid-7b-full-224-video-fps-1")
+        if '7B' in model_args["model_path"]:
+            self.args.model_path = os.path.join(model_args["model_path"], "llama-vid-7b-full-224-video-fps-1")
+        elif '13B' in model_args["model_path"]:
+                self.args.model_path = os.path.join(model_args["model_path"], "llama-vid-13b-full-224-video-fps-1")
         device = "cuda:" + str(model_args["device"])
         
         # Model

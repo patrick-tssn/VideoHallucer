@@ -5,6 +5,7 @@ baselines/cache_dir/*
 baselines/cache_tmp_dir/*
 baselines/slurm_logs
 baselines/*.slurm
+baselines/*.out
 baselines/results/*
 raw/
 *.mp4

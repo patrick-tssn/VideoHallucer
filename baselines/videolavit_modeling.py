@@ -6,6 +6,8 @@ import torch.backends.cudnn as cudnn
 import numpy as np
 from PIL import Image
 
+os.environ['DECORD_EOF_RETRY_MAX'] = '20480'
+
 from videolavit.models import build_model
 
 from base import ViLLMBaseModel

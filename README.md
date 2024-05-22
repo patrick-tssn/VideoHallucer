@@ -1,17 +1,28 @@
+<div align="center">
+
 # HaVeBench: A Comprehensive Hallucination Benchmark for Video-Language Models
+
+[![havebench-page](https://img.shields.io/badge/havebench-page-green)](https://havebench.github.io)
+[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)
+[![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>)
+
+</div>
+
+
+![image](assets/teaser.png)
 
 **Table of Contents**
 
 - [HaVeBench](#havebench)
     - [Introduction](#introduction)
     - [Statistics](#statistics)
+    - [Data](#data)
 - [HaVeKit](#havekit)
     - [Installation](#installation)
     - [Usage](#usage)
-    - [Leaderboard](#leaderboard)
+- [Leaderboard](#leaderboard)
 
-1. HaVeBench: comprehensive hallucination benchmark for video-language models
-2. HaVeKit: one-stop evaluation tookit
+
 
 ## HaVeBench
 
@@ -29,31 +40,31 @@ Within HaVeBench, we establish a clear taxonomy of hallucinations, distinguishin
 |Questions | 400 | 400 | 400 | 400 | 400 |
 |Videos | 183 | 165 | 400| 200 | 200 |
 
+The Extrinsic Factual Hallucination and Extrinsic Non-factual Hallucination share same videos and basic questions
 
+### Data
 
-examples:
+You can download the havebench [here](), containing both json and videos.
 
+```
+havebench_datasets                    
+    ├── object_relation
+        ├── object_relation.json
+        └── videos
+    ├── temporal
+        ├── temporal.json
+        └── videos
+    ├── semantic_detail
+        ├── semantic_detail.json
+        └── videos
+    ├── external_factual
+        ├── external_factual.json
+        └── videos
+    └── external_nonfactual
+        ├── external_nonfactual.json
+        └── videos
+```
 
-
-object relation hallucination: 200 QA-pair
-
-`havebench_datasets/object_relation/object_relation.json`
-
-temporal hallucination: 200 QA-pair
-
-`havebench_datasets/temporal/temporal.json`
-
-semantic hallucination: 200 QA-pair
-
-`havebench_datasets/semantic_detail/semantic_detail.json`
-
-external factual hallucination: 200 QA-pair
-
-`havebench_datasets/external_factual/external_factual.json`
-
-external nonfactual hallucination: 200 QA-pair
-
-`havebench_datasets/external_nonfactual/external_nonfactual.json`
 
 
 ## HaVeKit 
@@ -70,7 +81,13 @@ external nonfactual hallucination: 200 QA-pair
 - VideoLLaVA
 - LLaMA-VID
 - VideoLaVIT
+- MiniGPT4-Video
+- PLLaVA
+- LLaVA-NeXT-Video
 - Gemini-1.5-pro
+
+- LLaVA
+- GPT4V
 
 For detailed instructions on installation and checkpoints, please consult the [INSTALLATION](INSTALLATION.md) guide.
 
@@ -87,151 +104,31 @@ python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "V
 evaluate on HaVeBench
 ```bash
 cd baselines
-python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [--eval_]
+python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [--eval_obj_rel, --eval_temporal, --eval_semantic, --eval_fact, --eva_nonfact]
 ```
 
 
 
-### Leaderboard
+## Leaderboard
 
-more results see `baselines/results`
-
-
-
-Overall
-
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |  0.928    |  0.104    | 0.064     |
-|  Valley2    |   0.391   |  0.063    | 0.014     |
-|  Video-LLaMA-2    |  0.908    | 0.118     | 0.094     |
-|  VideoChat2    |  0.156    | 0.125     | 0.019     |
-|  VideoLLaVA    |   0.951   |  0.203    |  0.178    |
-|  LLaMA-VID    |   0.899   |  0.266    |  0.21   |
-|  VideoLaVIT    |  0.949    |  0.213    | 0.189     |
-|  MiniGPT4-Video    |    0.772  |  0.164    |  0.119    |
-|  Gemini-1.5-pro    |     0.834 |  0.421    |  0.376  |
-|Human | 0.9 | 0.878 | 0.84 |
+more detailed results see `baselines/results`
 
 
-Object-Relation
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    | 0.955     |  0.07    |  0.06    |
-|  Valley2    |   0.765   | 0.08     |  0.035    |
-|  Video-LLaMA-2    |  0.885    | 0.18     | 0.155     |
-|  VideoChat2    |    0.21  |   0.205   | 0.02     |
-|  VideoLLaVA    |  0.95    | 0.38     | 0.345     |
-|  LLaMA-VID    |   0.785   |  0.59    |  0.435    |
-|  VideoLaVIT    |    0.945  |  0.39    | 0.355     |
-|  MiniGPT4-Video    |  0.79    |  0.2    | 0.165     |
-|  Gemini-1.5-pro    |  0.845    |  0.56    | 0.52     |
-|  Human    |  0.9    |  0.96    | 0.9     |
-
-
-
-Image_Language 
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  LLaVA    |  0.795    |  0.79    | 0.615     |
-|  GPT4-V    |  0.65    |  0.815    | 0.55     |
-
-
-Temporal
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |   1.0   |  0.0    | 0.0     |
-|  Valley2    |   0.17   |  0.04    |  0.0    |
-|  Video-LLaMA-2    |   0.91   |  0.08    |  0.07    |
-|  VideoChat2    |   0.09   |  0.125    | 0.015     |
-|  VideoLLaVA    |  0.975    |  0.135    |  0.135    |
-|  LLaMA-VID    |    0.86  |  0.25    | 0.21     |
-|  VideoLaVIT    |  0.885    | 0.27     |  0.255    |
-|  MiniGPT4-Video    |  0.655    |  0.165    | 0.09     |
-|  Gemini-1.5-pro    |    0.805  | 0.18     |  0.175    |
-|  Human    |  0.8    |  0.85    | 0.8     |
-
-
-Semantic Detail
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |  0.965    |  0.04    |  0.02    |
-|  Valley2    |    0.83  |  0.045    |  0.015    |
-|  Video-LLaMA-2    |  0.99    | 0.015     | 0.01     |
-|  VideoChat2    |  0.26    |  0.175    | 0.04     |
-|  VideoLLaVA    |  0.97    |  0.14    |   0.12   |
-|  LLaMA-VID    |   0.89   |  0.24    |  0.17    |
-|  VideoLaVIT    |   0.965   |   0.13   |  0.105    |
-|  MiniGPT4-Video    |  0.77    |  0.135    | 0.11     |
-|  Gemini-1.5-pro    |  0.89    |   0.63   |   0.535   |
-|  Human    |  0.95    |  0.98    | 0.95     |
-
-Image_Language 
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  LLaVA    |  0.755    |  0.635    | 0.43     |
-|  GPT4-V    |  0.59    | 0.87     |  0.495    |
-
-
-External Factual
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    |  0.865    |  0.135    |  0.07    |
-|  Valley2    |    0.09   |   0.065  |   0.0   | 
-|  Video-LLaMA-2    |  0.88    |  0.085    |  0.065    |
-|  VideoChat2    |  0.115    | 0.055     |  0.015    |
-|  VideoLLaVA    |  0.93    |   0.045   | 0.03     |
-|  LLaMA-VID    |  0.98    |  0.025    | 0.025     |
-|  VideoLaVIT    |  0.975    | 0.06     |  0.04    |
-|  MiniGPT4-Video    |  0.83    |  0.07    | 0.035     |
-|  Gemini-1.5-pro    |   0.82   |   0.19   |  0.165    |
-|  Human    |  0.9    |  0.75    | 0.7     |
-
-External Nonfactual
-|  Model    |  Basic    |  Halluciantion     |  Overall |
-| ---- | ---- | ---- | ---- |
-|  VideoChatGPT    | 0.855     | 0.275     |  0.17    |
-|  Valley2    |   0.1   |  0.085    |  0.02    |
-|  Video-LLaMA-2    |  0.875    |   0.23   |  0.17    |
-|  VideoChat2    |   0.105   | 0.065     | 0.005     |
-|  VideoLLaVA    |   0.93   |  0.315    | 0.26     |
-|  LLaMA-VID    |   0.98   | 0.225      | 0.21     |
-|  VideoLaVIT    |    0.975  |  0.215    | 0.19     |
-|  MiniGPT4-Video    |   0.815   |  0.25    |  0.195    |
-|  Gemini-1.5-pro    |  0.81    |  0.545    |    0.485  |
-|  Human    |  0.95    |  0.9    | 0.9     |
-
-
-
-
-
-
-
-
-
-
-Fact Detect
-|  Model    |  hallucination-det    |  fact-det     |
-| ---- | ---- | ---- | 
-|  VideoChatGPT    |   0.075   | 0.08     |  
-|  Valley2    |    0.0  |  0.0    |  
-|  Video-LLaMA-2    |  0.0    |   0.0   |
-|  VideoChat2    |   0.0   | 0.0     |
-|  VideoLLaVA    |   0.0   |  0.14    | 
-|  LLaMA-VID    |   0.0  | 0.2      | 
-|  VideoLaVIT    |    0.0  |   0.0   | 
-|  MiniGPT4-Video    |   0.015   |  0.08    |  
-|  Gemini-1.5-pro    |    0.005  |  0.66    |
-
-
-Explanation 
-
-1. self-explanation consistency
-
-2. explanation --> external factual
-
-
-VLM evaluation VS VidLM evaluation
-
-
-
+|  Model    |  Object-Relation    |  Temporal     |  Semantic Detail | Extrinsic Fact | Extrinsic Non-fact | Overall |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  PLLaVA-34B    |     59 |  47    |  60  | 5.5  | 53.5 | 45 |
+|  PLLaVA-13B    |     57.5 |  35.5    |  65  | 5  | 43 | 41.2 |
+|  PLLaVA    |     60 |  23.5    |  57  | 9.5  | 40.5 | 38.1 |
+|  Gemini-1.5-pro    |     52 |  18.5    |  53.5  | 16.5  | 48.5 | 37.8 |
+|  LLaVA-NeXT-Video-34B    |     50.5 |  30    |  40  | 7  | 34 | 32.3 |
+|  LLaVA-NeXT-Video    |     51.5 |  28    |  38  | 14  | 28.5 | 32.0 |
+|  LLaMA-VID    |   44.5   |  27    |  25.5   | 12.5 | 36.5 | 29.2 |
+|  MiniGPT4-Video    |    27.5  |  18    |  23.5    | 12 | 30.5 | 22.3 |
+|  LLaMA-VID    |   43.5   |  21    |  17   | 2.5 | 21 | 21 |
+|  VideoLaVIT    |  35.5    |  25.5    | 10.5     | 4 | 19 | 18.9 |
+|  VideoLLaVA    |   34.5   |  13.5    | 12    | 3 | 26 | 17.8 |
+|  Video-LLaMA-2    | 18    | 7.5     | 1     | 6.5 | 17 | 10 |
+|  VideoChat2    |  10.5    | 7.5     | 9     | 7 | 0.5 | 7.8 |
+|  VideoChatGPT    |  6    |  0    | 2     | 7 | 17  | 6.4|
+|  Video-LLaMA-2    | 8.5    | 0     | 7.5     | 0 | 0.5 | 3.3 |
+|  Valley2    |   4.5   |  3    | 2.5     | 0.5 | 3.5 | 2.8 |

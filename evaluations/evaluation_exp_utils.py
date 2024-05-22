@@ -108,7 +108,8 @@ def cal_score(results):
         halluc_predict_gt_exp = result["hallucination"]["gt_predict"]
         halluc_predict_self_exp = result["hallucination"]["self_predict"]
         
-        halluc_answer_pattern = f"^{halluc_answer}" + r"\b"
+        # halluc_answer_pattern = f"^{halluc_answer}" + r"\b"
+        halluc_answer_pattern = r'\b('+halluc_answer+ r')\b'
         if re.match(halluc_answer_pattern, halluc_predict_ori, re.IGNORECASE):
             ori_acc += 1
         if re.match(halluc_answer_pattern, halluc_predict_self_exp, re.IGNORECASE):

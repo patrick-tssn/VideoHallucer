@@ -3,7 +3,9 @@
 To set up the environments, follow the instructions in the existing repositories and download the necessary checkpoints. Additionally, we offer guidance for this step, which addresses potential issues such as package version conflicts and system-related problems.
 
 
-*(optional) checkpoints allow for manual downloading; otherwise, the model will download automatically if the Internet works fine.*
+1. *(optional) checkpoints allow for manual downloading; otherwise, the model will download automatically if the Internet works fine.*
+2. use `export DECORD_EOF_RETRY_MAX=20480` to prevent possible issues from decord 
+
 
 
 - [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)
@@ -31,7 +33,7 @@ To set up the environments, follow the instructions in the existing repositories
     - Installation: [Instruction](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#usage) 
         - Possible Issues: `torchaudio error: OSError: libtorch_cuda_cpp.so: cannot open shared object file: No such file or directory`  --> Solution: reinstall torchaudio
     - Checkpoints: 
-        - Source: [Video-LLaMA-2-7B-Finetuned](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#pre-trained--fine-tuned-checkpoints), [VIT (optional)](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth), [qformer (optional)](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_pretrained_flant5xxl.pth)
+        - Source: [Video-LLaMA-2-7B-Finetuned/Video-LLaMA-2-13B-Finetuned](https://github.com/DAMO-NLP-SG/Video-LLaMA?tab=readme-ov-file#pre-trained--fine-tuned-checkpoints), [VIT (optional)](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth), [qformer (optional)](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_pretrained_flant5xxl.pth)
         - Structure: 
             ``` 
                 ├── checkpoints/Video-LLaMA-2-7B-Finetuned
@@ -39,6 +41,13 @@ To set up the environments, follow the instructions in the existing repositories
                     ├── imagebind_huge.pth
                     ├── llama-2-7b-chat-hf
                     ├── VL_LLaMA_2_7B_Finetuned.pth
+                    ├── blip2_pretrained_flant5xxl.pth (optional)
+                    └── eva_vit_g.pth (optional)
+                ├── checkpoints/Video-LLaMA-2-13B-Finetuned
+                    ├── AL_LLaMA_2_13B_Finetuned.pth
+                    ├── imagebind_huge.pth
+                    ├── llama-2-13b-chat-hf
+                    ├── VL_LLaMA_2_13B_Finetuned.pth
                     ├── blip2_pretrained_flant5xxl.pth (optional)
                     └── eva_vit_g.pth (optional)
             ```
@@ -86,11 +95,15 @@ To set up the environments, follow the instructions in the existing repositories
 - [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID)
     - Installation: [Instruction](https://github.com/dvlab-research/LLaMA-VID?tab=readme-ov-file#install)
     - Checkpoints:
-        - Source: [llama-vid-7b-full-224-video-fps-1](https://huggingface.co/YanweiLi/llama-vid-7b-full-224-video-fps-1), [eva_vit_g](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth), [bert (optional)](https://huggingface.co/openai/bert-base-uncased)
+        - Source: [llama-vid-7b-full-224-video-fps-1](https://huggingface.co/YanweiLi/llama-vid-7b-full-224-video-fps-1), [llama-vid-13b-full-224-video-fps-1](https://huggingface.co/YanweiLi/llama-vid-13b-full-224-video-fps-1) [eva_vit_g](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth), [bert (optional)](https://huggingface.co/openai/bert-base-uncased)
         - Structure: 
             ``` 
-                ├── checkpoints/VideoChat2
+                ├── checkpoints/LLaMA-VID-7B
                     ├── llama-vid-7b-full-224-video-fps-1
+                    ├── LAVIS/eva_vit_g.pth
+                    └── bert-base-uncased (optional)
+                ├── checkpoints/LLaMA-VID-13B
+                    ├── llama-vid-13b-full-224-video-fps-1
                     ├── LAVIS/eva_vit_g.pth
                     └── bert-base-uncased (optional)
             ```
@@ -107,6 +120,31 @@ To set up the environments, follow the instructions in the existing repositories
                     └── eva_vit_g.pth (optional)
             ```
 
+- [PLLaVA](https://github.com/magic-research/PLLaVA)
+    - Installation: [Instruction](https://github.com/magic-research/PLLaVA?tab=readme-ov-file#install)
+    - Checkpoints:
+        - Source: [pllava-7b](https://huggingface.co/ermu2001/pllava-7b), [pllava-13b](https://huggingface.co/ermu2001/pllava-13b), [pllava-34b](https://huggingface.co/ermu2001/pllava-34b)
+        - Structure:
+            ``` 
+                ├── checkpoints/PLLaVA
+                    └── pllava-7b
+                ├── checkpoints/PLLaVA
+                    └── pllava-13b
+                ├── checkpoints/PLLaVA
+                    └── pllava-34b
+            ```
+
+- [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT)
+    - Installation: [Instruction](https://github.com/LLaVA-VL/LLaVA-NeXT?tab=readme-ov-file#installation)
+    - Checkpoints:
+        - Source: [LLaVA-NeXT-Video-7B-DPO](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-7B-DPO), [LLaVA-NeXT-Video-34B-DPO](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-34B-DPO)
+    - Structure:
+            ``` 
+                ├── checkpoints/PLLaVA
+                    └── LLaVA-NeXT-Video-7B-DPO
+                ├── checkpoints/PLLaVA
+                    └── LLaVA-NeXT-Video-34B-DPO
+            ```
 
 - [Gemini API](https://github.com/google-gemini/cookbook)
 

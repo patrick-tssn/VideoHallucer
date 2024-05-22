@@ -46,11 +46,17 @@ class VideoLLaMA(ViLLMBaseModel):
         model_path = model_args['model_path']
         cfg = Config(args)
 
-        cfg.model_cfg.llama_model = os.path.join(model_path, "llama-2-7b-chat-hf")
-        cfg.model_cfg.imagebind_ckpt_path = model_path
-        cfg.model_cfg.ckpt = os.path.join(model_path, "VL_LLaMA_2_7B_Finetuned.pth")
-        cfg.model_cfg.ckpt_2 = os.path.join(model_path, "AL_LLaMA_2_7B_Finetuned.pth")
-
+        if '7B' in model_path:
+            cfg.model_cfg.llama_model = os.path.join(model_path, "llama-2-7b-chat-hf")
+            cfg.model_cfg.imagebind_ckpt_path = model_path
+            cfg.model_cfg.ckpt = os.path.join(model_path, "VL_LLaMA_2_7B_Finetuned.pth")
+            cfg.model_cfg.ckpt_2 = os.path.join(model_path, "AL_LLaMA_2_7B_Finetuned.pth")
+        elif '13B' in model_path:
+            cfg.model_cfg.llama_model = os.path.join(model_path, "llama-2-13b-chat-hf")
+            cfg.model_cfg.imagebind_ckpt_path = model_path
+            cfg.model_cfg.ckpt = os.path.join(model_path, "VL_LLaMA_2_13B_Finetuned.pth")
+            cfg.model_cfg.ckpt_2 = os.path.join(model_path, "AL_LLaMA_2_13B_Finetuned.pth")
+        
         model_config = cfg.model_cfg
         model_config.device_8bit = args.gpu_id
         model_cls = registry.get_model_class(model_config.arch)
