@@ -148,3 +148,5 @@ To set up the environments, follow the instructions in the existing repositories
 
 - [Gemini API](https://github.com/google-gemini/cookbook)
 
+- [GPT4V](https://openai.com/index/gpt-4v-system-card/)
+    - Installation: make a .env under baselines/gpt4v; set `API_BASE` and `API_KEY`

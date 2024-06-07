@@ -7,8 +7,10 @@ baselines/slurm_logs
 baselines/*.slurm
 baselines/*.out
 baselines/results/*
+baselines/run*
 raw/
 *.mp4
+bks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,32 +1,0 @@
-
-CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
-To initialize your shell, run
-
-    $ conda init <SHELL_NAME>
-
-Currently supported shells are:
-  - bash
-  - fish
-  - tcsh
-  - xonsh
-  - zsh
-  - powershell
-
-See 'conda init --help' for more information and options.
-
-IMPORTANT: You may need to close and restart your shell after running 'conda init'.
-
-
-start eval | model: Gemini-1.5-pro | qa_type: factdet
-  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [01:46<1:26:45, 106.23s/it]  4%|▍         | 2/50 [03:24<1:21:27, 101.83s/it]  6%|▌         | 3/50 [05:21<1:25:07, 108.67s/it]  8%|▊         | 4/50 [07:59<1:38:04, 127.92s/it] 10%|█         | 5/50 [12:45<2:18:44, 185.00s/it] 12%|█▏        | 6/50 [15:59<2:17:55, 188.07s/it] 14%|█▍        | 7/50 [19:44<2:23:21, 200.03s/it] 16%|█▌        | 8/50 [22:45<2:15:50, 194.06s/it] 18%|█▊        | 9/50 [26:23<2:17:41, 201.51s/it] 20%|██        | 10/50 [39:14<4:11:35, 377.38s/it] 22%|██▏       | 11/50 [43:47<3:44:36, 345.56s/it] 24%|██▍       | 12/50 [49:35<3:39:20, 346.32s/it] 26%|██▌       | 13/50 [54:55<3:28:35, 338.27s/it] 28%|██▊       | 14/50 [1:00:13<3:19:13, 332.03s/it] 30%|███       | 15/50 [1:04:53<3:04:29, 316.27s/it] 32%|███▏      | 16/50 [1:12:27<3:22:43, 357.75s/it] 34%|███▍      | 17/50 [1:18:45<3:20:07, 363.87s/it] 36%|███▌      | 18/50 [1:25:29<3:20:36, 376.14s/it] 38%|███▊      | 19/50 [1:30:24<3:01:40, 351.63s/it] 40%|████      | 20/50 [1:38:24<3:15:06, 390.21s/it] 42%|████▏     | 21/50 [1:46:09<3:19:30, 412.78s/it] 44%|████▍     | 22/50 [1:51:22<2:58:35, 382.71s/it] 46%|████▌     | 23/50 [1:58:05<2:54:55, 388.74s/it] 48%|████▊     | 24/50 [2:04:08<2:45:10, 381.18s/it] 50%|█████     | 25/50 [2:11:10<2:43:53, 393.33s/it] 52%|█████▏    | 26/50 [2:16:19<2:27:09, 367.89s/it] 54%|█████▍    | 27/50 [2:21:27<2:14:09, 349.98s/it] 56%|█████▌    | 28/50 [2:28:11<2:14:18, 366.27s/it] 58%|█████▊    | 29/50 [2:35:43<2:17:11, 391.98s/it] 60%|██████    | 30/50 [2:42:38<2:12:59, 398.99s/it] 62%|██████▏   | 31/50 [2:49:39<2:08:26, 405.62s/it] 64%|██████▍   | 32/50 [2:57:19<2:06:33, 421.89s/it] 66%|██████▌   | 33/50 [3:04:37<2:00:53, 426.70s/it] 68%|██████▊   | 34/50 [3:11:57<1:54:50, 430.69s/it] 70%|███████   | 35/50 [3:18:45<1:45:56, 423.76s/it] 72%|███████▏  | 36/50 [3:25:05<1:35:47, 410.53s/it] 74%|███████▍  | 37/50 [3:31:30<1:27:20, 403.09s/it] 76%|███████▌  | 38/50 [3:38:56<1:23:10, 415.88s/it] 78%|███████▊  | 39/50 [3:46:12<1:17:21, 422.00s/it] 80%|████████  | 40/50 [3:53:41<1:11:40, 430.10s/it] 82%|████████▏ | 41/50 [4:01:36<1:06:30, 443.41s/it] 84%|████████▍ | 42/50 [4:09:02<59:15, 444.38s/it]   86%|████████▌ | 43/50 [4:16:48<52:34, 450.69s/it] 88%|████████▊ | 44/50 [4:24:45<45:52, 458.75s/it] 90%|█████████ | 45/50 [4:32:12<37:55, 455.06s/it] 92%|█████████▏| 46/50 [4:39:14<29:40, 445.17s/it] 94%|█████████▍| 47/50 [4:46:16<21:54, 438.19s/it] 96%|█████████▌| 48/50 [4:53:06<14:19, 429.78s/it] 98%|█████████▊| 49/50 [4:59:21<06:53, 413.23s/it]100%|██████████| 50/50 [5:07:55<00:00, 443.70s/it]100%|██████████| 50/50 [5:07:55<00:00, 369.52s/it]
-<HttpError 500 when requesting https://generativelanguage.googleapis.com/upload/v1beta/files?key=AIzaSyAWR09KnE9ICCpTjqvz7fgm5h6kEUSIS70&alt=json&uploadType=multipart returned "Internal Server Error">
-<HttpError 500 when requesting https://generativelanguage.googleapis.com/upload/v1beta/files?key=AIzaSyD8OVqYxBncBPt-pyMfANbJ9pK0ctHYYUM&alt=json&uploadType=multipart returned "Internal Server Error">
-<HttpError 503 when requesting https://generativelanguage.googleapis.com/upload/v1beta/files?key=AIzaSyAWR09KnE9ICCpTjqvz7fgm5h6kEUSIS70&alt=json&uploadType=multipart returned "Service Unavailable">
-<HttpError 500 when requesting https://generativelanguage.googleapis.com/upload/v1beta/files?key=AIzaSyAouD5zRi9SNI1OKhkZMMkk1vdgvEygDbg&alt=json&uploadType=multipart returned "Internal Server Error">
-<HttpError 503 when requesting https://generativelanguage.googleapis.com/upload/v1beta/files?key=AIzaSyAouD5zRi9SNI1OKhkZMMkk1vdgvEygDbg&alt=json&uploadType=multipart returned "Service Unavailable">
-====================
-Basic Accuracy:  0.82
-Hallucination Accuracy:  0.8
-Final Accuracy:  0.66
-Fact Score:  0.81
-====================

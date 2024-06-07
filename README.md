@@ -1,10 +1,10 @@
 <div align="center">
 
-# HaVeBench: A Comprehensive Hallucination Benchmark for Video-Language Models
+# VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models
 
-[![havebench-page](https://img.shields.io/badge/havebench-page-green)](https://havebench.github.io)
-[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)
-[![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>)
+[![videohallucer-page](https://img.shields.io/badge/videohallucer-page-green)](https://videohallucer.github.io/)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)
+[![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
 
 </div>
 
@@ -13,24 +13,25 @@
 
 **Table of Contents**
 
-- [HaVeBench](#havebench)
+- [VideoHallucer](#videohallucer)
     - [Introduction](#introduction)
     - [Statistics](#statistics)
     - [Data](#data)
-- [HaVeKit](#havekit)
+- [VideoHallucerKit](#videohallucerkit)
     - [Installation](#installation)
     - [Usage](#usage)
 - [Leaderboard](#leaderboard)
 
 
 
-## HaVeBench
+## VideoHallucer
 
 
 ### Introduction
 
-We introduce HaVeBench, the first comprehensive benchmark designed to assess hallucination in video-language models. 
-Within HaVeBench, we establish a clear taxonomy of hallucinations, distinguishing between two primary categories: intrinsic and extrinsic. Specifically, Intrinsic hallucinations involve generated content that directly contradicts information present in the source video, and can be categorised into three subtypes: object-relation, temporal, and semantic detail hallucinations. While extrinsic hallucinations involve content that cannot be verified against the source, and can be classified as either extrinsic factual, aligning with general knowledge but not present in the source video, or extrinsic non-factual, which includes all the others. 
+Recent advancements in Multimodal Large Language Models (MLLMs) have extended their capabilities to video understanding. Yet, these models are often plagued by "hallucinations", where irrelevant or nonsensical content is generated, deviating from the actual video context. This work introduces VideoHallucer, the **first comprehensive benchmark for hallucination detection in large video-language models (LVLMs)**. VideoHallucer categorizes hallucinations into two main types: intrinsic and extrinsic, offering further subcategories for detailed analysis, including object-relation, temporal, semantic detail, extrinsic factual, and extrinsic non-factual hallucinations. We adopt an adversarial binary VideoQA method for comprehensive evaluation, where pairs of basic and hallucinated questions are crafted strategically. By evaluating eleven LVLMs on VideoHallucer, we reveal that (i) the majority of current models exhibit significant issues with hallucinations; (ii) while scaling datasets and parameters improves models' ability to detect basic visual cues and counterfactuals, it provides limited benefit for detecting extrinsic factual hallucinations; (iii) existing models are more adept at detecting facts than identifying hallucinations. As a byproduct, these analyses further instruct the development of our self-PEP framework, achieving an average of 5.38\% improvement in hallucination resistance across all model architectures.
+
+
 
 
 ### Statistics
@@ -44,10 +45,10 @@ The Extrinsic Factual Hallucination and Extrinsic Non-factual Hallucination shar
 
 ### Data
 
-You can download the havebench [here](), containing both json and videos.
+You can download the videohallucer from [huggingface](), containing both json and videos.
 
 ```
-havebench_datasets                    
+videohallucer_datasets                    
     ├── object_relation
         ├── object_relation.json
         └── videos
@@ -66,28 +67,50 @@ havebench_datasets
 ```
 
 
+We offer a selection of case examples from our dataset for further elucidation:
 
-## HaVeKit 
+```
+[
+    {
+        "basic": {
+            "video": "1052_6143391925_916_970.mp4",
+            "question": "Is there a baby in the video?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1052_6143391925_916_970.mp4",
+            "question": "Is there a doll in the video?",
+            "answer": "no"
+        },
+        "type": "subject"
+    },
+...
+]
+```
+
+
+
+## VideoHallucerKit 
 
 ### Installation
 
 
 **Available Baselines**
 
-- VideoChatGPT
-- Valley2
-- Video-LLaMA-2
-- VideoChat2
-- VideoLLaVA
-- LLaMA-VID
-- VideoLaVIT
-- MiniGPT4-Video
-- PLLaVA
-- LLaVA-NeXT-Video
+- VideoChatGPT-7B
+- Valley2-7B
+- Video-LLaMA-2-7B/13B
+- VideoChat2-7B
+- VideoLLaVA-7B
+- LLaMA-VID-7B/13B
+- VideoLaVIT-7B
+- MiniGPT4-Video-7B
+- PLLaVA-7B/13B/34B
+- LLaVA-NeXT-Video-DPO-7B/34B
 - Gemini-1.5-pro
 
 - LLaVA
-- GPT4V
+- GPT4V-Azure
 
 For detailed instructions on installation and checkpoints, please consult the [INSTALLATION](INSTALLATION.md) guide.
 
@@ -101,7 +124,7 @@ cd baselines
 python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "Gemini-1.5-pro"])
 ```
 
-evaluate on HaVeBench
+evaluate on VideoHallucer
 ```bash
 cd baselines
 python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [--eval_obj_rel, --eval_temporal, --eval_semantic, --eval_fact, --eva_nonfact]
@@ -132,3 +155,10 @@ more detailed results see `baselines/results`
 |  VideoChatGPT    |  6    |  0    | 2     | 7 | 17  | 6.4|
 |  Video-LLaMA-2    | 8.5    | 0     | 7.5     | 0 | 0.5 | 3.3 |
 |  Valley2    |   4.5   |  3    | 2.5     | 0.5 | 3.5 | 2.8 |
+
+
+## Acknowledgement
+
+
+- We thank [vllm-safety-benchmark](https://github.com/UCSC-VLAA/vllm-safety-benchmark) for inspiring the framework of VideoHallucerKit.
+- We thank Center for AI Safety for supporting our computing needs. 

@@ -1,5 +1,0 @@
-sbatch run_minigpt4_video_obj_rel.slurm
-sbatch run_minigpt4_video_temporal.slurm
-sbatch run_minigpt4_video_semantic.slurm
-sbatch run_minigpt4_video_fact.slurm
-sbatch run_minigpt4_video_nonfact.slurm
