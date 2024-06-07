@@ -106,7 +106,7 @@ We offer a selection of case examples from our dataset for further elucidation:
 - VideoLaVIT-7B
 - MiniGPT4-Video-7B
 - PLLaVA-7B/13B/34B
-- LLaVA-NeXT-Video-DPO-7B/34B
+- LLaVA-NeXT-Video-DPO-DPO-7B/34B
 - Gemini-1.5-pro
 
 - LLaVA
@@ -143,8 +143,8 @@ more detailed results see `baselines/results`
 |  PLLaVA-13B    |     57.5 |  35.5    |  65  | 5  | 43 | 41.2 |
 |  PLLaVA    |     60 |  23.5    |  57  | 9.5  | 40.5 | 38.1 |
 |  Gemini-1.5-pro    |     52 |  18.5    |  53.5  | 16.5  | 48.5 | 37.8 |
-|  LLaVA-NeXT-Video-34B    |     50.5 |  30    |  40  | 7  | 34 | 32.3 |
-|  LLaVA-NeXT-Video    |     51.5 |  28    |  38  | 14  | 28.5 | 32.0 |
+|  LLaVA-NeXT-Video-DPO-34B    |     50.5 |  30    |  40  | 7  | 34 | 32.3 |
+|  LLaVA-NeXT-Video-DPO    |     51.5 |  28    |  38  | 14  | 28.5 | 32.0 |
 |  LLaMA-VID    |   44.5   |  27    |  25.5   | 12.5 | 36.5 | 29.2 |
 |  MiniGPT4-Video    |    27.5  |  18    |  23.5    | 12 | 30.5 | 22.3 |
 |  LLaMA-VID    |   43.5   |  21    |  17   | 2.5 | 21 | 21 |
