@@ -118,7 +118,7 @@ For detailed instructions on installation and checkpoints, please consult the [I
 
 ### Usage
 
-inference
+debug inference pipeline
 ```bash
 cd baselines
 python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "PLLaVA", "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video", "LLaVA-NeXT-Video-34B", "Gemini-1.5-pro", "GPT4V", "LLaVA"])
@@ -127,7 +127,7 @@ python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "V
 evaluate on VideoHallucer
 ```bash
 cd baselines
-python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj # [--eval_obj_rel, --eval_temporal, --eval_semantic, --eval_fact, --eva_nonfact]
+python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj --eval_obj_rel, --eval_temporal, --eval_semantic, --eval_fact, --eva_nonfact
 ```
 
 
@@ -162,3 +162,14 @@ more detailed results see `baselines/results`
 
 - We thank [vllm-safety-benchmark](https://github.com/UCSC-VLAA/vllm-safety-benchmark) for inspiring the framework of VideoHallucerKit.
 - We thank Center for AI Safety for supporting our computing needs. 
+
+## Citation
+
+```bibtex
+@article{videohallucer,
+    title={VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models},
+    author={Wang, Yuxuan and Wang, Yueqian and Zhao, Dongyan and Xie, Cihang and Zheng, Zilong},
+    journal={github},
+    year={2024}
+}
+```
