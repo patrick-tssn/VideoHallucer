@@ -165,11 +165,13 @@ more detailed results see `baselines/results`
 
 ## Citation
 
+If you find our work helpful, please consider citing it.
+
 ```bibtex
 @article{videohallucer,
     title={VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models},
     author={Wang, Yuxuan and Wang, Yueqian and Zhao, Dongyan and Xie, Cihang and Zheng, Zilong},
-    journal={github},
+    journal={arxiv},
     year={2024}
 }
 ```

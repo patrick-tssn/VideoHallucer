@@ -10,13 +10,7 @@ from gemini.upload import File, get_timestamp, make_request
 
 from base import ViLLMBaseModel
 
-GOOGLE_API_KEY_POOL = [
-    "AIzaSyAWR09KnE9ICCpTjqvz7fgm5h6kEUSIS70",
-    "AIzaSyAouD5zRi9SNI1OKhkZMMkk1vdgvEygDbg",
-    "AIzaSyBXjPXXi8QkDDSMUR9fazcyz7pT9w_GUBQ",
-    "AIzaSyD8OVqYxBncBPt-pyMfANbJ9pK0ctHYYUM",
-    "AIzaSyACfh3WrxFNkg3twPRi-HPPW4VdkiPHlmg"
-]
+GOOGLE_API_KEY_POOL = []
 
 class Gemini(ViLLMBaseModel):
     def __init__(self, model_args):
