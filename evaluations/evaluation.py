@@ -94,6 +94,10 @@ def load_model(TESTING_MODEL):
     elif TESTING_MODEL == "GPT4V":
         from gpt4v_modeling import GPT4V
         model = GPT4V({"model_path": None, "device": 0})
+    elif TESTING_MODEL == "GPT4O":
+        from gpt4o_modeling import GPT4O
+        model = GPT4O({"model_path": None, "device": 0})
+        
 
     return model
 
@@ -103,7 +107,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str,
                         default="", 
-                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", "Gemini-1.5-pro", "LLaVA", "GPT4V", "Video-LLaMA-2-13B", "LLaMA-VID-13B", "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video-34B"])
+                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", 
+                                 "Gemini-1.5-pro", "GPT4O",
+                                 "LLaVA", "GPT4V", 
+                                 "Video-LLaMA-2-13B", "LLaMA-VID-13B", "PLLaVA-13B", 
+                                 "PLLaVA-34B", "LLaVA-NeXT-Video-34B"])
 
     parser.add_argument(
         "--output_dir_path", type=str, default="results",

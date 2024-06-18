@@ -45,7 +45,7 @@ The Extrinsic Factual Hallucination and Extrinsic Non-factual Hallucination shar
 
 ### Data
 
-You can download the videohallucer from [huggingface](), containing both json and videos.
+You can download the videohallucer from [huggingface](https://huggingface.co/datasets/ColorfulAI/VideoHallucer), containing both json and videos.
 
 ```
 videohallucer_datasets                    
@@ -108,9 +108,10 @@ We offer a selection of case examples from our dataset for further elucidation:
 - PLLaVA-7B/13B/34B
 - LLaVA-NeXT-Video-DPO-DPO-7B/34B
 - Gemini-1.5-pro
+- GPT4O (Azure)
 
 - LLaVA
-- GPT4V-Azure
+- GPT4V (Azure)
 
 For detailed instructions on installation and checkpoints, please consult the [INSTALLATION](INSTALLATION.md) guide.
 
@@ -121,13 +122,13 @@ For detailed instructions on installation and checkpoints, please consult the [I
 debug inference pipeline
 ```bash
 cd baselines
-python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "PLLaVA", "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video", "LLaVA-NeXT-Video-34B", "Gemini-1.5-pro", "GPT4V", "LLaVA"])
+python ../model_testing_zoo.py --model_name Gemini-1.5-pro # ["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "PLLaVA", "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video", "LLaVA-NeXT-Video-34B", "Gemini-1.5-pro", "GPT4O", "GPT4V", "LLaVA"])
 ```
 
 evaluate on VideoHallucer
 ```bash
 cd baselines
-python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj --eval_obj_rel, --eval_temporal, --eval_semantic, --eval_fact, --eva_nonfact
+python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj --eval_obj_rel --eval_temporal --eval_semantic --eval_fact --eval_nonfact
 ```
 
 
@@ -139,6 +140,7 @@ more detailed results see `baselines/results`
 
 |  Model    |  Object-Relation    |  Temporal     |  Semantic Detail | Extrinsic Fact | Extrinsic Non-fact | Overall |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  PLLaVA-34B    |     66 |  48.5    |  55.5  | 26  | 70.5 | 53.3 |
 |  PLLaVA-34B    |     59 |  47    |  60  | 5.5  | 53.5 | 45 |
 |  PLLaVA-13B    |     57.5 |  35.5    |  65  | 5  | 43 | 41.2 |
 |  PLLaVA    |     60 |  23.5    |  57  | 9.5  | 40.5 | 38.1 |
