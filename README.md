@@ -140,7 +140,7 @@ more detailed results see `baselines/results`
 
 |  Model    |  Object-Relation    |  Temporal     |  Semantic Detail | Extrinsic Fact | Extrinsic Non-fact | Overall |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  PLLaVA-34B    |     66 |  48.5    |  55.5  | 26  | 70.5 | 53.3 |
+|  GPT-4o    |     66 |  48.5    |  55.5  | 26  | 70.5 | 53.3 |
 |  PLLaVA-34B    |     59 |  47    |  60  | 5.5  | 53.5 | 45 |
 |  PLLaVA-13B    |     57.5 |  35.5    |  65  | 5  | 43 | 41.2 |
 |  PLLaVA    |     60 |  23.5    |  57  | 9.5  | 40.5 | 38.1 |
