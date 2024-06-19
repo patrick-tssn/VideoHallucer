@@ -22,7 +22,7 @@
     - [Usage](#usage)
 - [Leaderboard](#leaderboard)
 
-
+*We are still refining our paper, and it may take up to two weeks from June 19th due to my current workload.*
 
 ## VideoHallucer
 
