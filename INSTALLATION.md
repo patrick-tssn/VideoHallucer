@@ -146,6 +146,17 @@ To set up the environments, follow the instructions in the existing repositories
                     └── LLaVA-NeXT-Video-34B-DPO
             ```
 
+- [ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video)
+    - Installation: [Instruction](https://github.com/ShareGPT4Omni/ShareGPT4Video?tab=readme-ov-file#install)
+    - Checkpoints:
+        - Source: [sharegpt4video-8b](https://huggingface.co/Lin-Chen/sharegpt4video-8b)
+    - Structure:
+            ``` 
+                ├── checkpoints/ShareGPT4Video
+                    └── sharegpt4video-8b
+            ```
+
+
 - [Gemini API](https://github.com/google-gemini/cookbook)
 
 - [GPT4V](https://openai.com/index/gpt-4v-system-card/)
