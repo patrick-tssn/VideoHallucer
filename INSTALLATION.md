@@ -139,22 +139,22 @@ To set up the environments, follow the instructions in the existing repositories
     - Checkpoints:
         - Source: [LLaVA-NeXT-Video-7B-DPO](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-7B-DPO), [LLaVA-NeXT-Video-34B-DPO](https://huggingface.co/lmms-lab/LLaVA-NeXT-Video-34B-DPO)
     - Structure:
-            ``` 
-                ├── checkpoints/PLLaVA
-                    └── LLaVA-NeXT-Video-7B-DPO
-                ├── checkpoints/PLLaVA
-                    └── LLaVA-NeXT-Video-34B-DPO
-            ```
+        ``` 
+            ├── checkpoints/PLLaVA
+                └── LLaVA-NeXT-Video-7B-DPO
+            ├── checkpoints/PLLaVA
+                └── LLaVA-NeXT-Video-34B-DPO
+        ```
 
 - [ShareGPT4Video](https://github.com/ShareGPT4Omni/ShareGPT4Video)
     - Installation: [Instruction](https://github.com/ShareGPT4Omni/ShareGPT4Video?tab=readme-ov-file#install)
     - Checkpoints:
         - Source: [sharegpt4video-8b](https://huggingface.co/Lin-Chen/sharegpt4video-8b)
     - Structure:
-            ``` 
-                ├── checkpoints/ShareGPT4Video
-                    └── sharegpt4video-8b
-            ```
+        ``` 
+            ├── checkpoints/ShareGPT4Video
+                └── sharegpt4video-8b
+        ```
 
 
 - [Gemini API](https://github.com/google-gemini/cookbook)
