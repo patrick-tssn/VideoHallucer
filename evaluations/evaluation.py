@@ -84,6 +84,10 @@ def load_model(TESTING_MODEL):
         from llavanext_modeling import LLaVANeXT
         ckpt_path = f"{CKPT_DIR}/LLaVA-NeXT-Video/LLaVA-NeXT-Video-34B-DPO"
         model = LLaVANeXT({"model_path": ckpt_path, "device": 0})
+    elif TESTING_MODEL == "ShareGPT4Video":
+        from sharegpt4video_modeling import ShareGPT4Video
+        ckpt_path = f"{CKPT_DIR}/ShareGPT4Video/sharegpt4video-8b"
+        model = ShareGPT4Video({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "Gemini-1.5-pro":
         from gemini_modeling import Gemini
         model = Gemini({"model_path": None, "device": 0})
@@ -107,7 +111,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str,
                         default="", 
-                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", 
+                        choices=["VideoChatGPT", "Valley2", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", "ShareGPT4Video",
                                  "Gemini-1.5-pro", "GPT4O",
                                  "LLaVA", "GPT4V", 
                                  "Video-LLaMA-2-13B", "LLaMA-VID-13B", "PLLaVA-13B", 

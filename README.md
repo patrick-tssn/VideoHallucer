@@ -2,9 +2,9 @@
 
 # VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models
 
-[![videohallucer-page](https://img.shields.io/badge/videohallucer-page-green)](https://videohallucer.github.io/)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)
-[![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
+[![videohallucer-page](https://img.shields.io/badge/videohallucer-page-blue)](https://videohallucer.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.16338-green.svg)](https://arxiv.org/abs/2406.16338)
+<!-- [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) --> 
 
 </div>
 
@@ -22,7 +22,8 @@
     - [Usage](#usage)
 - [Leaderboard](#leaderboard)
 
-*We are still refining our paper, and it may take up to two weeks from June 19th due to my current workload.*
+
+
 
 ## VideoHallucer
 
@@ -92,6 +93,10 @@ We offer a selection of case examples from our dataset for further elucidation:
 
 ## VideoHallucerKit 
 
+
+ *If you want to upload results from your models, feel free to submit a PR following one of these baselines, or send an email to me (flagwyx@gmail.com) to update your results on our page.*
+
+
 ### Installation
 
 
@@ -107,6 +112,7 @@ We offer a selection of case examples from our dataset for further elucidation:
 - MiniGPT4-Video-7B
 - PLLaVA-7B/13B/34B
 - LLaVA-NeXT-Video-DPO-DPO-7B/34B
+- ShareGPT4Video-8B
 - Gemini-1.5-pro
 - GPT4O (Azure)
 
@@ -131,6 +137,11 @@ cd baselines
 python ../evaluations/evaluation.py  --model_name Gemini-1.5-pro --eval_obj --eval_obj_rel --eval_temporal --eval_semantic --eval_fact --eval_nonfact
 ```
 
+evaluate "yes/no" bias
+```bash
+python ../evaluations/evaluation.py GPT4O Gemini-1.5-pro # ["VideoChatGPT", "Valley", "Video-LLaMA-2", "VideoChat2", "VideoLLaVA", "LLaMA-VID", "VideoLaVIT", "PLLaVA", "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video", "LLaVA-NeXT-Video-34B", "Gemini-1.5-pro", "GPT4O", "GPT4V", "LLaVA"]
+```
+
 
 
 ## Leaderboard
@@ -152,6 +163,7 @@ more detailed results see `baselines/results`
 |  LLaMA-VID    |   43.5   |  21    |  17   | 2.5 | 21 | 21 |
 |  VideoLaVIT    |  35.5    |  25.5    | 10.5     | 4 | 19 | 18.9 |
 |  VideoLLaVA    |   34.5   |  13.5    | 12    | 3 | 26 | 17.8 |
+|  ShareGPT4Video    |   16.5   |  39.5    | 8.5   | 0.5 | 14 | 15.8 |
 |  Video-LLaMA-2    | 18    | 7.5     | 1     | 6.5 | 17 | 10 |
 |  VideoChat2    |  10.5    | 7.5     | 9     | 7 | 0.5 | 7.8 |
 |  VideoChatGPT    |  6    |  0    | 2     | 7 | 17  | 6.4|
