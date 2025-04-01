@@ -1,0 +1,1491 @@
+[
+    {
+        "basic": {
+            "video": "0.mp4",
+            "question": "Doesn't the man on the sofa think this thin man is very brilliant?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "0.mp4",
+            "question": "Does the man on the sofa think this thin man is very brilliant?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "1.mp4",
+            "question": "Isn't this muscular man here to interfere with the gravity field?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "1.mp4",
+            "question": "Is this muscular man here to interfere with the gravity field?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "2.mp4",
+            "question": "Dosen't this short man stand on the coffee table?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "2.mp4",
+            "question": "Dose this short man stand on the coffee table?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "3.mp4",
+            "question": "Isn't this tall man honored to see the short man use his brain?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "3.mp4",
+            "question": "Is this tall man honored to see the short man use his brain?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "4.mp4",
+            "question": "Isn't there a garage sale on the coffee table now?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "4.mp4",
+            "question": "Is there a garage sale on the coffee table now?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "5.mp4",
+            "question": "Is this house someone's home?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "5.mp4",
+            "question": "Isn't this house anyone's home?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "6.mp4",
+            "question": "Does this tall man think it's difficult to move things upstairs?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "6.mp4",
+            "question": "Does the tall man think it's not difficult to move things upstairs?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "7.mp4",
+            "question": "Does this man not want this woman to come in?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "7.mp4",
+            "question": "Does this man really want the woman to come in?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "8.mp4",
+            "question": "Did this woman prepare a Christmas gift for Sheldon?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "8.mp4",
+            "question": "Didn't this woman prepare a Christmas gift for Sheldon?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "9.mp4",
+            "question": "Isn't this woman thanking this man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "9.mp4",
+            "question": "Is this woman thanking this man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "10.mp4",
+            "question": "Doesn't this short man think they should wash the neighbor's carpet today?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "10.mp4",
+            "question": "Does this short man think they should wash the neighbor's carpet today?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "11.mp4",
+            "question": "Doesn't this woman want to know what kind of doctor can remove shoes from asses?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "11.mp4",
+            "question": "Does this woman want to know what kind of doctor can remove shoes from asses?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "12.mp4",
+            "question": "Doesn't this man in red think running to neighbor's house to clean can cure insomnia?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "12.mp4",
+            "question": "Does this man in red think running to neighbor's house to clean can cure insomnia?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "13.mp4",
+            "question": "Does the girl with yellow hair dislike the girl on the phone?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "13.mp4",
+            "question": "Does the girl with yellow hair really love the girl on the phone?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "14.mp4",
+            "question": "Doesn't this tall man think this place is great?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "14.mp4",
+            "question": "Does this tall man think this place is great?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "15.mp4",
+            "question": "Does this skinny man think the teacher's Mandarin is bad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "15.mp4",
+            "question": "Does this skinny man think the teacher's Mandarin is good?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "16.mp4",
+            "question": "Won't this skinny man bother another billion people after learning Mandarin?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "16.mp4",
+            "question": "Will this skinny man bother another billion people after learning Mandarin?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "17.mp4",
+            "question": "Didn't this man eat poppy seeds this morning?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "17.mp4",
+            "question": "Did this man eat poppy seeds this morning?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "18.mp4",
+            "question": "Doesn't this man want to know more about this woman's mother?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "18.mp4",
+            "question": "Does this man want to know more about this woman's mother?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "19.mp4",
+            "question": "Doesn't the short sleeved woman want the long sleeved woman to be class president??",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "19.mp4",
+            "question": "Does the short sleeved woman want the long sleeved woman to be class president?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "20.mp4",
+            "question": "Is this course sarcasm 101?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "20.mp4",
+            "question": "Isn't this course sarcasm 101?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "21.mp4",
+            "question": "Doesn't this girl like British food?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "21.mp4",
+            "question": "Does this girl like British food?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "22.mp4",
+            "question": "Isn't this man thanking the person who occupied his parking space?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "22.mp4",
+            "question": "Is this man thanking the person who occupied his parking space?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "23.mp4",
+            "question": "Does the white man think this milk tastes bad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "23.mp4",
+            "question": "Does the white man think the milk tastes good?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "24.mp4",
+            "question": "Did the waiter get angry with the man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "24.mp4",
+            "question": "Did the waiter not get angry with the man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "25.mp4",
+            "question": "Doesn't this man feel sad about the experiences of the women and his father?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "25.mp4",
+            "question": "Does this man really feel sad about the experiences of the women and his father?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "26.mp4",
+            "question": "Isn't this man really grateful to this girl?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "26.mp4",
+            "question": "Is this man really grateful to this girl?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "27.mp4",
+            "question": "Is this woman unwilling to serve this man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "27.mp4",
+            "question": "Is this woman really willing to serve this man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "28.mp4",
+            "question": "Does the black haired girl dislike the horrible notes?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "28.mp4",
+            "question": "Does the black haired girl like horrible notes?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "29.mp4",
+            "question": "Doesn't this bespectacled man want to delete the Battlestar?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "29.mp4",
+            "question": "Does this bespectacled man want to delete the Battlestar?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "30.mp4",
+            "question": "Doesn't the man in black pants think taking the train is cool?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "30.mp4",
+            "question": "Does the man in black pants think taking the train is cool?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "31.mp4",
+            "question": "Does this man think the girl is not doing well?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "31.mp4",
+            "question": "Does this man think the girl is doing well?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "32.mp4",
+            "question": "Isn't Max here to help this man escape from prison?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "32.mp4",
+            "question": "Is Max here to help this man escape from prison?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "33.mp4",
+            "question": "Doesn't the old man feel like he's lived too long?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "33.mp4",
+            "question": "Does the old man feel like he's lived too long?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "34.mp4",
+            "question": "Doesn't the chubby girl want to visit the prison?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "34.mp4",
+            "question": "Does the chubby girl want to visit the prison?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "35.mp4",
+            "question": "Is this woman very emotional now?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "35.mp4",
+            "question": "Is this woman emotionally calm?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "36.mp4",
+            "question": "Is this woman in a yellow vest cooking now?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "36.mp4",
+            "question": "Is this woman This woman in a yellow vest developing pictures now?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "37.mp4",
+            "question": "Doesn't the man in red think the experiment is impressive?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "37.mp4",
+            "question": "Does the man in red think the experiment is impressive?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "38.mp4",
+            "question": "Didn't Sheldon forget something?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "38.mp4",
+            "question": "Did Sheldon forget something?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "39.mp4",
+            "question": "Doesn't the woman like watching naked women swim on New Year's Eve?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "39.mp4",
+            "question": "Does the woman like to watch naked women swimming on New Year's Eve?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "40.mp4",
+            "question": "Do women in dark clothes think they should give water to her mom?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "40.mp4",
+            "question": "Do women in dark clothes think they shouldn't give water to her mom?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "41.mp4",
+            "question": "Doesn't the woman in pink clothes want the person holding the wine glass to go to the corner?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "41.mp4",
+            "question": "Does the woman in pink clothes want the person holding the wine glass to go to the corner?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "42.mp4",
+            "question": "Isn\u2019t the woman in the middle changing the taste of cola?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "42.mp4",
+            "question": "Is the woman in the middle changing the taste of coke?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "43.mp4",
+            "question": "Does the man on the sofa think the drink is bad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "43.mp4",
+            "question": "Does the man on the sofa think the drink is good?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "44.mp4",
+            "question": "Does this white woman think this black woman's dress looks bad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "44.mp4",
+            "question": "Does this white woman think this black woman's dress looks good?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "45.mp4",
+            "question": "Does this long haired woman dislike this short haired woman?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "45.mp4",
+            "question": "Does this long haired woman like this short haired woman?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "46.mp4",
+            "question": "Did this student speak?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "46.mp4",
+            "question": "Did this student not speak?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "47.mp4",
+            "question": "Is this man unwilling to help this woman?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "47.mp4",
+            "question": "Is this man willing to help this woman?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "48.mp4",
+            "question": "Does the man dislike the coffee?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "48.mp4",
+            "question": "Does the man like the coffee?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "49.mp4",
+            "question": "Doesn't this man want to invite the girl to his apartment?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "49.mp4",
+            "question": "Does this man sincerely invite the girl to his apartment?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "50.mp4",
+            "question": "Is this woman's job not going smoothly?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "50.mp4",
+            "question": "Is this woman's job going smoothly?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "51.mp4",
+            "question": "Does the thin girl fail to finish her book report?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "51.mp4",
+            "question": "Does the thin girl finish the book report by herself?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "52.mp4",
+            "question": "Does Joey deny that he has the disease?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "52.mp4",
+            "question": "Does the woman in grenn try to comfort Joey because he has the disease?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "53.mp4",
+            "question": "Does the woman in green say these things out of reluctance?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "53.mp4",
+            "question": "Does the woman in green try lots of ways to entice Joey?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "54.mp4",
+            "question": "Does the woman feel worried about the trip?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "54.mp4",
+            "question": "Does the woman feel excited about the trip?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "55.mp4",
+            "question": "Does the woman want to talk to Truman?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "55.mp4",
+            "question": "Does the woman dislike Truman?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "56.mp4",
+            "question": "Is the woman scared of the man? ",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "56.mp4",
+            "question": "Does the woman show much scare before the man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "57.mp4",
+            "question": "Does the man's phone in airplane mode?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "57.mp4",
+            "question": "Does the two ladies satisfy the needs of everyone?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "58.mp4",
+            "question": "Does the fat woman get annoyed by the lady?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "58.mp4",
+            "question": "Is today Halloween?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "59.mp4",
+            "question": "Can the two ladies work well as a crew?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "59.mp4",
+            "question": "Will the two ladies feel their feet hurt?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "60.mp4",
+            "question": "Does the man thank him in embarrassment?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "60.mp4",
+            "question": "Does the man thank him for complimenting his tie?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "61.mp4",
+            "question": "Does Hansen mistake Nash as a waiter deliberately ?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "61.mp4",
+            "question": "Doesn't Hansen feel embarrased about what Nash said?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "62.mp4",
+            "question": "Isn't the man a lawyer sticking to justice?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "62.mp4",
+            "question": "Does the man not understand the old lady's question?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "63.mp4",
+            "question": "Doesn't the woman smile because she's happy for the man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "63.mp4",
+            "question": "Does everyone laugh because they think it's just a funny joke?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "64.mp4",
+            "question": "Does the man's son hate him lying?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "64.mp4",
+            "question": "Does the man's son hate him?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "65.mp4",
+            "question": "Does the old lady think the man is lying?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "65.mp4",
+            "question": "Is the man capable of lying today?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "66.mp4",
+            "question": "Does the man dislike his mother talking about his father?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "66.mp4",
+            "question": "Does the man think the question from the judge is good?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "67.mp4",
+            "question": "Does Jonh hurt himself in despair?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "67.mp4",
+            "question": "Does Jonh's roomate mean to hurt him?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "68.mp4",
+            "question": "Is Nash confident of winning at first?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "68.mp4",
+            "question": "Is Nash scared of playing a game of go against Martin?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "69.mp4",
+            "question": "Does Nash think classes are useless?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "69.mp4",
+            "question": "Do the others agree with Nash?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "70.mp4",
+            "question": "Is the woman the one lying? ",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "70.mp4",
+            "question": "Is the woman born a woman?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "71.mp4",
+            "question": "Didn't Martin stole his office from someone else?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "71.mp4",
+            "question": "Does Martin ignore what the man did?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "72.mp4",
+            "question": "Does the man in the middle see the man in the hat?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "72.mp4",
+            "question": "Do the people around see the man in the hat?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "73.mp4",
+            "question": "Is Martin surprised to see the man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "73.mp4",
+            "question": "Is Martin concerned about the man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "74.mp4",
+            "question": "Does the man recognize the woman upon seeing her?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "74.mp4",
+            "question": "Does the woman recognize the man upon seeing him?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "75.mp4",
+            "question": "Does the woman disbelieve the man's words?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "75.mp4",
+            "question": "Dose the older man appreciate the man's words?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "76.mp4",
+            "question": "Does the woman start to believe the man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "76.mp4",
+            "question": "Does the woman think the man is insane?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "77.mp4",
+            "question": "Does the woman feel excited about their engagement? ",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "77.mp4",
+            "question": "Does the man feel excited about their engagement?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "78.mp4",
+            "question": "Is the man unwilling to marry the woman?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "78.mp4",
+            "question": "Will the man marry the woman in the end?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "79.mp4",
+            "question": "Does Brad's suggestion help the man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "79.mp4",
+            "question": "Does Brad's suggestion confuse the man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "80.mp4",
+            "question": "Does the teacher feel sweaty and nervous?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "80.mp4",
+            "question": "Does the teacher know how to use'asi'?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "81.mp4",
+            "question": "Does the girl want to share her favorite food?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "81.mp4",
+            "question": "Does the teacher want to hear the girl's answer? ",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "82.mp4",
+            "question": "Does the second boy share his favorite food?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "82.mp4",
+            "question": "Does the teacher think it's yummy?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "83.mp4",
+            "question": "Does the man feel upset after the show?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "83.mp4",
+            "question": "Does the man feel happy after the show?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "84.mp4",
+            "question": "Does the woman cry because she saw the man?",
+            "answer": "yes"
+            
+        },
+        "hallucination": {
+            "video": "84.mp4",
+            "question": "Does the woman cry because she was hearing a sad story?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "85.mp4",
+            "question": "Does the woman think her husband is kind?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "85.mp4",
+            "question": "Isn't the man happy to hear that?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "86.mp4",
+            "question": "Doesn't this boy want to climb up the tree?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "86.mp4",
+            "question": "Does this boy have a rash?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "87.mp4",
+            "question": "Does this girl like to hear her father talk while he's drawing?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "87.mp4",
+            "question": "Does this girl just enjoy watching her father draw?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "88.mp4",
+            "question": "Does this boy want to apologize to the girl?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "88.mp4",
+            "question": "Dose this boy apologize to the girl?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "89.mp4",
+            "question": "Does this boy feel bad?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "89.mp4",
+            "question": "Is this boy glad?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "90.mp4",
+            "question": "Does this girl think this boy won't appreciate beauty?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "90.mp4",
+            "question": "Is this boy having some visual challenges?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "91.mp4",
+            "question": "Does this boy think this tree is ugly?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "91.mp4",
+            "question": "Does this boy think this tree is beautiful?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "92.mp4",
+            "question": "Is this boy mocking not wanting to associate with this girl?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "92.mp4",
+            "question": "Does this boy want to eat lima beans for the rest of life?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "93.mp4",
+            "question": "Doesn't this boy have feelings for this girl?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "93.mp4",
+            "question": "Does this boy have feelings for this girl?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "94.mp4",
+            "question": "Doesn't this boy's father need him to fix anything?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "94.mp4",
+            "question": "Does this boy's father need him to fix something?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "95.mp4",
+            "question": "Does this girl unilaterally pester boys every day?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "95.mp4",
+            "question": "Is this girl the boy's girlfriend?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "96.mp4",
+            "question": "Has this girl developed feelings for this boy?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "96.mp4",
+            "question": "Has this girl's heart stopped?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "97.mp4",
+            "question": "Is this girl fantasizing about kissing this boy?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "97.mp4",
+            "question": "Does this boy want to kiss this girl?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "98.mp4",
+            "question": "Is this man mocking his neighbor for drawing everywhere?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "98.mp4",
+            "question": "Does this man think his neighbor is a painter?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "99.mp4",
+            "question": "Dosen't this chubby man eat any high calorie foods?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "99.mp4",
+            "question": "Dose this chubby man eat some high calorie food?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "100.mp4",
+            "question": "Is this skinny man trying to gain weight?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "100.mp4",
+            "question": "Is this skinny man trying to lose weight?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "101.mp4",
+            "question": "Is this man mentioning the girl's mother because he doesn't want her to stay here?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "101.mp4",
+            "question": "Does this girl's mother want to know where the girl is?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "102.mp4",
+            "question": "Is this boy leaving to let the girl leave?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "102.mp4",
+            "question": "Does the boy need to help his mother now?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "103.mp4",
+            "question": "Is this boy holding hands with this gir?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "103.mp4",
+            "question": "Isn't this boy holding hands with this girl?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "104.mp4",
+            "question": "Are the judges mocking this woman's appearance?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "104.mp4",
+            "question": "Do the judges think this woman should act in the movie next door?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "105.mp4",
+            "question": "Do the judges just want to shoot something that superficially showcases women's bodies?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "105.mp4",
+            "question": "Do the judges ask this woman to take off her clothes because of the hot weather?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "106.mp4",
+            "question": "Does this pen pal want to live with this woman?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "106.mp4",
+            "question": "Does this pen pal want to sleep with this woman?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "107.mp4",
+            "question": "Is the person coming as a guest a man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "107.mp4",
+            "question": "Is the person coming as a guest a woman?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "108.mp4",
+            "question": "Is this woman mocking men for borrowing things and not returning?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "108.mp4",
+            "question": "Is this milk borrowed by this man three weeks ago?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "109.mp4",
+            "question": "Is this man named Argentina?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "109.mp4",
+            "question": "Is this man from Argentina?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "110.mp4",
+            "question": "Is this man pretending to exchange pleasantries?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "110.mp4",
+            "question": "Is this man sad because of the other person's departure?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "111.mp4",
+            "question": "Does this man know who will take ove?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "111.mp4",
+            "question": "Doesn't this man know who will take over?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "112.mp4",
+            "question": "Is Cinderella's stepmother just humiliating Cinderella??",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "112.mp4",
+            "question": "Will Cinderella's attendance at the ball bring shame to the royal family?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "113.mp4",
+            "question": "Are the two sisters laughing at Cinderella because no man looks up to her?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "113.mp4",
+            "question": "Has Cinderella never spoken to a man before?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "114.mp4",
+            "question": "Are the two sisters pretending to dance with the prince?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "114.mp4",
+            "question": "Are the two sisters dancing with the prince?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "115.mp4",
+            "question": "Do two sisters fantasize about bad things happening to each other?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "115.mp4",
+            "question": "Don't two sisters fantasize about bad things happening to each other?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "116.mp4",
+            "question": "Will people doubt this person's patriotism?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "116.mp4",
+            "question": "Will people not doubt this person's patriotism?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "117.mp4",
+            "question": "Is the speaker dissatisfied with the attendees?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "117.mp4",
+            "question": "Are the faces of the people in the meeting all fried in a skillet?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "118.mp4",
+            "question": "Is this man trying to provoke the man next to him to come forward and solve the problem?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "118.mp4",
+            "question": "Does this man really want to call someone to find a solution?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "119.mp4",
+            "question": "Does this woman think that men's bodies need to improve?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "119.mp4",
+            "question": "Doesn't this woman think that men's bodies need to improve?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "120.mp4",
+            "question": "Is this woman scolding this man?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "120.mp4",
+            "question": "Isn't this woman scolding this man?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "121.mp4",
+            "question": "Dose this man use that machine?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "121.mp4",
+            "question": "Dosen't this man use that machine?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "122.mp4",
+            "question": "Can the newly arrived man speak English?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "122.mp4",
+            "question": "Can\u2018t the newly arrived man speak English?",
+            "answer": "no"
+        }
+    },
+    {
+        "basic": {
+            "video": "123.mp4",
+            "question": "Can this man speak Englis?",
+            "answer": "yes"
+        },
+        "hallucination": {
+            "video": "123.mp4",
+            "question": "Can\u2018t this man speak English?",
+            "answer": "no"
+        }
+    }
+]

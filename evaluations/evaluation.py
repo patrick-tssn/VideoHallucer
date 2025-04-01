@@ -101,6 +101,9 @@ def load_model(TESTING_MODEL):
     elif TESTING_MODEL == "GPT4O":
         from gpt4o_modeling import GPT4O
         model = GPT4O({"model_path": None, "device": 0})
+    elif TESTING_MODEL == "VideoLLaMA2":
+        from videollama2_modeling import VideoLLaMA2
+        model = VideoLLaMA2({"model_path": f"{CKPT_DIR}/VideoLLaMA2.1-7B-AV", "device": 0})
         
 
     return model
@@ -115,7 +118,8 @@ def main():
                                  "Gemini-1.5-pro", "GPT4O",
                                  "LLaVA", "GPT4V", 
                                  "Video-LLaMA-2-13B", "LLaMA-VID-13B", "PLLaVA-13B", 
-                                 "PLLaVA-34B", "LLaVA-NeXT-Video-34B"])
+                                 "PLLaVA-34B", "LLaVA-NeXT-Video-34B",
+                                 "VideoLLaMA2"])
 
     parser.add_argument(
         "--output_dir_path", type=str, default="results",
@@ -140,6 +144,12 @@ def main():
         action="store_true",
         default=False,
         help="Whether to evaluate on other semantic detail hallucination.",
+    )
+    parser.add_argument(
+        "--eval_interaction",
+        action="store_true",
+        default=False,
+        help="Whether to evaluate on multimodal interaction hallucination.",
     )
     parser.add_argument(
         "--eval_fact",
@@ -192,6 +202,17 @@ def main():
         "--semantic_video_dir_path",
         type=str,
         default="semantic_detail/videos",
+    )
+    ## Interaction Dataset
+    parser.add_argument(
+        "--interaction_path",
+        type=str,
+        default="interaction/interaction.json",
+    )
+    parser.add_argument(
+        "--interaction_video_dir_path",
+        type=str,
+        default="interaction/videos",
     )
     ## External Fact Dataset
     parser.add_argument(
@@ -265,6 +286,17 @@ def main():
         )
         final_result["semantic"] = semantic_scores
     
+    if args.eval_interaction:
+        interaction_scores = evaluate(
+            model=model,
+            model_name=args.model_name,
+            qa_path=os.path.join(DATA_DIR, args.interaction_path),
+            qa_type='interaction',
+            video_dir_path=os.path.join(DATA_DIR, args.interaction_video_dir_path),
+            output_dir_path=args.output_dir_path   
+        )
+        final_result["interaction"] = interaction_scores
+    
     if args.eval_fact:
         fact_scores = evaluate(
             model=model,
@@ -321,12 +353,13 @@ def main():
         with open(eval_result_path, "w") as jp:
             json.dump(final_result, jp, indent=4)
         print("="*20)
+        print(args.model_name)
         print("Basic Accuracy: ", final_basic_acc)
         print("Hallucination Accuracy: ", final_halluc_acc)
         print("Final Accuracy: ", final_acc)
         if args.detect_fact:
             print("Fact Score: ", (final_basic_acc + final_halluc_acc)/2)
-        print("="*20)
+        # print("="*20)
 
 if __name__ == "__main__":
     main()

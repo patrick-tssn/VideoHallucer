@@ -20,7 +20,8 @@ parser.add_argument("--model_name", type=str,
                              "Gemini-1.5-pro", "GPT4O",
                              "LLaVA", "GPT4V", 
                              "Video-LLaMA-2-13B", "LLaMA-VID-13B", 
-                             "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video-34B"])
+                             "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video-34B",
+                             "VideoLLaMA2"])
 args = parser.parse_args()
 TESTING_MODEL=args.model_name
 
@@ -103,6 +104,9 @@ def load_model(TESTING_MODEL):
     elif TESTING_MODEL == "GPT4O":
         from gpt4o_modeling import GPT4O
         model = GPT4O({"model_path": None, "device": 0})
+    elif TESTING_MODEL == "VideoLLaMA2":
+        from videollama2_modeling import VideoLLaMA2
+        model = VideoLLaMA2({"model_path": f"{CKPT_DIR}/VideoLLaMA2.1-7B-AV", "device": 0})
 
     return model
 
@@ -113,6 +117,7 @@ pred = model.generate(
     instruction=instruction,
     video_path=video_path,
 )
+print('-'*20)
 print(f'Instruction:\t{instruction}')
 print(f'Answer:\t{pred}')
 print('-'*20)
