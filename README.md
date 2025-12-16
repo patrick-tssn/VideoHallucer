@@ -39,10 +39,12 @@ Recent advancements in Multimodal Large Language Models (MLLMs) have extended th
 
 | | Object-Relation Hallucination | Temporal Hallucination | Semantic Detail Hallucination | External Factual Hallucination | External Nonfactual Hallucination |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-|Questions | 400 | 400 | 400 | 400 | 400 |
+|Questions | 400 | 376* | 400 | 400 | 400 |
 |Videos | 183 | 165 | 400| 200 | 200 |
 
 The Extrinsic Factual Hallucination and Extrinsic Non-factual Hallucination share same videos and basic questions
+
+\* In October 2025 we removed some duplicate questions from the Temporal Hallucination task
 
 ### Data
 
